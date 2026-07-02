@@ -1,0 +1,1249 @@
+,order_id,order_date,customer_name,customer_email,product_category,product_name,quantity,unit_price,discount_percent,shipping_cost,region,payment_method,order_status,is_price_outlier,total_amount,order_size
+0,100810,2025-03-21,Mariam Khan,mariam.khan@hotmail.com,beauty,Sunscreen SPF50,1.0,17.45,0.0,11.08,west,paypal,completed,False,28.53,Small
+1,100489,2025-02-28,Maria Sheikh,maria.sheikh@hotmail.com,home and kitchen,Cookware Set,6.0,136.42,0.0,4.14,south,paypal,pending,False,822.66,Large
+2,100799,2025-06-14,Usman Smith,usman.smith@hotmail.com,electronics,Laptop Stand,4.0,24.44,0.0,6.07,north,debit card,completed,False,103.83000000000001,Small
+3,100680,2025-02-06,Omar Wilson,omar.wilson@gmail.com,clothing,Winter Coat,3.0,117.21,0.0,5.02,north,paypal,returned,False,356.65,Medium
+4,100898,2025-04-21,Zain Ali,zain.aligmail.com,beauty,Perfume 50ml,3.0,52.15,10.0,6.9,south,debit card,returned,False,147.705,Small
+5,100656,2025-03-13,Faisal Miller,faisal.miller@hotmail.com,sports and outdoors,Dumbbell Set,7.0,89.19,5.0,9.46,east,credit card,completed,False,602.5735,Large
+6,100978,2025-03-14,Amna Smith,amna.smith@hotmail.com,beauty,Shampoo 500ml,6.0,11.8,0.0,10.61,west,credit card,returned,False,81.41000000000001,Small
+7,100816,2025-02-23,Amna Sheikh,amna.sheikh@outlook.com,clothing,Cotton T-Shirt,5.0,16.94,0.0,6.63,west,paypal,returned,False,91.33,Small
+8,100518,2025-01-18,Kamran Ali,kamran.ali@gmail.com,electronics,Wireless Earbuds,4.0,38.83,0.0,3.87,east,credit card,completed,False,159.19,Small
+9,100228,2025-02-23,James Taylor,james.taylor@outlook.com,books,Atomic Habits,2.0,17.29,10.0,9.16,west,cash on delivery,returned,False,40.282,Small
+11,100132,2025-01-15,Fatima Wilson,fatima.wilson@gmail.com,clothing,Wool Sweater,1.0,45.05,0.0,9.85,south,cash on delivery,completed,False,54.9,Small
+12,100097,2025-05-30,Robert Johnson,robert.johnson@gmail.com,electronics,Wireless Earbuds,3.0,35.63,0.0,7.99,north,credit card,completed,False,114.88000000000001,Small
+13,100597,2025-04-05,John Davis,john.davis@yahoo.com,clothing,Denim Jacket,3.0,63.63,20.0,3.22,east,debit card,completed,False,155.93200000000002,Small
+14,100369,2025-06-06,Ayesha Sheikh,ayesha.sheikh@outlook.com,clothing,Formal Shirt,1.0,36.06,80.2,4.71,west,credit card,cancelled,False,11.849879999999999,Small
+15,100141,2025-06-03,Imran Johnson,imran.johnson@gmail.com,home and kitchen,Cookware Set,4.0,129.54,0.0,7.71,east,credit card,pending,False,525.87,Large
+16,100450,2025-06-26,James Iqbal,james.iqbal@gmail.com,electronics,Wireless Earbuds,7.0,38.53,0.0,7.67,south,paypal,returned,False,277.38000000000005,Medium
+18,101218,2025-01-15,Omar Ali,omar.ali@hotmail.com,books,The Pragmatic Programmer,3.0,36.25,0.0,9.04,east,paypal,cancelled,False,117.78999999999999,Small
+19,101173,2025-06-23,Fatima Malik,fatima.malik@hotmail.com,home and kitchen,Coffee Maker,5.0,67.44,0.0,7.06,north,debit card,cancelled,False,344.26,Medium
+20,101272,2025-05-02,John Ali,john.ali@gmail.com,electronics,4K Monitor,6.0,306.65,10.0,7.81,east,credit card,cancelled,False,1663.7199999999998,Large
+21,100630,2025-12-02,Sara Sheikh,sara.sheikh@outlook.com,electronics,Bluetooth Speaker,6.0,60.79,0.0,8.6,north,paypal,returned,False,373.34000000000003,Medium
+22,101263,2025-02-27,Sana Shah,sana.shah@yahoo.com,books,Atomic Habits,5.0,17.03,15.0,6.52,east,paypal,completed,False,78.8975,Small
+23,100071,2025-02-26,Sarah Ahmed,sarah.ahmed@yahoo.com,electronics,Bluetooth Speaker,4.0,60.08,0.0,9.47,north,credit card,pending,False,249.79,Medium
+24,100595,2025-03-05,Sara Malik,sara.malik@outlook.com,clothing,Cotton T-Shirt,5.0,16.09,0.0,8.29,west,cash on delivery,returned,False,88.74000000000001,Small
+25,100018,2025-05-17,Mariam Ali,mariam.ali@gmail.com,beauty,Makeup Kit,3.0,39.56,10.0,11.05,west,credit card,pending,False,117.86200000000001,Small
+26,100324,2025-07-04,Sara Ahmed,sara.ahmedyahoo.com,beauty,Makeup Kit,3.0,39.92,20.0,7.23,west,credit card,pending,False,103.03800000000001,Small
+27,100820,2025-01-23,Rabia Malik,rabia.malikoutlook.com,home and kitchen,Knife Set,4.0,38.78,0.0,2.25,west,paypal,pending,False,157.37,Small
+28,100547,2025-01-04,Robert Malik,robert.malik@hotmail.com,books,Deep Work,7.0,18.8,5.0,9.51,south,credit card,cancelled,False,134.52999999999997,Small
+30,100705,2025-04-03,Mariam Taylor,mariam.taylor@hotmail.com,sports and outdoors,Hiking Backpack,6.0,70.62,0.0,8.6,east,credit card,completed,False,432.32000000000005,Medium
+31,100558,2025-10-04,Omar Moore,omar.moore@gmail.com,sports and outdoors,Water Bottle,3.0,13.08,0.0,7.32,east,credit card,returned,False,46.56,Small
+32,100901,2025-04-28,Rabia Hussain,rabia.hussain@gmail.com,clothing,Formal Shirt,6.0,36.49,0.0,10.51,west,credit card,cancelled,False,229.45,Medium
+34,100300,2025-06-27,David Miller,david.miller@outlook.com,sports and outdoors,Hiking Backpack,2.0,67.07,0.0,6.77,west,cash on delivery,cancelled,False,140.91,Small
+35,101314,2025-04-05,Imran Iqbal,imran.iqbal@outlook.com,electronics,USB-C Hub,1.0,36.22,10.0,7.85,west,paypal,completed,False,40.448,Small
+36,100585,2025-05-10,Maria Moore,maria.moore@gmail.com,books,Atomic Habits,5.0,16.46,0.0,6.3,west,paypal,pending,False,88.60000000000001,Small
+37,100806,2025-05-05,Maria Iqbal,maria.iqbal@gmail.com,books,Sapiens,7.0,20.27,0.0,1.02,south,paypal,returned,False,142.91,Small
+38,101238,2025-02-11,Robert Anderson,robert.anderson@outlook.com,beauty,Shampoo 500ml,5.0,12.04,0.0,5.42,east,debit card,completed,False,65.61999999999999,Small
+39,100350,2025-03-11,Ayesha Sheikh,ayesha.sheikh@hotmail.com,electronics,USB-C Hub,-1.0,33.66,0.0,6.39,east,cash on delivery,completed,False,-27.269999999999996,Small
+40,100236,2025-07-05,Rabia Hussain,rabia.hussain@yahoo.com,beauty,Face Serum,7.0,20.32,0.0,5.25,west,paypal,cancelled,False,147.49,Small
+42,100009,2025-06-19,Ahmed Taylor,ahmed.taylor@outlook.com,clothing,Wool Sweater,2.0,44.4,0.0,9.29,south,cash on delivery,cancelled,False,98.09,Small
+43,100672,2025-05-22,Faisal Sheikh,faisal.sheikh@gmail.com,books,The Pragmatic Programmer,4.0,38.1,0.0,7.97,west,cash on delivery,completed,False,160.37,Small
+44,100642,2025-12-06,Hassan Butt,hassan.butt@yahoo.com,home and kitchen,Blender,5.0,52.56,10.0,11.39,south,debit card,cancelled,False,247.91000000000003,Medium
+45,100095,2025-05-31,Imran Sheikh,imran.sheikh@hotmail.com,electronics,Smart Watch,3.0,149.57,0.0,10.78,west,debit card,returned,False,459.48999999999995,Medium
+46,100684,2025-04-23,James Smith,james.smith@hotmail.com,electronics,Wireless Earbuds,4.0,40.19,0.0,10.3,east,cash on delivery,returned,False,171.06,Small
+48,100179,2025-01-23,Kamran Wilson,kamran.wilson@gmail.com,clothing,Cotton T-Shirt,4.0,15.18,0.0,6.91,east,paypal,returned,False,67.63,Small
+49,101286,2025-01-20,Omar Wilson,omar.wilson@yahoo.com,beauty,Shampoo 500ml,5.0,11.3,10.0,6.78,west,credit card,pending,False,57.63,Small
+50,100017,2025-06-01,Nida Taylor,nida.taylor@hotmail.com,books,Deep Work,7.0,0.01,5.0,3.63,west,credit card,returned,False,3.6965,Small
+51,100606,2025-05-24,Michael Ali,michael.ali@yahoo.com,beauty,Makeup Kit,2.0,40.54,0.0,8.51,north,credit card,returned,False,89.59,Small
+52,100394,2025-03-01,Mariam Hussain,mariam.hussain@hotmail.com,electronics,Smart Watch,1.0,151.1,0.0,9.25,north,credit card,completed,False,160.35,Small
+53,101279,2025-06-03,Zainab Brown,zainab.brown@gmail.com,books,Deep Work,8.0,16.85,0.0,11.97,south,paypal,returned,False,146.77,Small
+54,101073,2025-04-18,Nida Hussain,nida.hussain@gmail.com,electronics,Bluetooth Speaker,4.0,63.0,20.0,8.26,west,credit card,pending,False,209.86,Medium
+55,100063,2025-02-01,Emily Hussain,emily.hussain@yahoo.com,books,Sapiens,6.0,18.62,0.0,13.17,east,paypal,cancelled,False,124.89,Small
+56,101086,2025-05-14,Usman Butt,usman.butt@outlook.com,clothing,Cotton T-Shirt,4.0,14.74,10.0,4.72,south,cash on delivery,returned,False,57.784,Small
+57,101117,2025-02-28,John Brown,john.brown@gmail.com,sports and outdoors,Camping Tent,4.0,143.95,0.0,-0.11,east,paypal,completed,False,575.6899999999999,Large
+58,101291,2025-05-16,Sana Hussain,sana.hussain@yahoo.com,electronics,Wireless Earbuds,5.0,37.57,0.0,9.21,north,cash on delivery,cancelled,False,197.06,Small
+59,100791,2025-05-02,Faisal Raza,faisal.raza@hotmail.com,books,Python Crash Course,1.0,29.82,0.0,6.94,north,cash on delivery,completed,False,36.76,Small
+60,100977,2025-01-23,Amna Brown,amna.brown@hotmail.com,clothing,Cotton T-Shirt,5.0,15.59,0.0,3.95,east,paypal,cancelled,False,81.9,Small
+61,100933,2025-06-14,Rabia Moore,rabia.moore@outlook.com,books,Sapiens,2.0,20.55,0.0,9.72,east,paypal,pending,False,50.82,Small
+63,101139,2025-02-05,Amna Davis,amna.davis@gmail.com,home and kitchen,Air Fryer,3.0,90.6,0.0,8.02,south,debit card,pending,False,279.81999999999994,Medium
+64,100313,2025-06-30,Omar Johnson,omar.johnson@outlook.com,sports and outdoors,Camping Tent,3.0,150.71,0.0,12.94,east,paypal,cancelled,False,465.07,Medium
+65,100118,2025-01-14,Bilal Hussain,bilal.hussain@yahoo.com,sports and outdoors,Water Bottle,8.0,13.95,5.0,10.54,east,credit card,pending,False,116.56,Small
+66,100013,2025-07-02,Anna Sheikh,anna.sheikh@outlook.com,beauty,Perfume 50ml,3.0,56.49,5.0,6.17,south,paypal,pending,False,167.16649999999998,Small
+67,100021,2025-04-27,Emily Smith,emily.smith@gmail.com,sports and outdoors,Water Bottle,3.0,13.12,0.0,8.92,east,cash on delivery,returned,False,48.28,Small
+68,101182,2025-03-31,Nida Butt,nida.butt@outlook.com,beauty,Sunscreen SPF50,6.0,16.83,0.0,9.71,north,debit card,cancelled,False,110.69,Small
+69,100186,2025-03-21,Kamran Iqbal,kamran.iqbal@outlook.com,electronics,Smart Watch,-3.0,154.96,10.0,9.67,north,cash on delivery,returned,False,-408.722,Small
+70,100562,2025-06-08,Faisal Malik,faisal.malik@gmail.com,clothing,Wool Sweater,2.0,43.55,0.0,6.39,south,credit card,completed,False,93.49,Small
+71,100777,2025-05-27,Kamran Smith,kamran.smith@gmail.com,electronics,Smart Watch,3.0,157.49,10.0,3.34,east,cash on delivery,completed,False,428.563,Medium
+72,100348,2025-01-25,Robert Ahmed,robert.ahmed@gmail.com,books,Deep Work,1.0,19.75,10.0,5.14,west,paypal,completed,False,22.915000000000003,Small
+73,100972,2025-04-21,Robert Khan,robert.khan@outlook.com,electronics,Webcam HD,6.0,50.33,10.0,1.29,east,credit card,returned,False,273.07200000000006,Medium
+74,101027,2025-06-22,Kamran Wilson,kamran.wilson@yahoo.com,electronics,Smart Watch,-3.0,140.55,65.6,4.67,west,paypal,pending,False,-140.37760000000006,Small
+75,100740,2025-04-02,Robert Shah,robert.shah@yahoo.com,beauty,Shampoo 500ml,5.0,12.0,0.0,6.05,south,cash on delivery,completed,False,66.05,Small
+76,100043,2025-04-06,Sarah Smith,sarah.smith@gmail.com,beauty,Face Serum,5.0,21.92,0.0,3.87,north,paypal,completed,False,113.47000000000001,Small
+77,100467,2025-03-06,Emily Ahmed,emily.ahmed@outlook.com,books,Atomic Habits,8.0,17.48,0.0,11.55,east,debit card,completed,False,151.39000000000001,Small
+78,101039,2025-02-16,Nida Smith,nida.smith@hotmail.com,books,The Pragmatic Programmer,7.0,33.82,76.6,4.25,north,credit card,returned,False,59.64716000000003,Small
+79,100415,2025-01-14,Hina Ahmed,hina.ahmed@outlook.com,home and kitchen,Cookware Set,8.0,140.08,10.0,5.0,south,credit card,pending,False,1013.5760000000001,Large
+80,100111,2025-10-06,Sana Sheikh,sana.sheikh@gmail.com,electronics,Webcam HD,4.0,43.29,10.0,12.53,south,debit card,cancelled,False,168.374,Small
+81,100285,2025-05-06,Bilal Hussain,bilal.hussain@gmail.com,home and kitchen,Blender,6.0,49.76,0.0,11.39,west,paypal,cancelled,False,309.95,Medium
+82,100412,2025-06-22,Omar Miller,omar.miller@gmail.com,beauty,Makeup Kit,8.0,37.62,0.0,1.15,south,cash on delivery,pending,False,302.10999999999996,Medium
+83,101010,2025-03-13,David Raza,david.raza@hotmail.com,clothing,Denim Jacket,2.0,62.2,0.0,5.48,south,credit card,pending,False,129.88,Small
+84,100146,2025-02-24,Amna Taylor,amna.taylor@outlook.com,beauty,Perfume 50ml,4.0,56.3,10.0,2.51,west,credit card,completed,False,205.19,Medium
+85,100410,2025-01-31,Imran Malik,imran.malik@yahoo.com,electronics,Smart Watch,8.0,155.45,15.0,9.68,west,paypal,pending,False,1066.74,Large
+87,100712,2025-03-20,Faisal Ali,faisal.ali@yahoo.com,books,Sapiens,8.0,19.61,20.0,5.6,north,paypal,cancelled,False,131.104,Small
+88,101130,2025-03-18,John Ali,john.ali@outlook.com,sports and outdoors,Dumbbell Set,3.0,86.41,0.0,9.75,west,cash on delivery,cancelled,False,268.98,Medium
+89,100946,2025-02-28,Hassan Thomas,hassan.thomas@gmail.com,home and kitchen,Blender,7.0,51.22,0.0,12.09,east,cash on delivery,completed,False,370.62999999999994,Medium
+91,100638,2025-02-12,Anna Shah,anna.shah@yahoo.com,clothing,Winter Coat,8.0,119.59,20.0,9.53,south,credit card,pending,False,774.9060000000001,Large
+93,100658,2025-04-11,Maria Hussain,maria.hussain@yahoo.com,electronics,USB-C Hub,3.0,36.38,0.0,7.08,west,debit card,returned,False,116.22000000000001,Small
+94,100752,2025-07-01,Usman Anderson,usman.anderson@yahoo.com,electronics,Laptop Stand,1.0,25.83,0.0,-11.1,north,debit card,pending,False,14.729999999999999,Small
+95,100034,2025-01-30,Kamran Brown,kamran.brown@gmail.com,books,Python Crash Course,5.0,0.01,5.0,5.2,west,paypal,returned,True,5.2475000000000005,Small
+96,100867,2025-04-25,Fatima Ali,fatima.ali@gmail.com,books,Deep Work,7.0,18.47,10.0,318.23,east,credit card,pending,False,434.591,Medium
+97,100473,2025-01-18,Sana Ahmed,sana.ahmed@yahoo.com,clothing,Running Shoes,4.0,80.38,0.0,8.47,south,debit card,pending,False,329.99,Medium
+98,100098,2025-01-06,Laura Moore,laura.moore@gmail.com,beauty,Perfume 50ml,4.0,54.71,0.0,8.46,east,cash on delivery,returned,False,227.3,Medium
+99,100351,2025-02-18,Fatima Raza,fatima.raza@hotmail.com,electronics,Laptop Stand,7.0,25.67,10.0,9.31,east,paypal,cancelled,False,171.031,Small
+100,100829,2025-01-04,Laura Malik,laura.malik@gmail.com,electronics,Wireless Earbuds,5.0,39.79,0.0,8.32,south,credit card,cancelled,False,207.26999999999998,Medium
+101,100926,2025-04-15,Anna Shah,anna.shah@gmail.com,sports and outdoors,Cycling Helmet,3.0,46.24,5.0,9.4,north,debit card,pending,False,141.184,Small
+102,101265,2025-05-26,Omar Malik,omar.malik@hotmail.com,clothing,Winter Coat,2.0,124.32,0.0,7.49,north,debit card,completed,False,256.13,Medium
+103,101355,2025-04-03,Michael Khan,michael.khan@yahoo.com,clothing,Formal Shirt,3.0,35.72,10.0,7.78,south,cash on delivery,cancelled,False,104.224,Small
+104,100511,2025-04-17,Robert Moore,robert.moore@yahoo.com,books,Atomic Habits,7.0,17.25,0.0,4.51,north,credit card,pending,False,125.26,Small
+105,100033,2025-06-25,Fatima Shah,fatima.shah@gmail.com,sports and outdoors,Hiking Backpack,2.0,70.25,0.0,5.35,east,credit card,returned,False,145.85,Small
+106,100249,2025-02-22,Robert Butt,robert.butt@gmail.com,books,Python Crash Course,5.0,30.23,0.0,10.42,west,credit card,completed,False,161.57,Small
+108,100363,2025-02-27,Sana Ali,sana.ali@gmail.com,electronics,Bluetooth Speaker,4.0,60.18,10.0,6.78,north,cash on delivery,pending,False,223.428,Medium
+109,100328,2025-05-26,Sana Malik,sana.malik@outlook.com,sports and outdoors,Yoga Mat,2.0,26.37,5.0,3.75,east,credit card,completed,False,53.853,Small
+110,100325,2025-02-24,Faisal Wilson,faisal.wilson@hotmail.com,sports and outdoors,Dumbbell Set,5.0,86.65,0.0,8.1,east,credit card,completed,False,441.35,Medium
+111,100197,2025-08-05,Emily Moore,emily.moore@hotmail.com,home and kitchen,Blender,4.0,57.01,15.0,12.31,east,credit card,completed,False,206.14399999999998,Medium
+112,100058,2025-02-03,John Sheikh,john.sheikh@hotmail.com,books,Atomic Habits,5.0,15.95,20.0,8.52,north,debit card,returned,False,72.32000000000001,Small
+113,101088,2025-05-30,Usman Ahmed,usman.ahmed@hotmail.com,electronics,USB-C Hub,4.0,35.68,0.0,7.88,south,credit card,completed,False,150.6,Small
+114,100660,2025-01-29,Hina Thomas,hina.thomas@gmail.com,electronics,Bluetooth Speaker,6.0,62.3,0.0,8.47,south,credit card,completed,False,382.27,Medium
+115,100024,2025-01-19,Rabia Malik,rabia.malik@yahoo.com,books,Deep Work,1.0,17.91,0.0,9.31,north,paypal,pending,False,27.22,Small
+116,100110,2025-04-16,Ahmed Taylor,ahmed.taylor@hotmail.com,beauty,Face Serum,5.0,23.83,15.0,7.8,west,debit card,pending,False,109.07749999999999,Small
+117,100015,2025-06-06,Bilal Khan,bilal.khan@gmail.com,sports and outdoors,Cycling Helmet,4.0,45.25,0.0,10.61,south,debit card,pending,False,191.61,Small
+118,100602,2025-10-03,Mariam Smith,mariam.smith@hotmail.com,clothing,Formal Shirt,-1.0,34.92,0.0,7.09,west,paypal,completed,False,-27.830000000000002,Small
+119,100294,2025-04-09,Mariam Taylor,mariam.taylor@hotmail.com,home and kitchen,Vacuum Cleaner,2.0,162.62,5.0,2.32,west,credit card,returned,False,311.298,Medium
+120,101288,2025-02-28,Laura Shah,laura.shah@outlook.com,clothing,Running Shoes,6.0,1337.71,89.7,9.25,west,credit card,pending,False,835.9547799999999,Large
+121,100683,2025-06-06,Sarah Brown,sarah.brown@hotmail.com,clothing,Winter Coat,8.0,114.02,0.0,9.49,north,debit card,completed,False,921.65,Large
+122,100101,2025-01-04,Bilal Ali,bilal.ali@hotmail.com,electronics,Bluetooth Speaker,6.0,54.72,0.0,13.18,east,credit card,completed,False,341.5,Medium
+123,100830,2025-02-12,Ahmed Ahmed,ahmed.ahmed@hotmail.com,clothing,Formal Shirt,4.0,36.47,0.0,7.99,north,cash on delivery,completed,False,153.87,Small
+124,100172,2025-01-08,Sara Iqbal,sara.iqbal@hotmail.com,electronics,Laptop Stand,1.0,25.53,0.0,9.4,west,paypal,returned,False,34.93,Small
+125,100927,2025-05-18,James Anderson,james.anderson@yahoo.com,books,The Pragmatic Programmer,6.0,33.22,0.0,6.02,south,cash on delivery,cancelled,False,205.34,Medium
+126,100005,2025-03-13,Nida Ahmed,nida.ahmed@yahoo.com,clothing,Running Shoes,8.0,83.01,0.0,8.18,east,debit card,completed,False,672.26,Large
+127,101085,2025-02-11,Kamran Malik,kamran.malik@yahoo.com,books,Atomic Habits,2.0,16.44,0.0,5.37,west,credit card,cancelled,False,38.25,Small
+128,101324,2025-05-03,Emily Wilson,emily.wilson@yahoo.com,home and kitchen,Blender,8.0,54.24,15.0,8.89,east,credit card,pending,False,377.722,Medium
+129,101145,2025-05-28,Zain Johnson,zain.johnson@outlook.com,home and kitchen,Cookware Set,1.0,125.76,5.0,7.15,east,debit card,completed,False,126.622,Small
+130,100782,2025-06-11,Zain Brown,zain.brown@gmail.com,sports and outdoors,Dumbbell Set,5.0,85.63,0.0,5.92,west,paypal,completed,False,434.07,Medium
+131,100416,2025-10-05,Mariam Anderson,mariam.anderson@gmail.com,electronics,Laptop Stand,8.0,27.09,0.0,11.13,west,credit card,returned,False,227.85,Medium
+132,100099,2025-01-22,Omar Khan,omar.khan@outlook.com,home and kitchen,Blender,1.0,49.8,0.0,7.29,south,debit card,pending,False,57.089999999999996,Small
+133,100318,2025-06-14,James Brown,james.brown@yahoo.com,home and kitchen,Vacuum Cleaner,3.0,162.68,20.0,9.15,south,credit card,completed,False,399.582,Medium
+134,100046,2025-06-15,Omar Ali,omar.ali@outlook.com,electronics,USB-C Hub,3.0,38.48,0.0,9.24,west,cash on delivery,completed,False,124.67999999999999,Small
+135,101104,2025-05-24,Kamran Taylor,kamran.taylor@outlook.com,clothing,Running Shoes,5.0,80.54,0.0,10.59,west,credit card,cancelled,False,413.29,Medium
+136,101332,2025-03-22,Amna Hussain,amna.hussain@hotmail.com,books,The Pragmatic Programmer,5.0,34.56,10.0,4.24,south,cash on delivery,pending,False,159.76000000000002,Small
+137,100771,2025-04-15,Anna Taylor,anna.taylor@yahoo.com,sports and outdoors,Cycling Helmet,1.0,45.58,10.0,8.84,south,cash on delivery,returned,False,49.861999999999995,Small
+138,101127,2025-06-29,Omar Taylor,omar.taylor@outlook.com,home and kitchen,Air Fryer,6.0,86.98,0.0,9.28,east,debit card,pending,False,531.16,Large
+139,100586,2025-08-02,James Shah,james.shah@gmail.com,electronics,Bluetooth Speaker,2.0,63.29,0.0,13.13,west,cash on delivery,pending,False,139.71,Small
+140,100885,2025-05-20,Faisal Davis,faisal.davis@hotmail.com,clothing,Formal Shirt,1.0,37.24,0.0,7.94,north,debit card,pending,False,45.18,Small
+141,100038,2025-02-04,Fatima Davis,fatima.davis@hotmail.com,sports and outdoors,Water Bottle,3.0,13.24,0.0,6.9,east,cash on delivery,completed,False,46.62,Small
+142,100755,2025-01-23,Rabia Davis,rabia.davis@outlook.com,beauty,Sunscreen SPF50,3.0,15.36,0.0,7.42,east,cash on delivery,cancelled,False,53.5,Small
+143,100113,2025-03-18,Sara Brown,sara.brown@yahoo.com,beauty,Sunscreen SPF50,7.0,16.02,0.0,5.99,west,paypal,completed,False,118.13,Small
+144,100051,2025-04-28,Laura Ali,laura.ali@gmail.com,books,Sapiens,6.0,19.5,0.0,8.84,east,credit card,completed,False,125.84,Small
+145,100760,2025-06-04,Maria Anderson,maria.anderson@outlook.com,sports and outdoors,Dumbbell Set,8.0,84.24,0.0,6.36,south,cash on delivery,completed,False,680.28,Large
+147,100503,2025-03-08,Maria Raza,maria.raza@gmail.com,clothing,Running Shoes,-3.0,79.82,0.0,8.4,west,debit card,pending,False,-231.05999999999997,Small
+148,100707,2025-05-09,Laura Butt,laura.butt@gmail.com,sports and outdoors,Dumbbell Set,1.0,90.47,10.0,10.32,south,cash on delivery,returned,False,91.743,Small
+149,100210,2025-06-23,Nida Malik,nida.malik@yahoo.com,clothing,Winter Coat,4.0,120.18,0.0,6.14,south,cash on delivery,pending,False,486.86,Medium
+151,100492,2025-06-09,Ayesha Johnson,ayesha.johnson@gmail.com,electronics,USB-C Hub,1.0,34.66,0.0,14.29,east,credit card,returned,False,48.949999999999996,Small
+152,100510,2025-01-01,Hassan Davis,hassan.davis@outlook.com,beauty,Perfume 50ml,3.0,49.12,0.0,9.67,south,debit card,returned,False,157.02999999999997,Small
+153,101044,2025-04-28,Omar Taylor,omar.taylor@gmail.com,books,Python Crash Course,1.0,30.07,0.0,6.42,east,credit card,pending,False,36.49,Small
+154,101106,2025-01-25,Rabia Ali,rabia.ali@gmail.com,books,The Pragmatic Programmer,2.0,36.34,0.0,7.06,east,credit card,completed,False,79.74000000000001,Small
+155,100986,2025-01-01,Hassan Smith,hassan.smith@yahoo.com,clothing,Formal Shirt,7.0,30.59,0.0,4.95,west,cash on delivery,pending,False,219.07999999999998,Medium
+156,101350,2025-01-29,Zainab Khan,zainab.khan@outlook.com,electronics,Smart Watch,2.0,152.98,5.0,9.72,north,cash on delivery,cancelled,False,300.382,Medium
+157,101082,2025-12-03,Zain Ahmed,zain.ahmedgmail.com,home and kitchen,Cookware Set,6.0,121.22,10.0,9.31,north,paypal,pending,False,663.8979999999999,Large
+158,101124,2025-05-07,Fatima Johnson,fatima.johnson@yahoo.com,clothing,Winter Coat,6.0,119.94,0.0,9.88,east,cash on delivery,pending,False,729.52,Large
+159,100817,2025-03-24,Mariam Raza,mariam.raza@hotmail.com,beauty,Shampoo 500ml,3.0,12.45,10.0,6.39,south,cash on delivery,cancelled,False,40.004999999999995,Small
+160,100207,2025-04-17,Kamran Taylor,kamran.taylor@hotmail.com,sports and outdoors,Dumbbell Set,3.0,83.58,5.0,5.58,south,credit card,completed,False,243.78300000000002,Medium
+161,100185,2025-08-02,Emily Thomas,emily.thomas@gmail.com,home and kitchen,Knife Set,1.0,40.4,0.0,10.12,west,credit card,cancelled,False,50.519999999999996,Small
+162,100020,2025-08-01,John Miller,john.miller@outlook.com,clothing,Formal Shirt,6.0,0.01,0.0,7.0,west,debit card,returned,True,7.06,Small
+163,100377,2025-03-14,Maria Iqbal,maria.iqbal@yahoo.com,clothing,Cotton T-Shirt,2.0,16.32,0.0,-7.27,west,credit card,cancelled,False,25.37,Small
+164,100462,2025-06-11,Ali Butt,ali.butt@gmail.com,sports and outdoors,Camping Tent,2.0,148.76,0.0,8.28,north,credit card,pending,False,305.79999999999995,Medium
+165,100611,2025-01-30,Hina Hussain,hina.hussain@yahoo.com,books,The Pragmatic Programmer,3.0,1386.52,15.0,10.24,north,credit card,completed,True,3545.865999999999,Large
+166,100259,2025-04-15,Ayesha Smith,ayesha.smith@outlook.com,sports and outdoors,Yoga Mat,4.0,25.49,0.0,6.33,north,cash on delivery,pending,False,108.28999999999999,Small
+167,100825,2025-05-28,Amna Wilson,amna.wilson@hotmail.com,books,The Pragmatic Programmer,4.0,35.56,15.0,5.28,west,debit card,completed,False,126.18400000000001,Small
+168,101306,2025-06-17,Ali Johnson,ali.johnson@gmail.com,beauty,Perfume 50ml,2.0,55.88,0.0,4.7,south,cash on delivery,returned,False,116.46000000000001,Small
+170,100797,2025-11-05,Zainab Anderson,zainab.anderson@gmail.com,sports and outdoors,Dumbbell Set,3.0,81.17,0.0,3.02,north,debit card,completed,False,246.53,Medium
+171,100655,2025-02-04,Sara Shah,sara.shah@outlook.com,home and kitchen,Cookware Set,6.0,131.06,0.0,7.19,east,paypal,completed,False,793.5500000000001,Large
+173,100833,2025-02-04,James Smith,james.smith@hotmail.com,books,The Pragmatic Programmer,6.0,34.78,15.0,6.36,east,credit card,cancelled,False,183.73800000000003,Small
+174,100918,2025-04-15,Robert Davis,robert.davis@outlook.com,clothing,Denim Jacket,5.0,61.16,0.0,3.14,west,credit card,completed,False,308.93999999999994,Medium
+175,100650,2025-07-02,Zain Anderson,zain.anderson@yahoo.com,clothing,Wool Sweater,2.0,40.93,5.0,-5.27,east,cash on delivery,completed,False,72.497,Small
+176,101137,2025-03-31,Sara Ahmed,sara.ahmed@gmail.com,electronics,Wireless Earbuds,8.0,40.25,10.0,4.68,east,credit card,completed,False,294.48,Medium
+177,100389,2025-02-23,Maria Hussain,maria.hussain@yahoo.com,clothing,Running Shoes,7.0,78.97,5.0,5.04,south,paypal,pending,False,530.1904999999999,Large
+178,100943,2025-04-20,Ayesha Moore,ayesha.moore@outlook.com,clothing,Wool Sweater,2.0,44.73,20.0,13.77,west,paypal,pending,False,85.338,Small
+179,101232,2025-06-19,Sarah Ali,sarah.ali@outlook.com,sports and outdoors,Yoga Mat,2.0,24.0,0.0,7.5,west,credit card,pending,False,55.5,Small
+180,100128,2025-04-28,Sara Shah,sara.shah@hotmail.com,beauty,Face Serum,2.0,22.46,0.0,8.47,south,credit card,pending,False,53.39,Small
+181,100252,2025-05-11,Faisal Raza,faisal.raza@hotmail.com,beauty,Perfume 50ml,7.0,0.01,10.0,13.39,west,paypal,completed,True,13.453000000000001,Small
+182,100633,2025-09-05,Sara Ahmed,sara.ahmed@gmail.com,home and kitchen,Blender,8.0,49.28,0.0,8.67,east,cash on delivery,completed,False,402.91,Medium
+183,100002,2025-05-23,Maria Khan,maria.khan@gmail.com,sports and outdoors,Yoga Mat,8.0,26.37,20.0,8.23,west,credit card,returned,False,176.99800000000002,Small
+186,100883,2025-06-01,Robert Brown,robert.brown@hotmail.com,books,The Pragmatic Programmer,2.0,34.09,0.0,15.18,north,cash on delivery,pending,False,83.36000000000001,Small
+187,100241,2025-01-15,Faisal Wilson,faisal.wilson@gmail.com,beauty,Makeup Kit,4.0,41.39,10.0,7.96,north,paypal,returned,False,156.96400000000003,Small
+188,100531,2025-01-22,Imran Butt,imran.butt@gmail.com,home and kitchen,Air Fryer,2.0,83.65,0.0,5.81,east,credit card,completed,False,173.11,Small
+189,101046,2025-02-22,Faisal Moore,faisal.moore@gmail.com,books,Atomic Habits,-1.0,17.45,0.0,7.43,east,credit card,completed,False,-10.02,Small
+190,101179,2025-01-15,Ayesha Raza,ayesha.raza@outlook.com,beauty,Perfume 50ml,2.0,57.36,10.0,8.53,south,credit card,pending,False,111.778,Small
+191,100651,2025-03-28,Ayesha Iqbal,ayesha.iqbal@hotmail.com,clothing,Running Shoes,5.0,76.51,0.0,8.17,south,debit card,returned,False,390.72,Medium
+192,101334,2025-03-15,Usman Wilson,usman.wilson@yahoo.com,clothing,Running Shoes,4.0,88.94,5.0,288.51,west,cash on delivery,cancelled,False,626.482,Large
+194,101342,2025-04-22,Laura Smith,laura.smith@hotmail.com,sports and outdoors,Dumbbell Set,5.0,89.23,0.0,-4.33,west,cash on delivery,completed,False,441.82000000000005,Medium
+195,100151,2025-03-22,Sana Shah,sana.shah@outlook.com,books,Sapiens,5.0,21.06,0.0,11.34,south,cash on delivery,pending,False,116.64,Small
+196,100340,2025-04-06,Usman Hussain,usman.hussain@outlook.com,beauty,Makeup Kit,3.0,37.9,5.0,8.16,south,paypal,returned,False,116.17499999999998,Small
+197,100880,2025-01-01,Zainab Thomas,zainab.thomas@yahoo.com,sports and outdoors,Dumbbell Set,8.0,92.98,5.0,9.77,north,cash on delivery,pending,False,716.418,Large
+198,101165,2025-06-18,John Raza,john.raza@hotmail.com,books,Deep Work,2.0,19.94,0.0,7.31,west,paypal,cancelled,False,47.190000000000005,Small
+199,100673,2025-01-08,Laura Thomas,laura.thomas@gmail.com,beauty,Perfume 50ml,4.0,59.36,0.0,7.92,south,paypal,pending,False,245.35999999999999,Medium
+200,100548,2025-06-20,Maria Malik,maria.malik@outlook.com,sports and outdoors,Hiking Backpack,6.0,61.54,0.0,3.52,south,credit card,completed,False,372.76,Medium
+201,100409,2025-02-03,Rabia Iqbal,rabia.iqbal@gmail.com,home and kitchen,Vacuum Cleaner,3.0,166.25,0.0,9.57,north,paypal,returned,False,508.32,Large
+202,100108,2025-03-28,Fatima Taylor,fatima.taylor@yahoo.com,electronics,Wireless Earbuds,7.0,37.63,5.0,7.43,north,cash on delivery,completed,False,257.6695,Medium
+203,100666,2025-02-25,Rabia Davis,rabia.davis@yahoo.com,clothing,Winter Coat,2.0,125.78,5.0,8.47,south,paypal,pending,False,247.452,Medium
+204,100746,2025-05-14,David Anderson,david.anderson@gmail.com,books,The Pragmatic Programmer,6.0,33.37,0.0,7.88,south,cash on delivery,pending,False,208.09999999999997,Medium
+205,100432,2025-06-04,James Moore,james.moore@yahoo.com,clothing,Cotton T-Shirt,7.0,14.66,5.0,1.61,south,cash on delivery,completed,False,99.099,Small
+206,100346,2025-07-02,David Sheikh,david.sheikh@gmail.com,beauty,Makeup Kit,6.0,38.99,0.0,6.42,south,paypal,completed,False,240.35999999999999,Medium
+207,100275,2025-05-28,Sana Iqbal,sana.iqbal@hotmail.com,books,Sapiens,4.0,19.49,0.0,8.93,west,debit card,completed,False,86.88999999999999,Small
+208,100652,2025-10-06,Bilal Thomas,bilal.thomas@gmail.com,home and kitchen,Air Fryer,2.0,91.09,0.0,6.04,east,debit card,returned,False,188.22,Small
+209,100360,2025-01-17,Hina Smith,hina.smith@hotmail.com,home and kitchen,Blender,4.0,47.7,15.0,-12.43,east,paypal,completed,False,149.75,Small
+210,100905,2025-01-05,David Brown,david.brown@gmail.com,clothing,Winter Coat,3.0,119.54,0.0,7.58,south,debit card,cancelled,False,366.2,Medium
+211,100037,2025-04-25,Mariam Miller,mariam.miller@hotmail.com,home and kitchen,Air Fryer,8.0,83.61,0.0,7.91,west,paypal,completed,False,676.79,Large
+212,101340,2025-06-19,Kamran Moore,kamran.moore@hotmail.com,beauty,Shampoo 500ml,4.0,11.18,10.0,11.39,west,paypal,returned,False,51.638,Small
+213,100668,2025-05-23,Nida Khan,nida.khan@yahoo.com,home and kitchen,Air Fryer,4.0,99.95,0.0,6.0,south,paypal,completed,False,405.8,Medium
+215,100731,2025-05-10,James Davis,james.davis@outlook.com,electronics,Bluetooth Speaker,3.0,61.64,0.0,5.21,west,cash on delivery,completed,False,190.13000000000002,Small
+216,101050,2025-03-24,Hina Thomas,hina.thomas@gmail.com,beauty,Sunscreen SPF50,1.0,16.21,5.0,11.39,west,paypal,cancelled,False,26.7895,Small
+217,100748,2025-12-04,Omar Ahmed,omar.ahmedhotmail.com,electronics,Laptop Stand,5.0,26.53,5.0,3.82,south,paypal,completed,False,129.8375,Small
+218,100919,2025-01-02,Ali Davis,ali.davis@hotmail.com,books,The Pragmatic Programmer,2.0,35.19,0.0,4.41,west,paypal,completed,False,74.78999999999999,Small
+219,101302,2025-02-23,Robert Miller,robert.miller@hotmail.com,sports and outdoors,Camping Tent,1.0,150.71,70.7,12.06,west,credit card,cancelled,False,56.21802999999999,Small
+221,100127,2025-04-26,James Ali,james.ali@outlook.com,sports and outdoors,Camping Tent,1.0,148.45,0.0,12.81,south,cash on delivery,returned,False,161.26,Small
+222,101226,2025-01-12,Ayesha Johnson,ayesha.johnson@hotmail.com,home and kitchen,Cookware Set,8.0,133.96,5.0,8.24,north,paypal,completed,False,1026.336,Large
+223,100999,2025-06-01,Michael Shah,michael.shah@gmail.com,clothing,Winter Coat,7.0,119.64,0.0,6.54,east,debit card,returned,False,844.02,Large
+224,100962,2025-03-24,Nida Johnson,nida.johnson@yahoo.com,sports and outdoors,Yoga Mat,3.0,26.42,10.0,8.91,west,cash on delivery,returned,False,80.244,Small
+226,100468,2025-05-03,Zainab Raza,zainab.raza@outlook.com,clothing,Winter Coat,7.0,118.05,0.0,6.53,west,paypal,cancelled,False,832.88,Large
+227,100838,2025-02-17,Nida Johnson,nida.johnson@hotmail.com,home and kitchen,Air Fryer,4.0,97.67,5.0,10.41,north,credit card,completed,False,381.55600000000004,Medium
+228,100284,2025-06-04,Ahmed Smith,ahmed.smith@hotmail.com,beauty,Shampoo 500ml,8.0,13.13,0.0,13.26,south,credit card,completed,False,118.30000000000001,Small
+229,100004,2025-05-21,Rabia Smith,rabia.smith@outlook.com,beauty,Sunscreen SPF50,1.0,16.04,10.0,9.4,east,credit card,pending,False,23.836,Small
+230,100170,2025-02-23,Sara Iqbal,sara.iqbal@gmail.com,beauty,Perfume 50ml,8.0,57.45,0.0,3.49,north,credit card,returned,False,463.09000000000003,Medium
+231,100060,2025-01-25,Bilal Hussain,bilal.hussain@outlook.com,clothing,Formal Shirt,7.0,35.49,0.0,8.66,north,credit card,completed,False,257.09000000000003,Medium
+232,100992,2025-01-02,Hassan Anderson,hassan.anderson@hotmail.com,home and kitchen,Knife Set,4.0,39.88,0.0,6.25,west,credit card,completed,False,165.77,Small
+233,101025,2025-01-01,Bilal Taylor,bilal.taylor@outlook.com,sports and outdoors,Hiking Backpack,5.0,64.49,5.0,11.8,east,credit card,pending,False,318.1275,Medium
+234,100828,2025-06-29,Fatima Khan,fatima.khanhotmail.com,home and kitchen,Knife Set,7.0,38.23,5.0,7.89,north,paypal,completed,False,262.11949999999996,Medium
+235,100895,2025-03-20,Omar Ali,omar.ali@gmail.com,electronics,USB-C Hub,4.0,36.73,0.0,3.54,south,credit card,completed,False,150.45999999999998,Small
+236,100454,2025-03-14,Fatima Ahmed,fatima.ahmedyahoo.com,clothing,Denim Jacket,6.0,59.23,0.0,10.75,north,cash on delivery,returned,False,366.13,Medium
+237,100189,2025-05-17,Hina Sheikh,hina.sheikh@gmail.com,beauty,Sunscreen SPF50,2.0,15.0,0.0,11.39,west,credit card,pending,False,41.39,Small
+238,100564,2025-02-04,Sarah Hussain,sarah.hussain@hotmail.com,clothing,Cotton T-Shirt,6.0,14.59,5.0,7.53,east,debit card,completed,False,90.69299999999998,Small
+239,100735,2025-12-03,Zain Shah,zain.shah@gmail.com,sports and outdoors,Dumbbell Set,5.0,89.19,0.0,9.81,west,credit card,returned,False,455.76,Medium
+240,101196,2025-08-03,Ahmed Moore,ahmed.moore@hotmail.com,electronics,Wireless Earbuds,5.0,38.9,10.0,12.04,east,cash on delivery,completed,False,187.09,Small
+241,101224,2025-03-16,Hina Khan,hina.khan@outlook.com,sports and outdoors,Hiking Backpack,3.0,70.62,0.0,2.2,north,paypal,completed,False,214.06,Medium
+242,100488,2025-01-17,Emily Johnson,emily.johnson@yahoo.com,clothing,Wool Sweater,4.0,43.36,0.0,9.38,south,credit card,returned,False,182.82,Small
+243,100370,2025-01-12,Bilal Thomas,bilal.thomas@gmail.com,electronics,Bluetooth Speaker,3.0,62.09,10.0,11.39,west,debit card,pending,False,179.03300000000002,Small
+244,100430,2025-02-24,John Ahmed,john.ahmed@gmail.com,home and kitchen,Coffee Maker,7.0,70.87,0.0,7.93,north,debit card,pending,False,504.02000000000004,Large
+245,100501,2025-06-09,Ahmed Johnson,ahmed.johnsonyahoo.com,sports and outdoors,Yoga Mat,8.0,24.21,0.0,8.99,north,cash on delivery,returned,False,202.67000000000002,Medium
+246,100990,2025-06-08,Emily Anderson,emily.anderson@outlook.com,clothing,Wool Sweater,5.0,41.39,20.0,5.96,south,credit card,cancelled,False,171.52,Small
+247,101080,2025-05-19,Hassan Wilson,hassan.wilson@yahoo.com,books,Python Crash Course,5.0,28.71,0.0,8.77,north,paypal,pending,False,152.32000000000002,Small
+248,100372,2025-03-04,Ahmed Iqbal,ahmed.iqbal@hotmail.com,clothing,Running Shoes,2.0,78.9,0.0,7.28,north,paypal,returned,False,165.08,Small
+249,101188,2025-02-13,Ahmed Shah,ahmed.shah@gmail.com,clothing,Winter Coat,2.0,130.05,0.0,4.43,north,debit card,returned,False,264.53000000000003,Medium
+250,101246,2025-06-24,Imran Johnson,imran.johnson@yahoo.com,beauty,Face Serum,1.0,24.77,0.0,6.58,east,cash on delivery,returned,False,31.35,Small
+251,101278,2025-01-14,Omar Moore,omar.moore@outlook.com,books,Python Crash Course,8.0,29.72,0.0,12.29,east,debit card,pending,False,250.04999999999998,Medium
+252,100783,2025-04-16,Sana Johnson,sana.johnson@hotmail.com,electronics,Laptop Stand,7.0,26.87,0.0,9.95,north,debit card,cancelled,False,198.04,Small
+253,100027,2025-01-30,John Miller,john.miller@yahoo.com,sports and outdoors,Hiking Backpack,8.0,71.59,0.0,6.91,west,credit card,cancelled,False,579.63,Large
+254,100713,2025-01-21,Rabia Johnson,rabia.johnsonyahoo.com,sports and outdoors,Water Bottle,5.0,12.76,0.0,10.54,west,cash on delivery,pending,False,74.34,Small
+255,100832,2025-01-25,Hina Ali,hina.aliyahoo.com,clothing,Cotton T-Shirt,-1.0,14.42,0.0,14.63,south,credit card,completed,False,0.21000000000000085,Small
+256,100330,2025-05-26,Ayesha Brown,ayesha.brown@outlook.com,beauty,Perfume 50ml,3.0,57.01,10.0,9.9,east,paypal,returned,False,163.827,Small
+258,100975,2025-04-01,Ahmed Moore,ahmed.moore@hotmail.com,sports and outdoors,Cycling Helmet,6.0,43.37,0.0,4.18,north,cash on delivery,completed,False,264.4,Medium
+259,100213,2025-08-05,Hina Iqbal,hina.iqbal@yahoo.com,home and kitchen,Blender,3.0,54.02,10.0,6.78,east,credit card,returned,False,152.63400000000001,Small
+260,100565,2025-07-06,Bilal Malik,bilal.malik@gmail.com,electronics,Webcam HD,4.0,42.81,5.0,8.54,east,cash on delivery,pending,False,171.218,Small
+261,100899,2025-04-15,John Taylor,john.taylor@gmail.com,sports and outdoors,Dumbbell Set,2.0,96.29,5.0,9.49,south,paypal,cancelled,False,192.441,Small
+262,100463,2025-02-17,Ali Davis,ali.davis@gmail.com,electronics,Wireless Earbuds,2.0,42.49,0.0,9.01,west,credit card,pending,False,93.99000000000001,Small
+263,101075,2025-03-26,Maria Moore,maria.moore@gmail.com,beauty,Sunscreen SPF50,8.0,15.52,0.0,7.81,north,credit card,completed,False,131.97,Small
+264,100199,2025-04-22,Ahmed Anderson,ahmed.anderson@gmail.com,books,Atomic Habits,4.0,16.28,5.0,12.83,south,cash on delivery,pending,False,74.694,Small
+266,100677,2025-02-16,Nida Brown,nida.brown@outlook.com,clothing,Running Shoes,7.0,82.25,10.0,8.62,west,credit card,completed,False,526.7950000000001,Large
+267,101276,2025-06-23,Omar Miller,omar.miller@outlook.com,electronics,Webcam HD,6.0,47.95,5.0,8.71,west,paypal,cancelled,False,282.02500000000003,Medium
+268,101333,2025-01-23,Zain Anderson,zain.anderson@hotmail.com,clothing,Running Shoes,2.0,75.69,10.0,9.8,west,debit card,completed,False,146.042,Small
+269,100216,2025-05-07,Ahmed Anderson,ahmed.anderson@hotmail.com,beauty,Makeup Kit,6.0,41.04,5.0,10.1,east,paypal,cancelled,False,244.028,Medium
+270,101138,2025-01-29,Anna Khan,anna.khan@outlook.com,electronics,Webcam HD,4.0,46.14,0.0,10.83,north,paypal,pending,False,195.39000000000001,Small
+271,100253,2025-03-31,Imran Malik,imran.malik@outlook.com,clothing,Denim Jacket,7.0,61.54,0.0,5.32,east,cash on delivery,cancelled,False,436.09999999999997,Medium
+272,100431,2025-07-02,Fatima Shah,fatima.shah@outlook.com,sports and outdoors,Camping Tent,6.0,152.87,0.0,9.05,west,debit card,cancelled,False,926.27,Large
+273,100194,2025-03-29,Hassan Butt,hassan.buttoutlook.com,books,The Pragmatic Programmer,5.0,35.45,5.0,8.57,north,cash on delivery,completed,False,176.95749999999998,Small
+274,100798,2025-12-01,Anna Malik,anna.malik@yahoo.com,electronics,Webcam HD,1.0,46.7,0.0,4.52,south,paypal,pending,False,51.22,Small
+275,100068,2025-05-30,David Iqbal,david.iqbal@gmail.com,home and kitchen,Blender,4.0,51.6,0.0,7.85,east,credit card,cancelled,False,214.25,Medium
+277,100035,2025-01-02,John Butt,john.butt@outlook.com,beauty,Shampoo 500ml,8.0,12.24,0.0,1.7,south,paypal,completed,False,99.62,Small
+280,101198,2025-06-28,Fatima Iqbal,fatima.iqbal@outlook.com,home and kitchen,Air Fryer,2.0,101.21,0.0,6.29,west,debit card,completed,False,208.70999999999998,Medium
+281,100665,2025-06-13,Robert Khan,robert.khan@outlook.com,electronics,4K Monitor,5.0,295.66,15.0,8.69,north,cash on delivery,pending,False,1265.2450000000001,Large
+282,100802,2025-02-28,Fatima Miller,fatima.miller@yahoo.com,books,Sapiens,8.0,18.34,0.0,6.94,south,paypal,completed,False,153.66,Small
+283,100240,2025-01-07,Ayesha Johnson,ayesha.johnson@yahoo.com,sports and outdoors,Cycling Helmet,3.0,44.49,0.0,7.96,east,credit card,returned,False,141.43,Small
+284,101304,2025-06-17,James Shah,james.shahoutlook.com,sports and outdoors,Cycling Helmet,4.0,39.96,0.0,7.05,west,debit card,cancelled,False,166.89000000000001,Small
+285,100187,2025-03-05,Emily Miller,emily.miller@yahoo.com,beauty,Makeup Kit,2.0,40.58,10.0,7.74,east,credit card,returned,False,80.78399999999999,Small
+286,100657,2025-06-19,Hassan Butt,hassan.butt@hotmail.com,electronics,Bluetooth Speaker,4.0,60.71,0.0,6.71,north,debit card,cancelled,False,249.55,Medium
+287,101021,2025-02-12,Maria Davis,maria.davis@yahoo.com,books,Python Crash Course,1.0,29.77,5.0,15.42,south,cash on delivery,pending,False,43.701499999999996,Small
+288,100980,2025-11-03,Ali Khan,ali.khan@outlook.com,electronics,Bluetooth Speaker,1.0,51.77,5.0,12.26,east,debit card,returned,False,61.4415,Small
+289,100925,2025-06-10,Kamran Johnson,kamran.johnson@hotmail.com,electronics,Laptop Stand,4.0,24.79,0.0,15.9,north,cash on delivery,returned,False,115.06,Small
+290,101153,2025-05-18,Laura Raza,laura.raza@outlook.com,electronics,Bluetooth Speaker,4.0,60.3,0.0,4.05,east,credit card,pending,False,245.25,Medium
+291,100283,2025-01-25,Zain Smith,zain.smith@yahoo.com,books,Deep Work,1.0,20.35,5.0,6.99,east,credit card,cancelled,False,26.322499999999998,Small
+293,101062,2025-05-12,Amna Ali,amna.ali@outlook.com,beauty,Perfume 50ml,2.0,52.29,0.0,6.93,east,debit card,cancelled,False,111.50999999999999,Small
+294,100447,2025-06-19,Zainab Johnson,zainab.johnson@hotmail.com,clothing,Winter Coat,6.0,136.25,0.0,5.61,west,cash on delivery,completed,False,823.11,Large
+295,100728,2025-01-25,Mariam Hussain,mariam.hussain@yahoo.com,electronics,Wireless Earbuds,2.0,44.23,-10.0,2.41,south,cash on delivery,completed,False,99.716,Small
+296,100109,2025-01-25,Usman Davis,usman.davis@outlook.com,sports and outdoors,Cycling Helmet,1.0,47.62,0.0,-13.46,east,cash on delivery,cancelled,False,34.16,Small
+297,101251,2025-04-02,Sana Miller,sana.miller@hotmail.com,books,Atomic Habits,7.0,16.84,5.0,7.32,west,paypal,cancelled,False,119.30599999999998,Small
+298,100122,2025-06-30,Amna Malik,amna.malik@yahoo.com,sports and outdoors,Water Bottle,4.0,13.24,15.0,4.82,north,paypal,returned,False,49.836,Small
+299,100367,2025-03-09,Sara Hussain,sara.hussain@gmail.com,sports and outdoors,Yoga Mat,2.0,26.52,0.0,9.48,west,credit card,returned,False,62.519999999999996,Small
+301,101159,2025-02-11,Imran Malik,imran.malik@gmail.com,electronics,Webcam HD,5.0,48.61,0.0,6.5,east,credit card,completed,False,249.55,Medium
+302,100581,2025-03-21,Maria Hussain,maria.hussain@hotmail.com,clothing,Winter Coat,8.0,120.66,0.0,12.43,north,debit card,completed,False,977.7099999999999,Large
+303,100016,2025-01-20,Sana Sheikh,sana.sheikh@outlook.com,books,Python Crash Course,5.0,28.49,5.0,10.24,east,debit card,cancelled,False,145.5675,Small
+304,100308,2025-06-05,Usman Sheikh,usman.sheikh@gmail.com,home and kitchen,Air Fryer,7.0,94.43,10.0,359.26,west,credit card,returned,False,954.169,Large
+305,100029,2025-05-26,Rabia Malik,rabia.malik@yahoo.com,sports and outdoors,Dumbbell Set,8.0,84.0,15.0,9.6,north,cash on delivery,completed,False,580.8,Large
+306,100546,2025-06-16,Michael Khan,michael.khan@hotmail.com,home and kitchen,Blender,4.0,45.58,0.0,8.02,west,debit card,returned,False,190.34,Small
+309,100603,2025-01-05,John Taylor,john.taylor@yahoo.com,books,Deep Work,-1.0,18.6,5.0,2.24,south,credit card,completed,False,-15.430000000000001,Small
+310,101083,2025-06-04,Sarah Anderson,sarah.anderson@outlook.com,books,Python Crash Course,4.0,31.71,0.0,3.78,west,paypal,cancelled,False,130.62,Small
+311,100067,2025-04-05,David Hussain,david.hussain@gmail.com,beauty,Shampoo 500ml,8.0,12.19,0.0,8.27,east,credit card,cancelled,False,105.78999999999999,Small
+312,100871,2025-05-11,John Taylor,john.taylor@hotmail.com,beauty,Sunscreen SPF50,6.0,15.68,0.0,5.96,south,cash on delivery,completed,False,100.03999999999999,Small
+313,100392,2025-01-22,Hassan Ahmed,hassan.ahmed@hotmail.com,clothing,Formal Shirt,5.0,31.65,0.0,5.01,west,credit card,completed,False,163.26,Small
+314,101193,2025-03-29,Robert Thomas,robert.thomasoutlook.com,electronics,Bluetooth Speaker,1.0,61.92,0.0,8.24,east,cash on delivery,returned,False,70.16,Small
+315,100541,2025-05-18,Usman Shah,usman.shah@yahoo.com,books,Atomic Habits,-4.0,17.03,5.0,11.53,south,credit card,pending,False,-53.184,Small
+316,100587,2025-02-16,Laura Anderson,laura.anderson@gmail.com,sports and outdoors,Hiking Backpack,1.0,77.93,0.0,8.21,south,cash on delivery,returned,False,86.14000000000001,Small
+318,101320,2025-05-30,Kamran Sheikh,kamran.sheikh@hotmail.com,beauty,Shampoo 500ml,8.0,12.79,0.0,6.63,north,paypal,returned,False,108.94999999999999,Small
+319,100742,2025-06-18,Sarah Davis,sarah.davis@hotmail.com,electronics,Bluetooth Speaker,3.0,60.25,0.0,4.7,west,cash on delivery,returned,False,185.45,Small
+323,101180,2025-03-01,Ali Smith,ali.smith@gmail.com,home and kitchen,Cookware Set,5.0,132.28,10.0,9.21,south,credit card,returned,False,604.47,Large
+324,100935,2025-04-05,Kamran Miller,kamran.miller@gmail.com,books,Sapiens,6.0,20.86,0.0,5.43,east,paypal,pending,False,130.59,Small
+325,100354,2025-01-08,Ahmed Sheikh,ahmed.sheikh@yahoo.com,sports and outdoors,Water Bottle,5.0,13.09,0.0,8.36,west,debit card,pending,False,73.81,Small
+326,101020,2025-05-28,Usman Anderson,usman.anderson@gmail.com,beauty,Face Serum,5.0,22.48,15.0,5.98,west,credit card,completed,False,101.52000000000001,Small
+327,101231,2025-08-01,Kamran Khan,kamran.khan@yahoo.com,home and kitchen,Blender,-2.0,45.14,0.0,11.85,east,credit card,returned,False,-78.43,Small
+328,100378,2025-10-01,Sana Hussain,sana.hussain@outlook.com,sports and outdoors,Cycling Helmet,7.0,40.27,10.0,7.21,north,credit card,returned,False,260.91100000000006,Medium
+329,100125,2025-05-13,Rabia Khan,rabia.khan@yahoo.com,home and kitchen,Coffee Maker,6.0,70.03,20.0,10.57,west,paypal,returned,False,346.714,Medium
+331,101051,2025-03-24,Sara Sheikh,sara.sheikh@gmail.com,beauty,Face Serum,8.0,22.84,0.0,5.67,west,paypal,completed,False,188.39,Small
+332,100669,2025-05-06,Robert Taylor,robert.taylor@hotmail.com,books,Atomic Habits,2.0,17.36,0.0,3.79,west,paypal,cancelled,False,38.51,Small
+333,100517,2025-05-15,Emily Butt,emily.butt@yahoo.com,beauty,Shampoo 500ml,5.0,12.23,0.0,5.83,west,credit card,completed,False,66.98,Small
+334,101292,2025-06-23,Bilal Iqbal,bilal.iqbal@outlook.com,sports and outdoors,Cycling Helmet,4.0,42.46,0.0,8.89,west,credit card,pending,False,178.73000000000002,Small
+335,100289,2025-05-09,Hassan Iqbal,hassan.iqbalyahoo.com,electronics,USB-C Hub,3.0,35.58,5.0,2.19,north,paypal,cancelled,False,103.59299999999999,Small
+336,100913,2025-02-12,Ahmed Hussain,ahmed.hussain@gmail.com,clothing,Wool Sweater,3.0,42.87,5.0,15.37,west,cash on delivery,returned,False,137.54949999999997,Small
+337,100162,2025-03-06,David Sheikh,david.sheikh@outlook.com,home and kitchen,Vacuum Cleaner,1.0,160.53,0.0,11.39,west,debit card,cancelled,False,171.92000000000002,Small
+338,100922,2025-04-22,Laura Johnson,laura.johnson@outlook.com,sports and outdoors,Camping Tent,4.0,156.66,0.0,5.92,west,cash on delivery,returned,False,632.56,Large
+339,100053,2025-08-01,Mariam Miller,mariam.miller@hotmail.com,electronics,Smart Watch,5.0,146.25,0.0,5.1,north,cash on delivery,completed,False,736.35,Large
+340,100744,2025-08-05,Anna Smith,anna.smith@gmail.com,books,Atomic Habits,4.0,18.85,0.0,9.46,west,paypal,completed,False,84.86000000000001,Small
+341,100621,2025-05-18,Ali Brown,ali.brown@yahoo.com,home and kitchen,Vacuum Cleaner,1.0,163.14,0.0,9.97,north,credit card,pending,False,173.10999999999999,Small
+342,100039,2025-03-03,Faisal Smith,faisal.smith@yahoo.com,beauty,Face Serum,6.0,22.15,20.0,11.01,east,debit card,cancelled,False,117.33,Small
+343,101072,2025-09-01,Sana Shah,sana.shah@yahoo.com,beauty,Shampoo 500ml,4.0,11.2,0.0,14.7,south,paypal,cancelled,False,59.5,Small
+344,100040,2025-04-18,Rabia Hussain,rabia.hussain@outlook.com,clothing,Wool Sweater,1.0,42.69,0.0,11.39,west,paypal,returned,False,54.08,Small
+345,100339,2025-01-24,Imran Hussain,imran.hussain@gmail.com,beauty,Face Serum,3.0,24.65,5.0,3.03,south,cash on delivery,cancelled,False,73.28249999999998,Small
+346,100948,2025-03-21,Imran Khan,imran.khan@yahoo.com,electronics,Smart Watch,5.0,148.73,20.0,476.86,east,credit card,pending,False,1071.78,Large
+348,101078,2025-05-13,Usman Shah,usman.shah@outlook.com,sports and outdoors,Cycling Helmet,8.0,43.9,0.0,287.57,west,paypal,pending,False,638.77,Large
+349,100445,2025-06-12,Rabia Ahmed,rabia.ahmed@outlook.com,home and kitchen,Knife Set,4.0,37.84,72.1,9.24,north,credit card,cancelled,False,51.46944000000001,Small
+350,100083,2025-04-21,Kamran Brown,kamran.brown@hotmail.com,clothing,Wool Sweater,8.0,42.52,10.0,16.72,east,debit card,returned,False,322.86400000000003,Medium
+351,100115,2025-01-06,Kamran Taylor,kamran.taylor@outlook.com,books,Python Crash Course,8.0,26.55,0.0,8.22,north,debit card,pending,False,220.62,Medium
+352,101111,2025-03-22,Fatima Iqbal,fatima.iqbal@outlook.com,beauty,Makeup Kit,6.0,39.43,0.0,9.31,north,cash on delivery,returned,False,245.89,Medium
+353,100727,2025-05-22,Usman Thomas,usman.thomas@outlook.com,books,Atomic Habits,6.0,16.28,0.0,11.06,north,credit card,completed,False,108.74000000000001,Small
+354,100640,2025-10-02,Laura Johnson,laura.johnson@hotmail.com,books,Python Crash Course,4.0,25.42,0.0,11.08,east,credit card,pending,False,112.76,Small
+355,100732,2025-02-14,Emily Malik,emily.malik@yahoo.com,electronics,USB-C Hub,1.0,33.24,0.0,8.47,south,credit card,cancelled,False,41.71,Small
+357,100270,2025-02-23,Sara Khan,sara.khan@yahoo.com,electronics,Wireless Earbuds,6.0,42.04,0.0,5.46,south,credit card,returned,False,257.7,Medium
+358,100881,2025-01-03,Ali Butt,ali.butt@yahoo.com,clothing,Wool Sweater,3.0,44.79,10.0,5.13,north,credit card,cancelled,False,126.063,Small
+359,101201,2025-03-22,Ayesha Thomas,ayesha.thomas@hotmail.com,books,The Pragmatic Programmer,5.0,35.11,0.0,3.06,east,credit card,completed,False,178.61,Small
+360,101178,2025-04-29,Faisal Iqbal,faisal.iqbal@hotmail.com,electronics,Bluetooth Speaker,1.0,55.98,0.0,7.0,west,cash on delivery,completed,False,62.98,Small
+361,100762,2025-05-13,Imran Anderson,imran.anderson@hotmail.com,clothing,Denim Jacket,1.0,63.3,0.0,11.39,west,credit card,completed,False,74.69,Small
+363,100096,2025-03-11,Sarah Shah,sarah.shah@gmail.com,sports and outdoors,Yoga Mat,4.0,25.56,20.0,6.59,east,credit card,returned,False,88.382,Small
+364,100396,2025-03-24,Fatima Sheikh,fatima.sheikh@outlook.com,beauty,Face Serum,7.0,23.72,0.0,3.87,south,debit card,completed,False,169.91,Small
+365,101312,2025-01-15,Zainab Iqbal,zainab.iqbal@hotmail.com,beauty,Sunscreen SPF50,1.0,16.02,0.0,8.35,east,credit card,returned,False,24.369999999999997,Small
+366,100697,2025-02-20,Usman Ahmed,usman.ahmed@hotmail.com,electronics,Smart Watch,7.0,146.48,0.0,9.4,south,credit card,returned,False,1034.76,Large
+367,100048,2025-01-22,Faisal Sheikh,faisal.sheikh@hotmail.com,sports and outdoors,Water Bottle,8.0,12.46,0.0,6.16,south,credit card,cancelled,False,105.84,Small
+368,100845,2025-03-07,Omar Brown,omar.brown@gmail.com,clothing,Denim Jacket,7.0,60.72,10.0,7.48,north,cash on delivery,cancelled,False,390.016,Medium
+369,101074,2025-04-03,Ayesha Johnson,ayesha.johnson@yahoo.com,books,Sapiens,3.0,18.33,0.0,8.77,south,cash on delivery,pending,False,63.75999999999999,Small
+370,100153,2025-06-01,Mariam Hussain,mariam.hussain@hotmail.com,electronics,Laptop Stand,8.0,27.43,0.0,8.21,south,paypal,returned,False,227.65,Medium
+371,100237,2025-01-19,Ali Sheikh,ali.sheikh@hotmail.com,home and kitchen,Blender,3.0,49.49,0.0,7.26,east,debit card,cancelled,False,155.73,Small
+372,100054,2025-03-09,Rabia Butt,rabia.butt@outlook.com,beauty,Face Serum,1.0,22.16,0.0,5.54,north,cash on delivery,completed,False,27.7,Small
+373,100123,2025-04-03,Ahmed Malik,ahmed.malik@yahoo.com,electronics,Laptop Stand,4.0,24.83,5.0,9.31,north,credit card,cancelled,False,103.66399999999999,Small
+374,100451,2025-05-18,Michael Brown,michael.brown@yahoo.com,sports and outdoors,Camping Tent,4.0,148.09,15.0,4.12,south,debit card,cancelled,False,507.626,Large
+375,100134,2025-01-12,Zainab Thomas,zainab.thomas@gmail.com,books,Deep Work,8.0,18.92,0.0,8.69,east,cash on delivery,pending,False,160.05,Small
+376,100268,2025-04-19,Sara Butt,sara.butt@outlook.com,home and kitchen,Cookware Set,-1.0,133.31,5.0,2.64,south,cash on delivery,completed,False,-124.0045,Small
+378,100220,2025-02-01,Amna Malik,amna.malik@hotmail.com,electronics,Bluetooth Speaker,-1.0,59.47,0.0,4.69,west,credit card,completed,False,-54.78,Small
+379,100041,2025-02-01,Emily Ali,emily.ali@hotmail.com,clothing,Winter Coat,-1.0,128.14,0.0,9.07,west,debit card,completed,False,-119.07,Small
+380,100026,2025-05-01,Sana Anderson,sana.anderson@outlook.com,books,Deep Work,8.0,20.37,10.0,5.48,east,credit card,pending,False,152.144,Small
+381,100700,2025-05-23,Kamran Hussain,kamran.hussain@hotmail.com,sports and outdoors,Dumbbell Set,-1.0,93.91,15.0,2.58,west,cash on delivery,cancelled,False,-77.2435,Small
+382,100800,2025-06-04,Ayesha Ali,ayesha.ali@hotmail.com,books,Deep Work,4.0,19.55,5.0,10.94,north,debit card,pending,False,85.23,Small
+383,100768,2025-06-27,David Ahmed,david.ahmed@hotmail.com,beauty,Shampoo 500ml,3.0,11.7,0.0,-0.29,east,debit card,cancelled,False,34.809999999999995,Small
+384,100997,2025-04-06,John Sheikh,john.sheikh@yahoo.com,home and kitchen,Blender,3.0,51.77,0.0,6.3,east,credit card,cancelled,False,161.61,Small
+385,100568,2025-03-25,Zain Taylor,zain.taylor@gmail.com,sports and outdoors,Water Bottle,8.0,12.26,5.0,8.42,south,credit card,completed,False,101.59599999999999,Small
+386,100012,2025-01-28,Zainab Khan,zainab.khan@outlook.com,electronics,Webcam HD,4.0,44.06,0.0,9.95,east,paypal,completed,False,186.19,Small
+387,101281,2025-03-20,Omar Taylor,omar.taylor@yahoo.com,books,Python Crash Course,3.0,29.86,0.0,13.55,north,paypal,completed,False,103.13,Small
+389,101245,2025-06-19,Amna Khan,amna.khan@outlook.com,home and kitchen,Coffee Maker,7.0,70.24,0.0,6.54,west,debit card,completed,False,498.21999999999997,Medium
+390,100003,2025-06-16,David Raza,david.raza@gmail.com,electronics,Bluetooth Speaker,2.0,58.88,5.0,11.39,west,credit card,completed,False,123.262,Small
+391,101166,2025-03-25,Nida Khan,nida.khan@outlook.com,sports and outdoors,Camping Tent,4.0,154.45,0.0,11.97,east,paypal,completed,False,629.77,Large
+392,101133,2025-03-19,Emily Butt,emily.butt@yahoo.com,beauty,Face Serum,4.0,22.17,5.0,3.45,north,debit card,pending,False,87.69600000000001,Small
+393,100681,2025-04-20,Usman Hussain,usman.hussain@yahoo.com,books,Python Crash Course,8.0,30.43,0.0,9.98,south,cash on delivery,completed,False,253.42,Medium
+394,100848,2025-06-28,Bilal Brown,bilal.brown@yahoo.com,home and kitchen,Air Fryer,5.0,88.55,0.0,7.86,south,cash on delivery,completed,False,450.61,Medium
+395,101270,2025-01-11,Amna Davis,amna.davis@hotmail.com,sports and outdoors,Yoga Mat,3.0,24.87,0.0,8.8,north,cash on delivery,completed,False,83.41,Small
+396,100478,2025-01-13,David Hussain,david.hussain@yahoo.com,electronics,Laptop Stand,2.0,23.83,0.0,3.09,north,cash on delivery,cancelled,False,50.75,Small
+397,100976,2025-01-27,Faisal Butt,faisal.butt@outlook.com,beauty,Shampoo 500ml,5.0,11.6,0.0,10.7,north,cash on delivery,returned,False,68.7,Small
+398,100571,2025-02-04,Sarah Ahmed,sarah.ahmed@gmail.com,books,Atomic Habits,7.0,16.85,10.0,1.17,west,debit card,pending,False,107.32500000000002,Small
+399,101274,2025-04-17,Michael Khan,michael.khan@yahoo.com,sports and outdoors,Dumbbell Set,8.0,94.3,10.0,7.81,north,cash on delivery,pending,False,686.77,Large
+400,100863,2025-06-08,David Miller,david.miller@yahoo.com,beauty,Sunscreen SPF50,5.0,16.24,5.0,5.5,west,paypal,pending,False,82.63999999999999,Small
+401,101257,2025-04-04,Anna Butt,anna.butt@hotmail.com,clothing,Cotton T-Shirt,4.0,15.55,0.0,3.97,east,credit card,returned,False,66.17,Small
+402,100426,2025-02-02,Mariam Ali,mariam.ali@outlook.com,books,Sapiens,2.0,20.36,0.0,9.31,north,credit card,completed,False,50.03,Small
+403,100702,2025-04-11,Faisal Hussain,faisal.hussain@hotmail.com,home and kitchen,Coffee Maker,5.0,69.84,0.0,7.16,north,cash on delivery,cancelled,False,356.36000000000007,Medium
+404,100336,2025-05-22,James Ahmed,james.ahmed@yahoo.com,books,The Pragmatic Programmer,7.0,34.26,0.0,8.01,west,debit card,cancelled,False,247.82999999999998,Medium
+405,100232,2025-02-07,Laura Iqbal,laura.iqbal@gmail.com,books,Sapiens,7.0,19.55,0.0,10.37,east,paypal,cancelled,False,147.22,Small
+406,100648,2025-05-26,Hassan Smith,hassan.smith@outlook.com,books,The Pragmatic Programmer,1.0,33.59,15.0,8.28,south,debit card,completed,False,36.8315,Small
+407,100964,2025-06-23,Mariam Raza,mariam.raza@outlook.com,sports and outdoors,Dumbbell Set,5.0,88.49,0.0,9.26,west,paypal,pending,False,451.71,Medium
+408,100637,2025-01-17,Faisal Miller,faisal.miller@outlook.com,home and kitchen,Knife Set,8.0,40.05,5.0,6.59,south,cash on delivery,pending,False,310.9699999999999,Medium
+409,100687,2025-01-04,James Malik,james.malik@outlook.com,clothing,Denim Jacket,3.0,54.56,5.0,4.72,west,credit card,pending,False,160.216,Small
+410,100297,2025-04-11,Hassan Anderson,hassan.anderson@hotmail.com,clothing,Winter Coat,2.0,125.68,20.0,4.48,west,credit card,pending,False,205.568,Medium
+411,100795,2025-06-30,Zainab Wilson,zainab.wilson@gmail.com,home and kitchen,Knife Set,3.0,41.36,15.0,3.17,west,cash on delivery,returned,False,108.63799999999999,Small
+413,101357,2025-05-12,Sara Raza,sara.raza@yahoo.com,clothing,Winter Coat,3.0,119.05,0.0,12.25,west,debit card,completed,False,369.4,Medium
+414,100205,2025-06-23,Omar Thomas,omar.thomas@gmail.com,sports and outdoors,Dumbbell Set,5.0,93.42,0.0,2.94,north,debit card,cancelled,False,470.04,Medium
+415,100737,2025-01-29,Maria Anderson,maria.anderson@hotmail.com,home and kitchen,Vacuum Cleaner,8.0,163.49,0.0,6.7,south,debit card,pending,False,1314.6200000000001,Large
+416,100674,2025-05-23,James Ahmed,james.ahmed@hotmail.com,electronics,Bluetooth Speaker,2.0,58.01,0.0,9.43,west,paypal,completed,False,125.44999999999999,Small
+417,100000,2025-05-29,Imran Moore,imran.moore@outlook.com,sports and outdoors,Water Bottle,4.0,12.2,5.0,0.16,north,credit card,returned,False,46.51999999999999,Small
+418,100985,2025-01-13,Ayesha Taylor,ayesha.taylor@outlook.com,home and kitchen,Air Fryer,2.0,84.73,0.0,7.12,south,credit card,cancelled,False,176.58,Small
+419,101037,2025-03-22,Zainab Johnson,zainab.johnson@outlook.com,sports and outdoors,Camping Tent,7.0,151.75,0.0,12.85,north,debit card,completed,False,1075.1,Large
+420,101298,2025-05-21,Robert Johnson,robert.johnson@gmail.com,beauty,Sunscreen SPF50,6.0,14.71,20.0,13.37,east,paypal,cancelled,False,83.97800000000001,Small
+422,100921,2025-06-11,Nida Smith,nida.smith@outlook.com,sports and outdoors,Hiking Backpack,5.0,67.56,20.0,6.4,west,credit card,completed,False,276.64,Medium
+423,100754,2025-01-13,Ayesha Brown,ayesha.brown@yahoo.com,clothing,Winter Coat,1.0,126.5,10.0,0.87,north,credit card,pending,False,114.72000000000001,Small
+424,100022,2025-01-27,Ayesha Malik,ayesha.malik@yahoo.com,beauty,Makeup Kit,2.0,39.7,10.0,7.37,north,cash on delivery,cancelled,False,78.83000000000001,Small
+426,101134,2025-03-08,Emily Miller,emily.miller@outlook.com,sports and outdoors,Yoga Mat,6.0,23.43,5.0,13.01,west,cash on delivery,returned,False,146.56099999999998,Small
+427,100893,2025-12-04,Ahmed Thomas,ahmed.thomas@gmail.com,home and kitchen,Knife Set,2.0,43.12,0.0,2.68,east,credit card,pending,False,88.92,Small
+430,100617,2025-01-21,Omar Hussain,omar.hussain@yahoo.com,sports and outdoors,Yoga Mat,4.0,25.03,0.0,9.31,north,debit card,completed,False,109.43,Small
+432,100507,2025-01-25,Rabia Khan,rabia.khan@yahoo.com,electronics,Bluetooth Speaker,1.0,60.28,20.0,-0.25,west,credit card,pending,False,47.974000000000004,Small
+433,101240,2025-11-06,Ahmed Khan,ahmed.khan@outlook.com,books,Atomic Habits,4.0,17.23,0.0,10.09,east,credit card,cancelled,False,79.01,Small
+434,100140,2025-05-25,Fatima Brown,fatima.brown@outlook.com,books,Deep Work,3.0,18.72,80.9,11.98,north,credit card,completed,False,22.706559999999996,Small
+435,100160,2025-12-06,Sana Brown,sana.brown@outlook.com,sports and outdoors,Hiking Backpack,4.0,70.64,0.0,6.98,north,credit card,cancelled,False,289.54,Medium
+436,100305,2025-06-30,Fatima Taylor,fatima.taylor@hotmail.com,clothing,Formal Shirt,3.0,38.59,10.0,4.17,south,paypal,returned,False,108.36300000000001,Small
+437,101063,2025-10-06,Bilal Thomas,bilal.thomas@hotmail.com,electronics,USB-C Hub,2.0,32.61,0.0,5.53,north,paypal,completed,False,70.75,Small
+438,101287,2025-05-25,Fatima Khan,fatima.khan@gmail.com,electronics,Laptop Stand,1.0,25.48,15.0,10.14,east,credit card,completed,False,31.798000000000002,Small
+439,100401,2025-06-25,Omar Miller,omar.miller@yahoo.com,beauty,Sunscreen SPF50,1.0,15.43,0.0,9.64,west,debit card,returned,False,25.07,Small
+440,100395,2025-06-14,Mariam Ahmed,mariam.ahmed@outlook.com,sports and outdoors,Hiking Backpack,3.0,65.37,0.0,5.6,east,debit card,returned,False,201.71,Medium
+441,101054,2025-03-17,Omar Moore,omar.moore@hotmail.com,beauty,Shampoo 500ml,3.0,12.02,0.0,6.07,north,cash on delivery,pending,False,42.13,Small
+442,100399,2025-05-17,Nida Brown,nida.brown@hotmail.com,beauty,Shampoo 500ml,8.0,12.44,0.0,13.88,south,debit card,returned,False,113.39999999999999,Small
+443,101034,2025-03-15,Amna Khan,amna.khan@hotmail.com,electronics,4K Monitor,4.0,4641.16,10.0,11.39,west,paypal,pending,True,16719.566,Large
+445,100609,2025-05-22,Kamran Brown,kamran.brown@yahoo.com,home and kitchen,Air Fryer,3.0,93.45,0.0,9.93,west,credit card,completed,False,290.28000000000003,Medium
+446,100955,2025-02-28,Mariam Raza,mariam.raza@yahoo.com,electronics,Smart Watch,3.0,144.11,0.0,4.74,south,debit card,cancelled,False,437.07000000000005,Medium
+447,100953,2025-04-22,Bilal Shah,bilal.shah@outlook.com,clothing,Wool Sweater,8.0,44.85,0.0,6.98,east,debit card,completed,False,365.78000000000003,Medium
+448,100224,2025-01-20,Bilal Miller,bilal.miller@hotmail.com,clothing,Winter Coat,5.0,117.94,10.0,2.88,west,paypal,completed,False,533.61,Large
+449,100287,2025-09-02,Ali Brown,ali.brown@outlook.com,clothing,Cotton T-Shirt,8.0,14.72,0.0,10.73,south,cash on delivery,cancelled,False,128.49,Small
+450,101202,2025-01-26,Michael Hussain,michael.hussain@outlook.com,electronics,USB-C Hub,3.0,37.56,0.0,-7.88,west,paypal,completed,False,104.80000000000001,Small
+451,100862,2025-02-01,Sara Brown,sara.brown@hotmail.com,electronics,Smart Watch,5.0,153.33,0.0,12.36,west,debit card,completed,False,779.0100000000001,Large
+452,100876,2025-02-10,Emily Smith,emily.smith@hotmail.com,books,Sapiens,2.0,19.17,0.0,8.27,south,cash on delivery,returned,False,46.61,Small
+453,100902,2025-05-30,Usman Hussain,usman.hussain@hotmail.com,books,Python Crash Course,8.0,31.77,0.0,7.47,west,credit card,returned,False,261.63,Medium
+454,100649,2025-06-18,Hina Moore,hina.moore@yahoo.com,home and kitchen,Knife Set,2.0,39.88,20.0,6.86,south,paypal,returned,False,70.668,Small
+455,100858,2025-05-23,Ahmed Smith,ahmed.smith@gmail.com,clothing,Cotton T-Shirt,2.0,15.13,0.0,9.14,south,debit card,pending,False,39.400000000000006,Small
+456,100504,2025-02-09,Zainab Khan,zainab.khan@outlook.com,beauty,Perfume 50ml,4.0,55.18,0.0,10.69,west,paypal,pending,False,231.41,Medium
+457,101174,2025-02-28,David Taylor,david.taylor@hotmail.com,beauty,Perfume 50ml,2.0,50.63,0.0,12.7,north,credit card,returned,False,113.96000000000001,Small
+458,100457,2025-06-23,Hina Miller,hina.miller@yahoo.com,books,Python Crash Course,7.0,31.86,5.0,3.46,south,cash on delivery,completed,False,215.32899999999998,Medium
+459,100484,2025-06-17,Hassan Anderson,hassan.anderson@yahoo.com,sports and outdoors,Water Bottle,1.0,12.6,0.0,9.53,east,credit card,returned,False,22.13,Small
+461,100028,2025-04-03,Robert Khan,robert.khan@yahoo.com,home and kitchen,Vacuum Cleaner,1.0,170.69,0.0,9.37,south,paypal,completed,False,180.06,Small
+462,100936,2025-02-05,Maria Johnson,maria.johnson@hotmail.com,electronics,Laptop Stand,1.0,26.8,0.0,7.41,south,debit card,pending,False,34.21,Small
+463,100278,2025-04-29,Hina Thomas,hina.thomas@yahoo.com,sports and outdoors,Cycling Helmet,8.0,42.38,0.0,2.41,west,cash on delivery,pending,False,341.45000000000005,Medium
+464,100408,2025-02-18,Zainab Brown,zainab.brown@hotmail.com,clothing,Winter Coat,7.0,119.72,10.0,9.23,south,debit card,returned,False,763.466,Large
+465,101328,2025-04-04,Sara Miller,sara.miller@gmail.com,home and kitchen,Blender,4.0,48.44,0.0,9.32,north,paypal,returned,False,203.07999999999998,Medium
+467,100023,2025-05-23,Sana Wilson,sana.wilson@gmail.com,electronics,4K Monitor,5.0,302.43,0.0,4.17,west,paypal,completed,False,1516.3200000000002,Large
+468,100019,2025-03-30,David Shah,david.shah@gmail.com,home and kitchen,Knife Set,2.0,39.44,0.0,5.4,west,credit card,completed,False,84.28,Small
+469,101167,2025-03-02,Ali Thomas,ali.thomas@gmail.com,clothing,Formal Shirt,2.0,36.1,-15.0,8.48,west,credit card,completed,False,91.51,Small
+470,100347,2025-02-15,Hassan Malik,hassan.malik@hotmail.com,beauty,Shampoo 500ml,6.0,11.99,0.0,6.33,west,paypal,returned,False,78.27,Small
+471,100530,2025-03-08,Zain Anderson,zain.anderson@gmail.com,electronics,Bluetooth Speaker,2.0,57.04,0.0,3.84,south,cash on delivery,completed,False,117.92,Small
+472,101045,2025-03-15,Fatima Wilson,fatima.wilson@outlook.com,sports and outdoors,Water Bottle,5.0,12.26,0.0,11.2,north,cash on delivery,returned,False,72.5,Small
+473,100956,2025-01-03,Bilal Moore,bilal.moore@gmail.com,clothing,Running Shoes,2.0,74.96,0.0,12.59,west,credit card,pending,False,162.51,Small
+475,100747,2025-06-05,Robert Davis,robert.davis@hotmail.com,sports and outdoors,Cycling Helmet,6.0,44.79,0.0,7.09,west,debit card,pending,False,275.83,Medium
+476,100446,2025-04-06,Michael Shah,michael.shah@hotmail.com,books,The Pragmatic Programmer,8.0,38.24,0.0,9.97,north,cash on delivery,cancelled,False,315.89000000000004,Medium
+477,100930,2025-03-25,Hassan Khan,hassan.khan@outlook.com,beauty,Makeup Kit,1.0,38.84,10.0,12.44,north,credit card,returned,False,47.396,Small
+479,101309,2025-03-24,James Taylor,james.taylor@outlook.com,beauty,Shampoo 500ml,5.0,11.54,0.0,10.27,east,cash on delivery,completed,False,67.97,Small
+480,100379,2025-04-22,Zainab Butt,zainab.butt@yahoo.com,beauty,Shampoo 500ml,1.0,11.58,0.0,7.51,east,paypal,completed,False,19.09,Small
+481,101015,2025-04-28,Zainab Raza,zainab.raza@outlook.com,books,Sapiens,1.0,19.87,0.0,6.52,east,paypal,completed,False,26.39,Small
+482,100374,2025-06-28,Ayesha Davis,ayesha.davis@hotmail.com,books,Deep Work,3.0,18.65,0.0,5.03,south,credit card,returned,False,60.98,Small
+483,101244,2025-03-13,Kamran Wilson,kamran.wilson@yahoo.com,home and kitchen,Knife Set,8.0,41.39,0.0,6.88,west,debit card,completed,False,338.0,Medium
+484,100572,2025-05-31,Ali Hussain,ali.hussain@hotmail.com,books,Python Crash Course,4.0,30.95,0.0,4.96,east,credit card,completed,False,128.76,Small
+486,100878,2025-03-26,Fatima Thomas,fatima.thomas@outlook.com,books,The Pragmatic Programmer,-2.0,36.98,10.0,10.06,south,credit card,completed,False,-56.50399999999999,Small
+487,100498,2025-01-01,Bilal Shah,bilal.shah@yahoo.com,electronics,Webcam HD,7.0,44.56,5.0,6.94,east,debit card,completed,False,303.264,Medium
+488,101247,2025-03-25,Omar Ali,omar.ali@outlook.com,clothing,Running Shoes,3.0,73.64,15.0,2.87,north,paypal,returned,False,190.65200000000002,Small
+489,100231,2025-05-14,Laura Khan,laura.khan@outlook.com,clothing,Denim Jacket,8.0,58.43,10.0,6.5,north,cash on delivery,completed,False,427.196,Medium
+490,100147,2025-03-15,Ahmed Ali,ahmed.ali@gmail.com,clothing,Running Shoes,7.0,83.7,0.0,6.4,west,credit card,pending,False,592.3,Large
+491,100382,2025-12-04,Bilal Thomas,bilal.thomas@gmail.com,electronics,Laptop Stand,6.0,22.09,0.0,6.37,north,credit card,pending,False,138.91,Small
+492,100167,2025-01-15,Hassan Sheikh,hassan.sheikh@yahoo.com,books,Python Crash Course,4.0,29.56,0.0,7.07,east,debit card,completed,False,125.31,Small
+493,101089,2025-06-27,Bilal Ahmed,bilal.ahmed@gmail.com,books,Deep Work,2.0,18.92,5.0,11.24,west,cash on delivery,completed,False,47.188,Small
+494,100072,2025-05-16,John Brown,john.brown@hotmail.com,electronics,Smart Watch,6.0,146.36,0.0,12.09,east,debit card,pending,False,890.2500000000001,Large
+495,100070,2025-06-19,Nida Brown,nida.brown@yahoo.com,sports and outdoors,Yoga Mat,3.0,24.57,5.0,4.02,north,credit card,completed,False,74.0445,Small
+496,101126,2025-04-05,Omar Khan,omar.khan@hotmail.com,home and kitchen,Cookware Set,4.0,131.46,5.0,13.64,north,credit card,cancelled,False,513.188,Large
+497,100866,2025-04-10,Omar Thomas,omar.thomas@gmail.com,home and kitchen,Vacuum Cleaner,7.0,162.28,0.0,11.11,south,cash on delivery,completed,False,1147.07,Large
+498,100171,2025-04-08,Kamran Moore,kamran.moore@outlook.com,books,Deep Work,4.0,16.18,15.0,15.26,east,debit card,cancelled,False,70.272,Small
+499,100130,2025-05-14,Emily Johnson,emily.johnson@yahoo.com,beauty,Sunscreen SPF50,5.0,15.36,0.0,9.57,east,debit card,completed,False,86.37,Small
+500,100168,2025-11-04,David Brown,david.brown@outlook.com,sports and outdoors,Yoga Mat,4.0,26.16,5.0,6.99,south,debit card,cancelled,False,106.398,Small
+501,100493,2025-02-26,Ali Taylor,ali.taylor@yahoo.com,home and kitchen,Blender,3.0,46.35,0.0,13.12,west,paypal,returned,False,152.17000000000002,Small
+502,100264,2025-04-20,Ahmed Anderson,ahmed.anderson@outlook.com,home and kitchen,Air Fryer,3.0,89.76,0.0,13.39,south,cash on delivery,completed,False,282.67,Medium
+503,100540,2025-06-13,John Wilson,john.wilson@gmail.com,sports and outdoors,Water Bottle,8.0,13.2,0.0,9.73,west,credit card,pending,False,115.33,Small
+504,100525,2025-06-24,Sara Smith,sara.smith@outlook.com,beauty,Sunscreen SPF50,6.0,15.98,10.0,4.21,west,credit card,completed,False,90.502,Small
+505,101212,2025-12-06,Hina Brown,hina.brown@yahoo.com,sports and outdoors,Cycling Helmet,2.0,42.09,0.0,12.01,south,paypal,cancelled,False,96.19000000000001,Small
+506,100272,2025-02-26,Hina Moore,hina.moore@outlook.com,clothing,Formal Shirt,2.0,37.24,0.0,7.6,west,credit card,cancelled,False,82.08,Small
+507,101076,2025-04-01,Sana Ali,sana.ali@hotmail.com,sports and outdoors,Hiking Backpack,7.0,72.14,-5.0,6.65,east,credit card,returned,False,536.879,Large
+508,100420,2025-05-31,Zainab Hussain,zainab.hussain@gmail.com,clothing,Winter Coat,8.0,116.22,0.0,7.88,east,credit card,completed,False,937.64,Large
+509,100094,2025-05-20,Mariam Ahmed,mariam.ahmed@yahoo.com,books,Python Crash Course,7.0,28.32,0.0,8.79,north,debit card,returned,False,207.03,Medium
+510,101313,2025-03-06,Usman Butt,usman.butt@gmail.com,books,The Pragmatic Programmer,-3.0,34.46,0.0,8.59,south,debit card,pending,False,-94.78999999999999,Small
+511,100635,2025-01-08,John Taylor,john.taylor@yahoo.com,clothing,Wool Sweater,5.0,43.74,0.0,9.81,north,credit card,completed,False,228.51000000000002,Medium
+512,101143,2025-06-10,Faisal Miller,faisal.miller@gmail.com,beauty,Face Serum,4.0,21.14,20.0,6.98,north,paypal,cancelled,False,74.62800000000001,Small
+513,100042,2025-02-13,Imran Taylor,imran.taylor@gmail.com,home and kitchen,Cookware Set,-2.0,139.5,0.0,6.08,north,credit card,returned,False,-272.92,Small
+514,100056,2025-04-21,Mariam Brown,mariam.brown@hotmail.com,electronics,Smart Watch,2.0,152.88,0.0,7.88,north,credit card,completed,False,313.64,Medium
+515,101146,2025-05-31,Kamran Shah,kamran.shah@hotmail.com,electronics,Smart Watch,2.0,164.43,0.0,8.14,north,credit card,completed,False,337.0,Medium
+516,100789,2025-02-19,Maria Sheikh,maria.sheikh@yahoo.com,clothing,Denim Jacket,8.0,63.35,0.0,5.35,west,paypal,returned,False,512.15,Large
+518,100306,2025-04-02,Mariam Ali,mariam.ali@outlook.com,clothing,Formal Shirt,4.0,35.11,10.0,5.74,north,debit card,pending,False,132.136,Small
+519,101016,2025-01-30,Zainab Hussain,zainab.hussain@hotmail.com,beauty,Face Serum,3.0,23.22,0.0,9.46,east,credit card,returned,False,79.12,Small
+520,101261,2025-03-25,Laura Ali,laura.ali@gmail.com,home and kitchen,Coffee Maker,5.0,63.51,0.0,12.06,north,debit card,cancelled,False,329.61,Medium
+522,100166,2025-01-06,Zain Taylor,zain.taylor@hotmail.com,clothing,Cotton T-Shirt,4.0,15.49,0.0,11.39,west,paypal,returned,False,73.35,Small
+523,100801,2025-04-21,Laura Hussain,laura.hussain@outlook.com,books,Sapiens,5.0,20.27,5.0,5.4,west,credit card,completed,False,101.68249999999999,Small
+524,101121,2025-04-24,Maria Moore,maria.moore@outlook.com,clothing,Denim Jacket,7.0,56.15,10.0,7.15,north,cash on delivery,returned,False,360.895,Medium
+525,101317,2025-04-25,Sana Wilson,sana.wilson@gmail.com,beauty,Makeup Kit,5.0,39.86,0.0,8.08,north,credit card,pending,False,207.38000000000002,Medium
+526,101356,2025-10-02,Kamran Sheikh,kamran.sheikh@hotmail.com,home and kitchen,Coffee Maker,2.0,69.66,0.0,7.34,west,debit card,pending,False,146.66,Small
+527,100643,2025-04-09,Ali Wilson,ali.wilson@outlook.com,home and kitchen,Knife Set,4.0,39.88,0.0,6.25,east,cash on delivery,returned,False,165.77,Small
+528,101277,2025-01-03,Ayesha Malik,ayesha.malik@hotmail.com,clothing,Winter Coat,6.0,113.24,10.0,14.43,south,debit card,pending,False,625.9259999999999,Large
+529,100316,2025-02-04,John Iqbal,john.iqbalgmail.com,books,The Pragmatic Programmer,1.0,35.36,0.0,9.47,east,credit card,completed,False,44.83,Small
+530,100874,2025-05-22,James Iqbal,james.iqbal@outlook.com,electronics,Bluetooth Speaker,4.0,64.6,0.0,6.34,north,paypal,completed,False,264.73999999999995,Medium
+531,101235,2025-05-17,Michael Wilson,michael.wilson@yahoo.com,sports and outdoors,Cycling Helmet,6.0,46.17,0.0,7.46,west,debit card,cancelled,False,284.47999999999996,Medium
+532,100971,2025-03-01,Laura Anderson,laura.anderson@gmail.com,clothing,Denim Jacket,1.0,56.39,5.0,6.55,south,credit card,returned,False,60.12049999999999,Small
+533,100593,2025-01-13,Usman Davis,usman.davis@yahoo.com,sports and outdoors,Camping Tent,7.0,162.78,0.0,8.89,east,paypal,completed,False,1148.3500000000001,Large
+535,100671,2025-03-24,Nida Sheikh,nida.sheikh@gmail.com,sports and outdoors,Yoga Mat,4.0,26.48,0.0,4.21,south,credit card,completed,False,110.13,Small
+536,101326,2025-04-29,Michael Butt,michael.butt@hotmail.com,home and kitchen,Blender,6.0,51.93,0.0,7.23,west,paypal,cancelled,False,318.81,Medium
+537,100736,2025-11-03,Faisal Iqbal,faisal.iqbal@yahoo.com,beauty,Perfume 50ml,2.0,57.96,0.0,6.63,east,debit card,completed,False,122.55,Small
+538,100961,2025-05-08,Sara Ali,sara.ali@yahoo.com,books,Atomic Habits,7.0,17.25,0.0,11.39,west,credit card,returned,False,132.14,Small
+539,100981,2025-04-03,Omar Butt,omar.butt@hotmail.com,home and kitchen,Vacuum Cleaner,3.0,156.78,0.0,12.93,south,credit card,completed,False,483.27000000000004,Medium
+540,100598,2025-05-18,Laura Hussain,laura.hussain@hotmail.com,home and kitchen,Blender,6.0,50.74,0.0,3.02,east,cash on delivery,cancelled,False,307.46,Medium
+541,100061,2025-06-22,Laura Wilson,laura.wilson@yahoo.com,clothing,Running Shoes,-3.0,78.35,0.0,9.29,east,credit card,returned,False,-225.76,Small
+542,101197,2025-04-05,Laura Moore,laura.moore@yahoo.com,sports and outdoors,Camping Tent,2.0,163.5,0.0,6.87,south,debit card,returned,False,333.87,Medium
+543,100536,2025-02-28,Usman Malik,usman.malik@gmail.com,beauty,Makeup Kit,-4.0,41.01,5.0,7.35,north,credit card,returned,False,-148.488,Small
+545,100941,2025-02-06,Laura Johnson,laura.johnson@outlook.com,electronics,USB-C Hub,4.0,36.47,0.0,8.9,south,paypal,completed,False,154.78,Small
+546,100244,2025-03-29,Hassan Anderson,hassan.anderson@gmail.com,electronics,Wireless Earbuds,6.0,39.8,0.0,1.16,west,cash on delivery,cancelled,False,239.95999999999998,Medium
+547,100025,2025-01-24,Hina Sheikh,hina.sheikh@outlook.com,beauty,Makeup Kit,-1.0,40.27,5.0,6.72,west,paypal,completed,False,-31.536500000000004,Small
+548,100222,2025-02-27,Amna Raza,amna.raza@outlook.com,sports and outdoors,Hiking Backpack,7.0,70.61,0.0,7.03,north,paypal,pending,False,501.29999999999995,Large
+549,101144,2025-03-05,Fatima Ahmed,fatima.ahmed@yahoo.com,electronics,USB-C Hub,8.0,35.18,0.0,9.58,west,cash on delivery,cancelled,False,291.02,Medium
+550,100105,2025-06-01,James Wilson,james.wilson@gmail.com,beauty,Sunscreen SPF50,4.0,16.93,-5.0,13.23,south,debit card,completed,False,84.33600000000001,Small
+551,100693,2025-02-21,Nida Miller,nida.miller@hotmail.com,clothing,Wool Sweater,6.0,42.1,0.0,8.16,west,paypal,completed,False,260.76000000000005,Medium
+552,100509,2025-02-04,Maria Raza,maria.raza@outlook.com,beauty,Makeup Kit,5.0,42.15,0.0,7.49,south,debit card,pending,False,218.24,Medium
+554,101090,2025-05-05,Kamran Johnson,kamran.johnson@outlook.com,electronics,Wireless Earbuds,5.0,39.34,0.0,6.87,north,debit card,completed,False,203.57000000000002,Medium
+555,101141,2025-06-24,Imran Sheikh,imran.sheikh@gmail.com,home and kitchen,Blender,5.0,49.8,10.0,9.14,west,credit card,returned,False,233.24,Medium
+556,100508,2025-03-27,Mariam Brown,mariam.brown@outlook.com,beauty,Face Serum,5.0,22.72,15.0,6.73,south,credit card,cancelled,False,103.28999999999999,Small
+558,100075,2025-05-02,Faisal Shah,faisal.shah@yahoo.com,sports and outdoors,Cycling Helmet,8.0,45.39,0.0,8.27,west,credit card,returned,False,371.39,Medium
+559,100036,2025-02-03,Bilal Anderson,bilal.anderson@yahoo.com,electronics,Wireless Earbuds,4.0,41.67,0.0,9.3,south,credit card,completed,False,175.98000000000002,Small
+560,101267,2025-04-23,Maria Anderson,maria.anderson@gmail.com,beauty,Makeup Kit,6.0,39.89,0.0,12.09,east,cash on delivery,completed,False,251.43,Medium
+561,100057,2025-01-21,Anna Ali,anna.ali@outlook.com,electronics,Smart Watch,5.0,145.08,0.0,6.64,east,credit card,completed,False,732.0400000000001,Large
+562,100196,2025-03-28,Maria Taylor,maria.taylor@hotmail.com,electronics,Webcam HD,4.0,45.41,15.0,0.77,east,paypal,pending,False,155.164,Small
+563,101189,2025-01-01,Usman Iqbal,usman.iqbal@hotmail.com,home and kitchen,Coffee Maker,5.0,71.71,0.0,10.18,south,credit card,returned,False,368.72999999999996,Medium
+564,100779,2025-06-08,Anna Butt,anna.butt@hotmail.com,electronics,Wireless Earbuds,4.0,40.16,20.0,10.5,south,cash on delivery,returned,False,139.012,Small
+565,101118,2025-05-07,Mariam Hussain,mariam.hussain@gmail.com,clothing,Running Shoes,4.0,77.5,0.0,4.94,south,credit card,returned,False,314.94,Medium
+566,100477,2025-01-17,Ayesha Khan,ayesha.khanyahoo.com,beauty,Perfume 50ml,4.0,56.79,0.0,7.19,north,credit card,cancelled,False,234.35,Medium
+567,100086,2025-04-19,Kamran Malik,kamran.malik@yahoo.com,home and kitchen,Air Fryer,7.0,91.95,0.0,7.6,east,credit card,returned,False,651.25,Large
+568,100561,2025-02-20,Omar Wilson,omar.wilson@outlook.com,electronics,Laptop Stand,4.0,23.71,0.0,11.69,south,credit card,completed,False,106.53,Small
+569,100334,2025-04-18,Anna Davis,anna.davis@gmail.com,clothing,Running Shoes,5.0,83.06,0.0,8.39,north,credit card,cancelled,False,423.69,Medium
+570,100963,2025-03-18,James Miller,james.miller@outlook.com,home and kitchen,Knife Set,6.0,41.01,0.0,6.81,east,credit card,completed,False,252.87,Medium
+571,100758,2025-02-07,Sara Johnson,sara.johnson@hotmail.com,sports and outdoors,Yoga Mat,5.0,25.51,0.0,9.89,north,cash on delivery,pending,False,137.44,Small
+572,100835,2025-06-03,Omar Khan,omar.khan@yahoo.com,sports and outdoors,Hiking Backpack,3.0,73.52,0.0,11.65,east,paypal,returned,False,232.21,Medium
+573,101115,2025-09-01,Amna Ali,amna.ali@outlook.com,clothing,Cotton T-Shirt,1.0,15.12,0.0,5.25,east,credit card,returned,False,20.369999999999997,Small
+574,101120,2025-01-24,Fatima Hussain,fatima.hussain@gmail.com,sports and outdoors,Dumbbell Set,7.0,90.96,0.0,9.46,north,debit card,cancelled,False,646.18,Large
+575,100538,2025-07-05,Kamran Smith,kamran.smith@yahoo.com,electronics,Bluetooth Speaker,5.0,59.86,0.0,5.97,north,credit card,cancelled,False,305.27000000000004,Medium
+576,101186,2025-03-20,Zainab Thomas,zainab.thomas@outlook.com,home and kitchen,Cookware Set,5.0,124.62,0.0,8.34,west,paypal,returned,False,631.44,Large
+577,100418,2025-03-22,David Brown,david.brown@yahoo.com,clothing,Denim Jacket,4.0,59.48,0.0,10.9,west,debit card,returned,False,248.82,Medium
+578,100879,2025-04-10,Robert Thomas,robert.thomas@gmail.com,beauty,Perfume 50ml,7.0,58.31,0.0,7.36,south,cash on delivery,completed,False,415.53000000000003,Medium
+579,101344,2025-03-28,Kamran Ahmed,kamran.ahmed@yahoo.com,beauty,Perfume 50ml,4.0,53.0,15.0,14.6,east,debit card,returned,False,194.79999999999998,Small
+580,101169,2025-05-21,Nida Moore,nida.moore@gmail.com,sports and outdoors,Yoga Mat,1.0,25.67,0.0,9.53,east,debit card,cancelled,False,35.2,Small
+581,100573,2025-04-30,Maria Khan,maria.khan@gmail.com,electronics,Bluetooth Speaker,4.0,60.37,15.0,6.41,west,cash on delivery,returned,False,211.66799999999998,Medium
+582,100619,2025-03-30,Ali Hussain,ali.hussain@yahoo.com,sports and outdoors,Hiking Backpack,2.0,68.94,0.0,9.43,east,cash on delivery,returned,False,147.31,Small
+583,101128,2025-04-09,Ali Moore,ali.moore@outlook.com,electronics,Webcam HD,2.0,45.61,5.0,3.35,west,debit card,pending,False,90.00899999999999,Small
+584,100332,2025-01-01,James Khan,james.khan@yahoo.com,sports and outdoors,Cycling Helmet,7.0,43.9,88.4,13.38,south,paypal,pending,False,49.0268,Small
+585,100765,2025-05-17,Kamran Raza,kamran.raza@hotmail.com,electronics,Webcam HD,2.0,48.61,5.0,6.72,east,credit card,pending,False,99.079,Small
+586,100574,2025-01-27,Faisal Butt,faisal.butt@hotmail.com,books,Python Crash Course,-1.0,30.9,0.0,11.14,south,paypal,pending,False,-19.759999999999998,Small
+587,101299,2025-04-19,James Smith,james.smith@hotmail.com,clothing,Running Shoes,-3.0,75.74,20.0,11.39,west,credit card,pending,False,-170.38599999999997,Small
+588,101222,2025-03-06,Ayesha Sheikh,ayesha.sheikh@gmail.com,home and kitchen,Cookware Set,2.0,119.71,5.0,4.7,west,credit card,cancelled,False,232.14899999999997,Medium
+589,101123,2025-05-27,Sarah Thomas,sarah.thomas@hotmail.com,books,The Pragmatic Programmer,-4.0,32.3,5.0,6.25,west,credit card,pending,False,-116.48999999999998,Small
+592,100008,2025-12-04,Anna Shah,anna.shah@yahoo.com,clothing,Denim Jacket,2.0,58.71,0.0,9.6,south,paypal,cancelled,False,127.02,Small
+593,100856,2025-04-27,Usman Ahmed,usman.ahmed@hotmail.com,home and kitchen,Air Fryer,8.0,91.97,0.0,9.41,north,debit card,returned,False,745.17,Large
+594,101236,2025-11-06,Michael Iqbal,michael.iqbal@hotmail.com,beauty,Shampoo 500ml,3.0,12.35,5.0,7.17,west,credit card,returned,False,42.3675,Small
+595,100738,2025-05-15,Usman Iqbal,usman.iqbal@hotmail.com,electronics,Webcam HD,4.0,47.81,20.0,12.09,east,cash on delivery,returned,False,165.08200000000002,Small
+597,101087,2025-06-14,Robert Davis,robert.davis@gmail.com,home and kitchen,Cookware Set,3.0,132.14,0.0,6.53,north,debit card,completed,False,402.94999999999993,Medium
+598,100074,2025-09-02,Imran Wilson,imran.wilson@hotmail.com,sports and outdoors,Water Bottle,6.0,12.54,0.0,-8.73,east,debit card,cancelled,False,66.50999999999999,Small
+599,100788,2025-01-19,Fatima Malik,fatima.malik@hotmail.com,clothing,Cotton T-Shirt,8.0,15.35,0.0,12.44,west,credit card,returned,False,135.24,Small
+600,100522,2025-01-17,Amna Ahmed,amna.ahmed@yahoo.com,home and kitchen,Coffee Maker,5.0,66.7,0.0,4.51,north,credit card,pending,False,338.01,Medium
+601,100335,2025-04-06,Maria Brown,maria.brown@yahoo.com,sports and outdoors,Yoga Mat,7.0,26.02,0.0,-5.81,east,credit card,completed,False,176.32999999999998,Small
+602,100569,2025-02-26,John Sheikh,john.sheikh@yahoo.com,books,Sapiens,2.0,17.67,0.0,13.71,east,cash on delivery,pending,False,49.050000000000004,Small
+603,100590,2025-06-28,Hina Iqbal,hina.iqbal@gmail.com,home and kitchen,Knife Set,4.0,37.56,0.0,5.25,north,credit card,cancelled,False,155.49,Small
+604,100088,2025-02-12,Nida Raza,nida.raza@yahoo.com,electronics,Wireless Earbuds,8.0,40.45,0.0,9.41,north,debit card,returned,False,333.01000000000005,Medium
+605,101354,2025-06-02,Zain Ali,zain.ali@hotmail.com,clothing,Running Shoes,6.0,77.38,0.0,-8.54,north,credit card,returned,False,455.73999999999995,Medium
+606,100217,2025-05-12,Amna Shah,amna.shahyahoo.com,home and kitchen,Air Fryer,-3.0,99.23,0.0,6.99,east,credit card,returned,False,-290.7,Small
+607,101275,2025-04-23,David Ahmed,david.ahmed@yahoo.com,sports and outdoors,Cycling Helmet,3.0,44.52,0.0,7.23,west,credit card,returned,False,140.79,Small
+608,100173,2025-04-21,Amna Iqbal,amna.iqbal@outlook.com,home and kitchen,Cookware Set,4.0,119.84,0.0,8.3,east,cash on delivery,completed,False,487.66,Medium
+610,101135,2025-06-11,Amna Johnson,amna.johnson@outlook.com,clothing,Cotton T-Shirt,5.0,15.18,0.0,3.36,north,debit card,completed,False,79.26,Small
+611,100319,2025-04-17,Anna Ali,anna.ali@hotmail.com,electronics,Bluetooth Speaker,6.0,49.05,0.0,12.09,east,credit card,pending,False,306.38999999999993,Medium
+612,101253,2025-02-13,Ayesha Davis,ayesha.davis@yahoo.com,electronics,USB-C Hub,3.0,32.76,5.0,2.64,east,debit card,pending,False,96.006,Small
+613,100739,2025-02-16,Zain Wilson,zain.wilson@yahoo.com,beauty,Perfume 50ml,5.0,59.88,0.0,8.04,south,credit card,pending,False,307.44000000000005,Medium
+614,100266,2025-04-24,James Ahmed,james.ahmed@yahoo.com,electronics,Webcam HD,6.0,46.09,0.0,4.75,west,credit card,completed,False,281.29,Medium
+615,100006,2025-01-26,Amna Miller,amna.miller@gmail.com,books,Atomic Habits,7.0,17.74,0.0,7.45,east,cash on delivery,pending,False,131.63,Small
+616,100138,2025-05-25,John Taylor,john.taylor@outlook.com,home and kitchen,Blender,8.0,52.06,0.0,4.11,west,paypal,completed,False,420.59000000000003,Medium
+617,100163,2025-01-28,Emily Taylor,emily.taylor@hotmail.com,beauty,Shampoo 500ml,2.0,12.04,15.0,7.83,south,credit card,cancelled,False,28.297999999999995,Small
+618,101183,2025-03-09,Anna Wilson,anna.wilson@hotmail.com,home and kitchen,Knife Set,1.0,38.51,0.0,11.1,east,paypal,returned,False,49.61,Small
+619,100594,2025-04-19,Hassan Shah,hassan.shah@outlook.com,sports and outdoors,Hiking Backpack,7.0,65.28,0.0,4.64,east,cash on delivery,completed,False,461.6,Medium
+620,101269,2025-04-01,Hassan Brown,hassan.brown@yahoo.com,clothing,Wool Sweater,3.0,39.08,0.0,8.48,east,paypal,completed,False,125.72,Small
+621,101049,2025-06-08,Hassan Moore,hassan.moore@yahoo.com,electronics,Smart Watch,4.0,149.14,5.0,8.72,west,credit card,completed,False,575.452,Large
+622,100010,2025-02-10,Michael Johnson,michael.johnson@outlook.com,clothing,Denim Jacket,8.0,58.94,10.0,0.74,north,paypal,completed,False,425.108,Medium
+624,100786,2025-11-03,Maria Butt,maria.butt@hotmail.com,beauty,Perfume 50ml,3.0,55.88,0.0,12.71,east,cash on delivery,pending,False,180.35000000000002,Small
+626,100743,2025-05-12,Fatima Miller,fatima.miller@outlook.com,sports and outdoors,Water Bottle,2.0,12.93,0.0,11.39,west,credit card,completed,False,37.25,Small
+627,100708,2025-05-25,Maria Iqbal,maria.iqbal@gmail.com,beauty,Shampoo 500ml,3.0,12.32,0.0,5.57,south,debit card,returned,False,42.53,Small
+629,100691,2025-02-24,Sara Malik,sara.malik@outlook.com,clothing,Formal Shirt,2.0,34.65,0.0,3.78,south,credit card,pending,False,73.08,Small
+630,100704,2025-05-02,Faisal Iqbal,faisal.iqbal@gmail.com,electronics,Wireless Earbuds,7.0,38.39,-5.0,9.17,north,credit card,cancelled,False,291.33650000000006,Medium
+631,100618,2025-06-20,Sara Miller,sara.miller@hotmail.com,home and kitchen,Cookware Set,6.0,134.29,0.0,8.69,west,credit card,cancelled,False,814.4300000000001,Large
+632,100716,2025-12-06,David Taylor,david.taylor@gmail.com,home and kitchen,Coffee Maker,2.0,67.47,0.0,11.39,west,credit card,cancelled,False,146.32999999999998,Small
+633,101252,2025-09-04,Rabia Butt,rabia.butt@gmail.com,electronics,Laptop Stand,4.0,24.37,0.0,9.31,north,debit card,completed,False,106.79,Small
+634,100137,2025-02-26,Ali Taylor,ali.taylorgmail.com,beauty,Sunscreen SPF50,6.0,16.41,0.0,7.65,west,credit card,completed,False,106.11000000000001,Small
+635,100557,2025-05-07,Michael Miller,michael.miller@yahoo.com,books,Python Crash Course,1.0,28.94,0.0,3.21,west,credit card,pending,False,32.15,Small
+636,101177,2025-09-05,Ahmed Moore,ahmed.moore@yahoo.com,electronics,Wireless Earbuds,8.0,42.6,0.0,9.41,south,credit card,completed,False,350.21000000000004,Medium
+637,100841,2025-05-30,Bilal Butt,bilal.butt@hotmail.com,electronics,USB-C Hub,1.0,34.61,10.0,7.36,west,cash on delivery,returned,False,38.509,Small
+638,101069,2025-03-20,Zain Smith,zain.smith@hotmail.com,sports and outdoors,Water Bottle,6.0,13.2,0.0,12.09,east,credit card,cancelled,False,91.28999999999999,Small
+639,101098,2025-01-27,Maria Brown,maria.brown@hotmail.com,beauty,Sunscreen SPF50,7.0,16.49,0.0,7.82,west,debit card,cancelled,False,123.25,Small
+640,100368,2025-01-22,Laura Malik,laura.malik@outlook.com,electronics,USB-C Hub,1.0,36.69,0.0,11.39,west,paypal,cancelled,False,48.08,Small
+641,101353,2025-04-22,Bilal Khan,bilal.khan@yahoo.com,books,Atomic Habits,7.0,16.91,15.0,11.19,west,credit card,cancelled,False,111.8045,Small
+642,100715,2025-03-12,Zainab Wilson,zainab.wilson@hotmail.com,electronics,USB-C Hub,3.0,34.41,0.0,9.18,north,credit card,completed,False,112.41,Small
+644,100317,2025-07-05,Sarah Brown,sarah.brown@yahoo.com,clothing,Wool Sweater,2.0,47.69,0.0,6.93,south,cash on delivery,completed,False,102.31,Small
+646,101064,2025-01-17,Anna Brown,anna.brown@gmail.com,clothing,Formal Shirt,6.0,35.14,15.0,7.65,north,cash on delivery,completed,False,186.864,Small
+647,100528,2025-04-17,Fatima Sheikh,fatima.sheikh@gmail.com,clothing,Denim Jacket,4.0,61.64,0.0,7.64,south,credit card,completed,False,254.2,Medium
+648,100526,2025-05-19,Kamran Davis,kamran.davis@hotmail.com,home and kitchen,Knife Set,4.0,39.88,0.0,1.36,north,cash on delivery,cancelled,False,160.88000000000002,Small
+649,100087,2025-05-25,Ali Wilson,ali.wilson@hotmail.com,books,Deep Work,6.0,17.68,0.0,7.2,west,credit card,pending,False,113.28,Small
+650,100479,2025-02-04,Omar Johnson,omar.johnson@outlook.com,books,Sapiens,3.0,20.23,0.0,6.68,east,credit card,returned,False,67.37,Small
+651,100338,2025-03-18,Ahmed Wilson,ahmed.wilson@yahoo.com,books,Python Crash Course,2.0,31.12,0.0,4.3,west,credit card,completed,False,66.54,Small
+652,100699,2025-03-04,Sarah Davis,sarah.davis@gmail.com,beauty,Makeup Kit,5.0,41.63,5.0,10.35,north,credit card,completed,False,208.0925,Medium
+653,100148,2025-04-14,David Brown,david.brown@yahoo.com,books,Deep Work,-3.0,17.97,0.0,9.28,north,paypal,pending,False,-44.629999999999995,Small
+654,101164,2025-04-27,Laura Moore,laura.moore@yahoo.com,beauty,Sunscreen SPF50,3.0,16.18,0.0,8.47,south,paypal,returned,False,57.01,Small
+655,101327,2025-01-05,Emily Brown,emily.brown@hotmail.com,beauty,Face Serum,4.0,22.58,0.0,5.58,west,debit card,cancelled,False,95.89999999999999,Small
+657,100246,2025-10-01,Sarah Miller,sarah.miller@hotmail.com,sports and outdoors,Yoga Mat,3.0,25.34,-20.0,4.58,south,cash on delivery,cancelled,False,95.80399999999999,Small
+658,100365,2025-06-30,James Ahmed,james.ahmed@yahoo.com,home and kitchen,Knife Set,4.0,39.44,0.0,8.03,east,paypal,pending,False,165.79,Small
+659,100995,2025-04-03,Emily Brown,emily.brown@hotmail.com,home and kitchen,Air Fryer,5.0,89.59,0.0,7.41,south,paypal,returned,False,455.36000000000007,Medium
+660,101084,2025-04-09,Hina Anderson,hina.anderson@yahoo.com,sports and outdoors,Yoga Mat,1.0,26.2,0.0,9.03,north,cash on delivery,completed,False,35.23,Small
+661,100198,2025-02-15,David Davis,david.davis@outlook.com,home and kitchen,Knife Set,5.0,41.42,5.0,4.47,north,paypal,returned,False,201.215,Medium
+662,100720,2025-02-26,Usman Johnson,usman.johnson@outlook.com,electronics,4K Monitor,4.0,288.98,0.0,10.03,south,cash on delivery,completed,False,1165.95,Large
+663,100851,2025-06-05,Ayesha Brown,ayesha.brown@outlook.com,beauty,Makeup Kit,1.0,39.77,10.0,1.74,west,credit card,returned,False,37.53300000000001,Small
+665,100734,2025-01-31,Fatima Anderson,fatima.anderson@yahoo.com,home and kitchen,Blender,-1.0,49.45,0.0,6.38,east,credit card,completed,False,-43.07,Small
+666,100483,2025-06-01,Nida Ali,nida.ali@gmail.com,books,Sapiens,2.0,22.31,0.0,7.08,east,credit card,completed,False,51.699999999999996,Small
+667,100158,2025-03-14,Mariam Taylor,mariam.taylor@gmail.com,beauty,Makeup Kit,5.0,43.86,0.0,12.09,east,credit card,completed,False,231.39000000000001,Medium
+668,100315,2025-01-31,Nida Brown,nida.brownyahoo.com,beauty,Makeup Kit,7.0,39.81,0.0,10.6,south,paypal,pending,False,289.27000000000004,Medium
+669,100256,2025-04-26,Hina Wilson,hina.wilson@gmail.com,sports and outdoors,Dumbbell Set,4.0,85.85,0.0,9.92,west,cash on delivery,pending,False,353.32,Medium
+671,100947,2025-04-13,Usman Brown,usman.brown@hotmail.com,beauty,Sunscreen SPF50,2.0,16.17,20.0,8.23,north,debit card,completed,False,34.102000000000004,Small
+672,100384,2025-05-04,Usman Thomas,usman.thomas@hotmail.com,beauty,Face Serum,7.0,22.55,0.0,11.09,north,cash on delivery,cancelled,False,168.94,Small
+673,100177,2025-01-24,David Anderson,david.anderson@yahoo.com,books,Deep Work,3.0,20.26,0.0,12.21,east,credit card,completed,False,72.99000000000001,Small
+674,100718,2025-05-09,David Malik,david.malik@yahoo.com,home and kitchen,Blender,8.0,49.83,-10.0,5.46,west,debit card,pending,False,443.964,Medium
+675,100314,2025-01-12,Bilal Raza,bilal.raza@outlook.com,electronics,Smart Watch,1.0,152.31,0.0,11.39,west,credit card,cancelled,False,163.7,Small
+676,100357,2025-04-19,John Khan,john.khan@yahoo.com,home and kitchen,Vacuum Cleaner,-2.0,159.51,0.0,9.37,south,cash on delivery,returned,False,-309.65,Small
+677,100298,2025-06-28,Ahmed Moore,ahmed.moore@yahoo.com,beauty,Face Serum,7.0,21.73,0.0,11.73,west,credit card,pending,False,163.84,Small
+678,100455,2025-04-13,Faisal Taylor,faisal.taylor@outlook.com,beauty,Makeup Kit,3.0,36.52,0.0,6.86,south,cash on delivery,cancelled,False,116.42,Small
+679,100543,2025-05-22,Imran Taylor,imran.taylor@hotmail.com,beauty,Face Serum,5.0,24.82,0.0,11.23,west,paypal,cancelled,False,135.32999999999998,Small
+680,100662,2025-01-22,Zain Davis,zain.davis@outlook.com,books,Python Crash Course,3.0,29.15,0.0,7.24,east,debit card,pending,False,94.68999999999998,Small
+681,101008,2025-06-29,Maria Johnson,maria.johnson@gmail.com,electronics,Wireless Earbuds,5.0,37.54,0.0,9.21,west,paypal,returned,False,196.91,Small
+682,100781,2025-02-02,Michael Smith,michael.smith@hotmail.com,books,Deep Work,2.0,455.38,-5.0,10.44,north,debit card,completed,True,966.738,Large
+683,100527,2025-02-20,Zainab Anderson,zainab.anderson@outlook.com,beauty,Makeup Kit,3.0,40.68,0.0,7.54,west,credit card,completed,False,129.57999999999998,Small
+684,101203,2025-03-26,Maria Johnson,maria.johnson@hotmail.com,beauty,Perfume 50ml,7.0,56.76,0.0,6.26,east,debit card,cancelled,False,403.58,Medium
+688,101266,2025-06-28,Sarah Smith,sarah.smith@hotmail.com,beauty,Shampoo 500ml,5.0,11.0,10.0,-10.52,north,credit card,completed,False,38.980000000000004,Small
+689,100202,2025-01-31,Ali Shah,ali.shah@gmail.com,electronics,Bluetooth Speaker,3.0,0.01,0.0,2.68,south,debit card,returned,False,2.71,Small
+690,100840,2025-01-07,Rabia Sheikh,rabia.sheikh@gmail.com,books,The Pragmatic Programmer,2.0,37.5,0.0,2.87,west,credit card,completed,False,77.87,Small
+691,100717,2025-07-06,Michael Malik,michael.malik@hotmail.com,clothing,Denim Jacket,3.0,62.8,0.0,8.38,north,cash on delivery,completed,False,196.77999999999997,Small
+693,101070,2025-02-28,Anna Brown,anna.brown@outlook.com,home and kitchen,Blender,4.0,50.09,0.0,10.11,east,credit card,returned,False,210.47000000000003,Medium
+695,101114,2025-04-11,Hassan Malik,hassan.malik@gmail.com,beauty,Shampoo 500ml,8.0,11.11,5.0,8.77,east,debit card,completed,False,93.20599999999999,Small
+697,100920,2025-03-02,James Thomas,james.thomas@yahoo.com,sports and outdoors,Dumbbell Set,7.0,92.86,0.0,216.22,south,debit card,pending,False,866.24,Large
+698,101067,2025-02-18,Bilal Taylor,bilal.taylor@yahoo.com,home and kitchen,Coffee Maker,1.0,74.06,0.0,11.31,south,credit card,completed,False,85.37,Small
+700,100459,2025-04-05,Ayesha Ahmed,ayesha.ahmed@hotmail.com,books,The Pragmatic Programmer,-4.0,34.95,5.0,9.67,north,debit card,completed,False,-123.14,Small
+701,100903,2025-02-22,Ayesha Smith,ayesha.smith@hotmail.com,clothing,Denim Jacket,8.0,61.19,20.0,8.91,west,paypal,completed,False,400.526,Medium
+703,100756,2025-03-25,Zain Brown,zain.brown@yahoo.com,electronics,Smart Watch,2.0,153.57,0.0,9.83,south,paypal,cancelled,False,316.96999999999997,Medium
+704,101316,2025-05-16,Sarah Brown,sarah.brown@outlook.com,sports and outdoors,Hiking Backpack,3.0,69.85,15.0,12.09,east,paypal,completed,False,190.20749999999998,Small
+705,100449,2025-08-04,James Davis,james.davis@yahoo.com,beauty,Face Serum,1.0,21.8,15.0,8.98,north,credit card,completed,False,27.51,Small
+706,100679,2025-02-13,Maria Wilson,maria.wilson@yahoo.com,home and kitchen,Air Fryer,1.0,1419.75,0.0,10.21,west,cash on delivery,returned,True,1429.96,Large
+707,100692,2025-02-14,Faisal Malik,faisal.malik@outlook.com,sports and outdoors,Dumbbell Set,5.0,81.09,0.0,8.17,north,credit card,completed,False,413.62000000000006,Medium
+708,101296,2025-02-16,Amna Thomas,amna.thomas@gmail.com,beauty,Face Serum,6.0,22.16,0.0,3.76,south,cash on delivery,pending,False,136.72,Small
+709,100080,2025-03-10,Ayesha Khan,ayesha.khan@outlook.com,electronics,Laptop Stand,7.0,24.79,0.0,6.41,north,credit card,completed,False,179.94,Small
+710,101256,2025-04-09,Sara Sheikh,sara.sheikh@gmail.com,beauty,Makeup Kit,1.0,41.84,10.0,10.78,west,credit card,completed,False,48.43600000000001,Small
+711,100286,2025-03-30,Zain Wilson,zain.wilson@yahoo.com,electronics,USB-C Hub,-4.0,34.6,0.0,10.95,south,credit card,completed,False,-127.45,Small
+712,100215,2025-04-24,Usman Wilson,usman.wilson@gmail.com,clothing,Denim Jacket,7.0,59.42,0.0,9.74,east,cash on delivery,returned,False,425.68,Medium
+713,100882,2025-01-26,Zainab Davis,zainab.davis@gmail.com,home and kitchen,Coffee Maker,3.0,75.05,10.0,12.92,south,credit card,completed,False,215.55499999999998,Medium
+715,100242,2025-03-10,Hina Brown,hina.brown@yahoo.com,books,Python Crash Course,1.0,29.67,0.0,3.31,west,debit card,pending,False,32.980000000000004,Small
+716,100907,2025-06-22,Nida Ali,nida.ali@yahoo.com,home and kitchen,Cookware Set,2.0,136.75,0.0,8.53,west,debit card,completed,False,282.03,Medium
+717,100641,2025-07-02,Robert Taylor,robert.taylor@yahoo.com,electronics,Laptop Stand,4.0,24.59,5.0,4.72,west,paypal,completed,False,98.16199999999999,Small
+718,100696,2025-06-27,Bilal Hussain,bilal.hussain@hotmail.com,home and kitchen,Knife Set,3.0,42.03,15.0,7.71,west,credit card,cancelled,False,114.8865,Small
+719,100209,2025-04-30,Robert Smith,robert.smith@outlook.com,sports and outdoors,Camping Tent,7.0,150.71,0.0,6.68,south,debit card,returned,False,1061.65,Large
+720,101018,2025-02-19,Laura Smith,laura.smith@hotmail.com,clothing,Cotton T-Shirt,6.0,15.74,0.0,5.29,east,cash on delivery,returned,False,99.73,Small
+721,100435,2025-01-15,Amna Anderson,amna.anderson@hotmail.com,electronics,4K Monitor,8.0,259.77,10.0,10.26,south,debit card,returned,False,1880.6039999999998,Large
+722,101002,2025-06-22,Hina Miller,hina.miller@outlook.com,sports and outdoors,Dumbbell Set,2.0,93.08,0.0,3.36,east,cash on delivery,cancelled,False,189.52,Small
+723,101346,2025-04-20,Sara Moore,sara.mooregmail.com,clothing,Running Shoes,3.0,80.36,0.0,7.91,east,credit card,completed,False,248.98999999999998,Medium
+725,101311,2025-05-24,Hina Sheikh,hina.sheikh@hotmail.com,home and kitchen,Air Fryer,-1.0,90.93,0.0,9.41,south,paypal,pending,False,-81.52000000000001,Small
+726,100688,2025-03-14,Anna Taylor,anna.taylor@hotmail.com,beauty,Face Serum,5.0,21.33,0.0,8.82,east,credit card,completed,False,115.47,Small
+727,100551,2025-04-06,Usman Miller,usman.miller@outlook.com,books,The Pragmatic Programmer,4.0,37.22,5.0,6.84,south,credit card,completed,False,148.27599999999998,Small
+728,100544,2025-04-26,Amna Ahmed,amna.ahmed@gmail.com,sports and outdoors,Camping Tent,3.0,140.84,0.0,8.44,east,credit card,completed,False,430.96,Medium
+729,100982,2025-03-25,Omar Ali,omar.ali@gmail.com,books,The Pragmatic Programmer,1.0,37.2,5.0,7.12,south,debit card,completed,False,42.46,Small
+731,101058,2025-04-26,Zain Khan,zain.khan@outlook.com,electronics,Laptop Stand,3.0,25.96,20.0,10.59,east,paypal,pending,False,72.894,Small
+733,100403,2025-01-11,Sarah Brown,sarah.brown@gmail.com,sports and outdoors,Cycling Helmet,4.0,43.47,0.0,5.36,south,cash on delivery,pending,False,179.24,Small
+734,101097,2025-03-28,James Butt,james.butt@yahoo.com,clothing,Cotton T-Shirt,-4.0,14.62,10.0,12.09,east,paypal,cancelled,False,-40.542,Small
+735,100362,2025-02-21,Anna Shah,anna.shah@yahoo.com,books,Python Crash Course,2.0,30.36,0.0,9.3,east,debit card,cancelled,False,70.02,Small
+736,100271,2025-03-05,Ayesha Butt,ayesha.butt@yahoo.com,clothing,Winter Coat,2.0,113.49,0.0,9.14,west,credit card,returned,False,236.12,Medium
+737,100466,2025-02-10,Bilal Smith,bilal.smith@yahoo.com,sports and outdoors,Cycling Helmet,4.0,49.18,0.0,7.45,north,cash on delivery,returned,False,204.17,Medium
+738,101282,2025-02-14,Ahmed Raza,ahmed.raza@outlook.com,books,The Pragmatic Programmer,3.0,35.14,0.0,7.72,west,cash on delivery,pending,False,113.14,Small
+739,101162,2025-11-01,Ali Sheikh,ali.sheikh@yahoo.com,clothing,Wool Sweater,7.0,45.59,5.0,7.29,west,credit card,completed,False,310.4635,Medium
+740,100277,2025-01-29,Michael Thomas,michael.thomas@gmail.com,clothing,Winter Coat,5.0,113.15,0.0,-12.31,west,debit card,completed,False,553.44,Large
+741,101280,2025-02-17,David Shah,david.shah@yahoo.com,home and kitchen,Knife Set,8.0,39.35,0.0,3.85,south,credit card,returned,False,318.65000000000003,Medium
+743,100888,2025-02-13,David Thomas,david.thomas@hotmail.com,sports and outdoors,Cycling Helmet,3.0,43.42,0.0,3.71,west,cash on delivery,pending,False,133.97,Small
+745,101293,2025-03-05,Sana Miller,sana.miller@hotmail.com,electronics,Bluetooth Speaker,6.0,58.52,0.0,8.97,east,cash on delivery,completed,False,360.09000000000003,Medium
+747,100442,2025-03-12,Faisal Hussain,faisal.hussain@hotmail.com,books,Deep Work,4.0,18.97,0.0,8.69,west,debit card,completed,False,84.57,Small
+748,100299,2025-01-09,Emily Butt,emily.butt@yahoo.com,home and kitchen,Blender,2.0,48.91,0.0,2.89,north,debit card,cancelled,False,100.71,Small
+749,100868,2025-02-16,Ali Malik,ali.malik@outlook.com,sports and outdoors,Hiking Backpack,-2.0,74.12,0.0,5.02,north,debit card,completed,False,-143.22,Small
+750,100375,2025-06-22,Ahmed Johnson,ahmed.johnson@hotmail.com,clothing,Wool Sweater,1.0,46.0,0.0,5.75,west,credit card,returned,False,51.75,Small
+751,101225,2025-04-07,Sara Malik,sara.malik@gmail.com,home and kitchen,Blender,3.0,46.59,0.0,-4.86,south,credit card,pending,False,134.91,Small
+752,101077,2025-06-19,Maria Thomas,maria.thomas@outlook.com,home and kitchen,Cookware Set,6.0,139.8,0.0,10.61,east,credit card,completed,False,849.4100000000001,Large
+753,100861,2025-01-30,Zainab Smith,zainab.smith@yahoo.com,home and kitchen,Air Fryer,4.0,89.6,0.0,9.38,south,cash on delivery,pending,False,367.78,Medium
+754,100912,2025-05-28,Michael Thomas,michael.thomas@yahoo.com,clothing,Winter Coat,3.0,117.22,0.0,6.79,east,credit card,completed,False,358.45,Medium
+755,100472,2025-02-23,Ayesha Moore,ayesha.moore@gmail.com,clothing,Formal Shirt,4.0,37.2,0.0,5.44,east,cash on delivery,completed,False,154.24,Small
+756,101171,2025-06-25,Anna Ahmed,anna.ahmedhotmail.com,beauty,Perfume 50ml,2.0,55.97,0.0,9.34,north,cash on delivery,completed,False,121.28,Small
+757,100563,2025-05-23,Zain Thomas,zain.thomas@hotmail.com,home and kitchen,Cookware Set,8.0,132.8,0.0,10.62,south,credit card,returned,False,1073.02,Large
+758,101303,2025-02-10,Bilal Johnson,bilal.johnson@hotmail.com,electronics,USB-C Hub,1.0,39.23,0.0,8.47,south,cash on delivery,pending,False,47.699999999999996,Small
+759,100750,2025-06-24,Zain Khan,zain.khan@outlook.com,home and kitchen,Knife Set,8.0,36.83,0.0,7.84,east,cash on delivery,returned,False,302.47999999999996,Medium
+760,100388,2025-03-31,Hina Moore,hina.moore@outlook.com,books,Deep Work,3.0,17.64,0.0,6.91,south,credit card,completed,False,59.83,Small
+762,101217,2025-04-25,James Moore,james.moore@hotmail.com,beauty,Shampoo 500ml,2.0,12.85,5.0,10.56,west,paypal,cancelled,False,34.975,Small
+763,100124,2025-02-03,Robert Miller,robert.miller@gmail.com,electronics,Webcam HD,6.0,44.1,5.0,10.53,east,credit card,completed,False,261.9,Medium
+764,100423,2025-05-17,John Smith,john.smith@outlook.com,books,Python Crash Course,3.0,29.92,-5.0,5.49,west,paypal,returned,False,99.738,Small
+765,101290,2025-05-07,Usman Iqbal,usman.iqbal@outlook.com,home and kitchen,Vacuum Cleaner,1.0,160.13,0.0,6.53,east,paypal,pending,False,166.66,Small
+766,100470,2025-10-06,Imran Moore,imran.moore@hotmail.com,books,Atomic Habits,4.0,17.54,0.0,9.54,north,credit card,pending,False,79.69999999999999,Small
+767,100219,2025-03-25,Bilal Malik,bilal.malik@hotmail.com,beauty,Sunscreen SPF50,1.0,16.02,0.0,5.17,west,credit card,completed,False,21.189999999999998,Small
+768,100954,2025-04-23,Robert Miller,robert.miller@outlook.com,beauty,Makeup Kit,8.0,38.21,0.0,9.9,south,credit card,completed,False,315.58,Medium
+769,100559,2025-02-26,Anna Johnson,anna.johnson@hotmail.com,clothing,Formal Shirt,6.0,32.16,0.0,9.09,west,paypal,returned,False,202.04999999999998,Medium
+770,100142,2025-03-04,Faisal Shah,faisal.shah@outlook.com,home and kitchen,Coffee Maker,3.0,74.73,0.0,5.49,south,debit card,completed,False,229.68,Medium
+771,100050,2025-05-15,Zainab Sheikh,zainab.sheikh@hotmail.com,electronics,4K Monitor,5.0,287.69,0.0,-2.98,west,credit card,completed,False,1435.47,Large
+772,100100,2025-02-19,Zain Moore,zain.moore@hotmail.com,electronics,4K Monitor,8.0,297.29,10.0,9.82,east,credit card,completed,False,2150.3080000000004,Large
+773,100983,2025-06-28,Hina Hussain,hina.hussain@hotmail.com,books,Deep Work,4.0,18.86,5.0,12.8,north,cash on delivery,completed,False,84.46799999999999,Small
+774,100623,2025-04-28,Omar Anderson,omar.anderson@hotmail.com,home and kitchen,Vacuum Cleaner,8.0,162.31,0.0,7.37,south,credit card,completed,False,1305.85,Large
+775,101048,2025-03-25,Laura Ali,laura.ali@outlook.com,sports and outdoors,Camping Tent,3.0,150.71,0.0,10.51,south,paypal,completed,False,462.64,Medium
+776,100081,2025-03-24,Sarah Wilson,sarah.wilson@gmail.com,home and kitchen,Blender,4.0,47.8,5.0,2.73,north,credit card,cancelled,False,184.36999999999998,Small
+777,100703,2025-01-01,Sara Moore,sara.moore@hotmail.com,beauty,Shampoo 500ml,8.0,11.68,0.0,4.86,west,debit card,returned,False,98.3,Small
+778,100482,2025-05-18,Emily Brown,emily.brown@outlook.com,electronics,Bluetooth Speaker,2.0,64.31,0.0,8.87,south,cash on delivery,returned,False,137.49,Small
+779,100321,2025-05-02,David Butt,david.butt@hotmail.com,sports and outdoors,Camping Tent,3.0,160.27,5.0,14.73,north,debit card,returned,False,471.49950000000007,Medium
+780,101199,2025-04-24,Sarah Taylor,sarah.taylor@hotmail.com,clothing,Running Shoes,7.0,72.89,0.0,10.9,west,paypal,cancelled,False,521.13,Large
+781,101023,2025-04-13,Nida Taylor,nida.taylor@outlook.com,beauty,Perfume 50ml,8.0,55.7,0.0,14.23,west,paypal,completed,False,459.83000000000004,Medium
+783,100066,2025-05-12,Robert Butt,robert.butt@yahoo.com,clothing,Denim Jacket,8.0,58.81,0.0,7.51,east,debit card,returned,False,477.99,Medium
+784,101229,2025-03-23,Ahmed Wilson,ahmed.wilson@outlook.com,sports and outdoors,Dumbbell Set,5.0,89.19,5.0,15.88,north,credit card,returned,False,439.53249999999997,Medium
+785,101271,2025-02-06,John Sheikh,john.sheikh@hotmail.com,books,Python Crash Course,4.0,29.53,5.0,7.26,south,cash on delivery,cancelled,False,119.474,Small
+787,100031,2025-06-13,Ahmed Thomas,ahmed.thomas@yahoo.com,clothing,Wool Sweater,3.0,44.81,0.0,3.66,south,debit card,cancelled,False,138.09,Small
+788,100417,2025-02-24,Ayesha Shah,ayesha.shah@hotmail.com,beauty,Perfume 50ml,8.0,55.18,15.0,2.58,south,credit card,cancelled,False,377.804,Medium
+789,100632,2025-01-08,Faisal Shah,faisal.shah@outlook.com,books,The Pragmatic Programmer,5.0,33.62,0.0,1.53,south,cash on delivery,returned,False,169.63,Small
+790,101325,2025-10-04,Sana Hussain,sana.hussain@hotmail.com,beauty,Sunscreen SPF50,1.0,16.24,0.0,10.23,west,paypal,returned,False,26.47,Small
+791,100064,2025-04-16,Maria Miller,maria.miller@yahoo.com,sports and outdoors,Camping Tent,6.0,148.64,0.0,12.38,east,credit card,completed,False,904.2199999999999,Large
+792,100139,2025-01-05,Bilal Smith,bilal.smith@outlook.com,clothing,Running Shoes,6.0,2898.46,0.0,10.25,west,credit card,completed,True,17401.010000000002,Large
+793,101157,2025-03-06,Kamran Johnson,kamran.johnson@yahoo.com,electronics,Wireless Earbuds,5.0,42.18,5.0,4.07,north,debit card,returned,False,204.42499999999998,Medium
+794,101151,2025-04-21,Hassan Wilson,hassan.wilson@yahoo.com,clothing,Cotton T-Shirt,8.0,16.09,0.0,8.71,south,cash on delivery,pending,False,137.43,Small
+795,100077,2025-11-01,Emily Ali,emily.ali@gmail.com,clothing,Cotton T-Shirt,5.0,14.35,-15.0,3.61,west,credit card,pending,False,86.12249999999999,Small
+796,100491,2025-05-26,Nida Smith,nida.smith@outlook.com,clothing,Winter Coat,8.0,120.65,78.8,1.22,west,paypal,pending,False,205.84240000000008,Medium
+797,101005,2025-04-15,Hassan Johnson,hassan.johnson@gmail.com,sports and outdoors,Water Bottle,1.0,13.0,5.0,6.74,west,credit card,pending,False,19.09,Small
+798,100577,2025-01-16,Amna Anderson,amna.anderson@yahoo.com,books,The Pragmatic Programmer,7.0,34.06,5.0,-8.11,north,credit card,cancelled,False,218.389,Medium
+799,100532,2025-05-06,Sara Thomas,sara.thomas@outlook.com,beauty,Face Serum,6.0,23.42,0.0,8.96,north,cash on delivery,cancelled,False,149.48000000000002,Small
+800,100065,2025-07-05,Sana Raza,sana.raza@outlook.com,electronics,Webcam HD,8.0,43.44,0.0,9.93,north,credit card,returned,False,357.45,Medium
+801,101211,2025-04-12,Ali Miller,ali.miller@yahoo.com,books,Python Crash Course,3.0,29.01,0.0,7.49,east,paypal,pending,False,94.52,Small
+802,100837,2025-05-02,Hina Malik,hina.malik@yahoo.com,clothing,Running Shoes,8.0,83.61,0.0,6.2,north,debit card,cancelled,False,675.08,Large
+803,101206,2025-04-19,Amna Thomas,amna.thomas@hotmail.com,clothing,Running Shoes,4.0,77.18,0.0,7.2,south,debit card,returned,False,315.92,Medium
+804,100296,2025-08-05,Sara Anderson,sara.anderson@hotmail.com,beauty,Sunscreen SPF50,4.0,15.91,10.0,8.68,east,paypal,cancelled,False,65.956,Small
+805,100591,2025-09-06,David Moore,david.moore@gmail.com,books,Sapiens,2.0,22.8,0.0,7.07,north,paypal,returned,False,52.67,Small
+806,100419,2025-01-28,Faisal Hussain,faisal.hussain@yahoo.com,books,Sapiens,3.0,530.64,5.0,5.82,east,cash on delivery,cancelled,True,1518.144,Large
+807,100709,2025-05-01,Zainab Thomas,zainab.thomas@gmail.com,books,Python Crash Course,6.0,28.87,0.0,7.08,west,cash on delivery,cancelled,False,180.3,Small
+808,100438,2025-09-06,Sarah Brown,sarah.brown@yahoo.com,electronics,Laptop Stand,6.0,23.52,5.0,5.97,north,debit card,returned,False,140.034,Small
+809,100261,2025-11-03,Sara Shah,sara.shah@outlook.com,sports and outdoors,Water Bottle,5.0,13.87,10.0,12.05,north,paypal,pending,False,74.465,Small
+810,100724,2025-05-13,Mariam Ali,mariam.ali@outlook.com,beauty,Shampoo 500ml,8.0,11.55,0.0,5.45,south,credit card,pending,False,97.85000000000001,Small
+811,101330,2025-01-22,Hina Ali,hina.ali@outlook.com,home and kitchen,Blender,1.0,47.41,0.0,5.93,west,debit card,returned,False,53.339999999999996,Small
+812,100281,2025-04-10,Mariam Malik,mariam.malik@gmail.com,home and kitchen,Blender,3.0,53.89,0.0,6.86,north,cash on delivery,completed,False,168.53000000000003,Small
+813,100626,2025-03-06,Omar Sheikh,omar.sheikh@yahoo.com,electronics,Laptop Stand,5.0,23.5,15.0,2.51,west,credit card,completed,False,102.385,Small
+814,100939,2025-01-15,Ayesha Johnson,ayesha.johnson@hotmail.com,sports and outdoors,Hiking Backpack,3.0,68.12,0.0,6.39,south,credit card,pending,False,210.75,Medium
+815,101331,2025-02-19,Nida Wilson,nida.wilson@hotmail.com,clothing,Formal Shirt,-3.0,36.04,0.0,11.03,south,credit card,returned,False,-97.09,Small
+817,100188,2025-06-27,John Ali,john.ali@hotmail.com,clothing,Formal Shirt,3.0,34.45,0.0,4.9,south,debit card,pending,False,108.25000000000001,Small
+818,101345,2025-06-10,Mariam Malik,mariam.malik@hotmail.com,sports and outdoors,Cycling Helmet,6.0,44.95,0.0,7.48,south,credit card,completed,False,277.18000000000006,Medium
+819,100251,2025-04-18,Michael Moore,michael.moore@outlook.com,sports and outdoors,Cycling Helmet,1.0,47.66,0.0,2.42,south,cash on delivery,cancelled,False,50.08,Small
+820,100583,2025-05-30,Ayesha Davis,ayesha.davis@yahoo.com,sports and outdoors,Hiking Backpack,5.0,67.28,0.0,8.94,east,cash on delivery,cancelled,False,345.34,Medium
+821,100967,2025-03-19,Hina Shah,hina.shah@outlook.com,home and kitchen,Blender,5.0,52.44,0.0,11.39,west,debit card,completed,False,273.59,Medium
+822,101300,2025-01-18,Ayesha Thomas,ayesha.thomas@hotmail.com,home and kitchen,Cookware Set,-3.0,134.3,0.0,7.31,east,paypal,pending,False,-395.59000000000003,Small
+823,100892,2025-05-04,Sana Shah,sana.shah@outlook.com,books,The Pragmatic Programmer,4.0,35.84,0.0,9.1,east,credit card,completed,False,152.46,Small
+824,100514,2025-01-24,Anna Khan,anna.khan@outlook.com,clothing,Wool Sweater,2.0,44.4,0.0,8.71,north,credit card,returned,False,97.50999999999999,Small
+825,101132,2025-05-31,Zainab Ali,zainab.ali@hotmail.com,sports and outdoors,Hiking Backpack,6.0,63.49,88.0,10.47,south,debit card,cancelled,False,56.1828,Small
+826,100877,2025-03-13,Ahmed Davis,ahmed.davis@outlook.com,electronics,Smart Watch,6.0,142.59,0.0,8.02,east,credit card,cancelled,False,863.56,Large
+827,100706,2025-05-29,David Anderson,david.anderson@gmail.com,electronics,Wireless Earbuds,3.0,40.97,0.0,8.19,east,paypal,cancelled,False,131.1,Small
+828,100487,2025-10-06,Laura Raza,laura.raza@hotmail.com,beauty,Sunscreen SPF50,8.0,17.42,5.0,10.89,south,credit card,cancelled,False,143.28199999999998,Small
+829,100663,2025-04-21,Maria Davis,maria.davis@outlook.com,home and kitchen,Knife Set,2.0,38.42,0.0,8.6,west,credit card,completed,False,85.44,Small
+830,101223,2025-06-15,Rabia Smith,rabia.smith@outlook.com,clothing,Running Shoes,7.0,73.05,0.0,9.46,south,credit card,completed,False,520.81,Large
+831,100273,2025-06-15,Bilal Ali,bilal.ali@yahoo.com,home and kitchen,Blender,2.0,46.88,0.0,8.65,west,paypal,cancelled,False,102.41000000000001,Small
+832,100685,2025-04-29,James Anderson,james.anderson@hotmail.com,clothing,Wool Sweater,2.0,42.24,0.0,16.57,west,cash on delivery,completed,False,101.05000000000001,Small
+833,101195,2025-03-22,Anna Anderson,anna.anderson@hotmail.com,beauty,Makeup Kit,4.0,37.94,0.0,5.6,north,debit card,pending,False,157.35999999999999,Small
+834,100993,2025-12-04,Mariam Brown,mariam.brownhotmail.com,electronics,USB-C Hub,7.0,35.2,-5.0,5.65,east,credit card,pending,False,264.37,Medium
+835,101295,2025-02-22,Nida Ali,nida.ali@hotmail.com,home and kitchen,Coffee Maker,8.0,66.56,5.0,7.21,east,credit card,pending,False,513.066,Large
+836,100448,2025-05-31,Zain Davis,zain.davis@hotmail.com,books,Deep Work,7.0,19.4,0.0,6.42,west,credit card,cancelled,False,142.21999999999997,Small
+837,100411,2025-02-23,Fatima Brown,fatima.brown@hotmail.com,books,Sapiens,1.0,20.56,0.0,4.63,north,paypal,pending,False,25.189999999999998,Small
+838,100458,2025-05-17,Usman Butt,usman.butt@gmail.com,electronics,Wireless Earbuds,6.0,41.65,10.0,3.18,east,debit card,completed,False,228.09,Medium
+839,100376,2025-03-30,Kamran Moore,kamran.moore@hotmail.com,sports and outdoors,Water Bottle,1.0,12.84,0.0,7.19,west,debit card,completed,False,20.03,Small
+840,101255,2025-07-04,Hina Sheikh,hina.sheikh@hotmail.com,sports and outdoors,Camping Tent,6.0,150.71,0.0,11.51,east,credit card,cancelled,False,915.77,Large
+841,100667,2025-03-28,Kamran Moore,kamran.moore@yahoo.com,sports and outdoors,Yoga Mat,5.0,25.37,0.0,9.31,north,credit card,pending,False,136.16,Small
+842,101190,2025-05-02,Laura Smith,laura.smith@outlook.com,home and kitchen,Cookware Set,7.0,135.09,-5.0,7.78,west,debit card,completed,False,1000.6915,Large
+843,100358,2025-04-01,Michael Miller,michael.miller@yahoo.com,sports and outdoors,Water Bottle,5.0,12.87,0.0,9.09,west,debit card,returned,False,73.44,Small
+844,100857,2025-06-09,Bilal Shah,bilal.shah@yahoo.com,books,Deep Work,6.0,21.15,0.0,12.42,west,paypal,cancelled,False,139.32,Small
+845,101022,2025-09-03,Hina Davis,hina.davis@outlook.com,electronics,Bluetooth Speaker,2.0,60.5,5.0,8.01,west,credit card,returned,False,122.96,Small
+846,100733,2025-06-27,Robert Smith,robert.smith@gmail.com,home and kitchen,Blender,-3.0,45.35,0.0,8.04,south,cash on delivery,cancelled,False,-128.01000000000002,Small
+848,100239,2025-11-02,Rabia Hussain,rabia.hussain@yahoo.com,electronics,Laptop Stand,5.0,23.77,0.0,11.39,west,cash on delivery,cancelled,False,130.24,Small
+849,101042,2025-06-26,Zainab Moore,zainab.moore@outlook.com,sports and outdoors,Camping Tent,8.0,149.67,15.0,5.82,north,credit card,completed,False,1023.5759999999999,Large
+850,100725,2025-05-13,Ahmed Raza,ahmed.raza@hotmail.com,sports and outdoors,Cycling Helmet,8.0,0.01,0.0,4.35,south,credit card,cancelled,True,4.43,Small
+851,100192,2025-05-13,Michael Moore,michael.moore@outlook.com,sports and outdoors,Camping Tent,4.0,150.71,15.0,9.65,north,paypal,pending,False,522.064,Large
+852,101017,2025-06-17,Ayesha Shah,ayesha.shah@gmail.com,home and kitchen,Cookware Set,7.0,133.39,0.0,12.27,south,cash on delivery,cancelled,False,945.9999999999999,Large
+853,100191,2025-11-05,Mariam Butt,mariam.butt@gmail.com,books,Atomic Habits,3.0,16.34,0.0,10.22,west,credit card,pending,False,59.239999999999995,Small
+857,100644,2025-02-04,Fatima Ali,fatima.ali@gmail.com,clothing,Denim Jacket,2.0,56.94,0.0,10.2,east,cash on delivery,pending,False,124.08,Small
+858,100359,2025-03-02,Kamran Moore,kamran.moore@yahoo.com,beauty,Makeup Kit,3.0,37.76,0.0,3.22,east,debit card,cancelled,False,116.5,Small
+859,101028,2025-02-18,Fatima Butt,fatima.butt@outlook.com,books,The Pragmatic Programmer,3.0,35.39,0.0,6.59,south,debit card,completed,False,112.76,Small
+862,100333,2025-04-01,Rabia Brown,rabia.brown@yahoo.com,home and kitchen,Knife Set,3.0,42.62,0.0,9.06,north,debit card,returned,False,136.92,Small
+863,101158,2025-03-19,Imran Smith,imran.smith@gmail.com,clothing,Denim Jacket,3.0,61.82,0.0,7.33,west,debit card,completed,False,192.79000000000002,Small
+864,100582,2025-04-12,Ali Hussain,ali.hussain@gmail.com,electronics,Webcam HD,1.0,47.15,0.0,10.01,east,paypal,pending,False,57.16,Small
+866,101033,2025-08-03,Laura Butt,laura.butt@hotmail.com,home and kitchen,Cookware Set,6.0,125.72,5.0,9.77,west,debit card,pending,False,726.3739999999999,Large
+867,100839,2025-09-04,Ahmed Moore,ahmed.mooreoutlook.com,sports and outdoors,Cycling Helmet,8.0,45.27,0.0,8.03,west,paypal,completed,False,370.19,Medium
+868,100627,2025-06-28,Fatima Anderson,fatima.anderson@gmail.com,sports and outdoors,Hiking Backpack,2.0,72.54,0.0,12.28,north,debit card,completed,False,157.36,Small
+869,101335,2025-01-24,Ali Thomas,ali.thomas@hotmail.com,home and kitchen,Vacuum Cleaner,-4.0,163.75,0.0,11.5,north,credit card,pending,False,-643.5,Small
+870,100323,2025-01-05,Zain Khan,zain.khan@gmail.com,books,Atomic Habits,3.0,17.1,0.0,7.67,north,credit card,completed,False,58.970000000000006,Small
+871,100824,2025-01-24,Ayesha Raza,ayesha.raza@gmail.com,books,Python Crash Course,2.0,30.01,15.0,6.7,east,credit card,cancelled,False,57.717000000000006,Small
+873,100631,2025-03-21,Emily Butt,emily.butt@outlook.com,home and kitchen,Blender,7.0,46.09,5.0,11.07,south,credit card,cancelled,False,317.5685,Medium
+874,100968,2025-04-13,Amna Sheikh,amna.sheikh@outlook.com,home and kitchen,Cookware Set,1.0,135.25,0.0,3.78,west,paypal,completed,False,139.03,Small
+875,101131,2025-06-06,Mariam Hussain,mariam.hussain@yahoo.com,home and kitchen,Blender,7.0,51.49,0.0,7.22,south,paypal,cancelled,False,367.65000000000003,Medium
+876,100778,2025-01-23,Zain Malik,zain.malik@outlook.com,books,Sapiens,6.0,20.25,0.0,6.53,west,cash on delivery,pending,False,128.03,Small
+877,101348,2025-03-08,Laura Brown,laura.brown@outlook.com,clothing,Winter Coat,4.0,119.0,0.0,7.47,south,paypal,completed,False,483.47,Medium
+878,101148,2025-03-10,Kamran Shah,kamran.shah@gmail.com,clothing,Denim Jacket,2.0,59.0,10.0,12.09,east,debit card,pending,False,118.29,Small
+880,100119,2025-05-06,Anna Butt,anna.butt@hotmail.com,books,Sapiens,1.0,19.42,5.0,11.39,west,credit card,completed,False,29.839000000000002,Small
+881,101011,2025-04-12,Faisal Malik,faisal.malik@hotmail.com,beauty,Shampoo 500ml,3.0,12.15,0.0,9.72,south,cash on delivery,pending,False,46.17,Small
+883,100790,2025-03-11,Sarah Ahmed,sarah.ahmed@yahoo.com,clothing,Running Shoes,6.0,83.15,0.0,7.28,east,cash on delivery,completed,False,506.18,Large
+884,100341,2025-03-01,Zain Khan,zain.khan@hotmail.com,electronics,4K Monitor,6.0,286.02,0.0,12.09,east,cash on delivery,returned,False,1728.2099999999998,Large
+885,100815,2025-03-27,Amna Miller,amna.miller@yahoo.com,books,Sapiens,4.0,19.02,0.0,10.46,east,debit card,returned,False,86.53999999999999,Small
+890,100076,2025-02-19,Emily Wilson,emily.wilsonhotmail.com,home and kitchen,Blender,8.0,50.56,20.0,13.63,east,credit card,cancelled,False,337.21400000000006,Medium
+891,101329,2025-06-18,Fatima Sheikh,fatima.sheikh@gmail.com,beauty,Sunscreen SPF50,6.0,16.95,0.0,8.85,south,credit card,completed,False,110.54999999999998,Small
+892,101160,2025-02-18,Zain Johnson,zain.johnson@yahoo.com,clothing,Running Shoes,7.0,83.55,20.0,11.93,north,credit card,returned,False,479.81000000000006,Medium
+893,100371,2025-01-28,Ahmed Davis,ahmed.davis@outlook.com,electronics,Smart Watch,7.0,159.77,0.0,12.46,east,credit card,completed,False,1130.8500000000001,Large
+897,101249,2025-05-14,Mariam Butt,mariam.butt@gmail.com,beauty,Sunscreen SPF50,2.0,14.66,0.0,5.82,east,cash on delivery,completed,False,35.14,Small
+899,101071,2025-02-08,Michael Taylor,michael.taylor@gmail.com,books,Atomic Habits,-3.0,16.12,0.0,9.4,east,paypal,completed,False,-38.96,Small
+900,101237,2025-04-03,Fatima Brown,fatima.brown@outlook.com,electronics,Laptop Stand,2.0,25.58,0.0,7.56,west,paypal,returned,False,58.72,Small
+901,101228,2025-01-25,Sana Khan,sana.khan@hotmail.com,sports and outdoors,Water Bottle,7.0,12.7,20.0,8.8,north,credit card,returned,False,79.91999999999999,Small
+902,101227,2025-01-23,Hina Malik,hina.malik@gmail.com,beauty,Sunscreen SPF50,1.0,15.48,5.0,8.41,south,credit card,completed,False,23.116,Small
+903,100589,2025-06-19,Zain Wilson,zain.wilson@hotmail.com,home and kitchen,Vacuum Cleaner,5.0,151.53,0.0,7.57,north,paypal,returned,False,765.22,Large
+904,100886,2025-01-25,James Ahmed,james.ahmed@outlook.com,clothing,Cotton T-Shirt,5.0,14.55,0.0,-5.15,north,cash on delivery,returned,False,67.6,Small
+905,101079,2025-03-16,David Taylor,david.taylor@yahoo.com,beauty,Makeup Kit,8.0,41.81,5.0,12.09,east,credit card,returned,False,329.846,Medium
+906,100785,2025-05-08,Emily Malik,emily.malik@outlook.com,home and kitchen,Vacuum Cleaner,2.0,150.51,0.0,8.45,west,cash on delivery,cancelled,False,309.46999999999997,Medium
+907,101103,2025-04-13,Sana Taylor,sana.taylor@yahoo.com,home and kitchen,Blender,3.0,48.72,0.0,7.48,south,credit card,returned,False,153.64,Small
+908,100311,2025-07-02,Michael Iqbal,michael.iqbal@hotmail.com,sports and outdoors,Cycling Helmet,5.0,44.62,0.0,7.49,north,paypal,cancelled,False,230.59,Medium
+909,101152,2025-06-26,Omar Smith,omar.smith@hotmail.com,electronics,Smart Watch,1.0,142.92,10.0,10.32,north,credit card,completed,False,138.94799999999998,Small
+910,100301,2025-02-02,Zain Khan,zain.khan@hotmail.com,home and kitchen,Coffee Maker,3.0,70.13,0.0,11.15,north,credit card,completed,False,221.54,Medium
+911,100722,2025-03-29,Anna Malik,anna.malik@outlook.com,clothing,Cotton T-Shirt,7.0,15.97,0.0,9.81,north,cash on delivery,completed,False,121.60000000000001,Small
+912,100689,2025-04-04,Usman Brown,usman.brown@hotmail.com,home and kitchen,Blender,8.0,50.94,0.0,7.48,east,debit card,completed,False,415.0,Medium
+913,100812,2025-05-03,Hina Raza,hina.raza@hotmail.com,beauty,Perfume 50ml,4.0,52.36,0.0,2.97,east,debit card,returned,False,212.41,Medium
+915,100353,2025-06-02,Ahmed Hussain,ahmed.hussain@hotmail.com,beauty,Face Serum,3.0,25.8,0.0,12.42,north,paypal,cancelled,False,89.82000000000001,Small
+916,101321,2025-05-26,Ahmed Thomas,ahmed.thomas@hotmail.com,electronics,USB-C Hub,1.0,34.57,10.0,5.02,south,cash on delivery,pending,False,36.132999999999996,Small
+917,100714,2025-01-22,Sarah Ali,sarah.ali@hotmail.com,home and kitchen,Knife Set,3.0,40.63,0.0,7.72,west,paypal,cancelled,False,129.61,Small
+919,101200,2025-05-15,Ahmed Brown,ahmed.brown@hotmail.com,clothing,Winter Coat,8.0,134.5,15.0,12.37,north,debit card,completed,False,926.97,Large
+920,100729,2025-01-29,Maria Raza,maria.raza@yahoo.com,sports and outdoors,Cycling Helmet,1.0,42.74,5.0,8.05,north,debit card,cancelled,False,48.653000000000006,Small
+921,101264,2025-05-19,Michael Smith,michael.smith@outlook.com,clothing,Winter Coat,8.0,117.13,5.0,6.88,south,paypal,cancelled,False,897.0679999999999,Large
+922,100928,2025-04-23,Amna Miller,amna.miller@gmail.com,electronics,Wireless Earbuds,3.0,40.99,0.0,9.15,west,credit card,returned,False,132.12,Small
+923,100499,2025-03-18,Laura Thomas,laura.thomas@hotmail.com,sports and outdoors,Water Bottle,6.0,12.27,5.0,4.55,west,debit card,returned,False,74.489,Small
+924,101187,2025-04-10,Michael Sheikh,michael.sheikh@yahoo.com,clothing,Cotton T-Shirt,8.0,14.05,0.0,12.14,north,credit card,pending,False,124.54,Small
+925,100553,2025-06-25,Emily Moore,emily.moore@gmail.com,beauty,Face Serum,8.0,20.97,5.0,8.39,north,debit card,pending,False,167.762,Small
+926,100055,2025-05-02,Robert Miller,robert.miller@outlook.com,home and kitchen,Cookware Set,4.0,135.44,0.0,10.79,north,credit card,cancelled,False,552.55,Large
+928,100794,2025-02-03,Emily Ali,emily.ali@gmail.com,clothing,Denim Jacket,4.0,62.36,0.0,6.45,south,debit card,completed,False,255.89,Medium
+933,100945,2025-09-05,Bilal Thomas,bilal.thomas@hotmail.com,books,Sapiens,7.0,20.97,0.0,5.01,north,paypal,completed,False,151.79999999999998,Small
+934,100934,2025-01-01,Ali Johnson,ali.johnson@outlook.com,sports and outdoors,Cycling Helmet,4.0,43.54,0.0,10.91,south,credit card,completed,False,185.07,Small
+935,100387,2025-03-16,Amna Wilson,amna.wilson@hotmail.com,electronics,Smart Watch,3.0,150.0,20.0,0.65,west,credit card,completed,False,360.65,Medium
+936,100304,2025-05-31,Ahmed Smith,ahmed.smith@outlook.com,home and kitchen,Coffee Maker,7.0,69.47,0.0,6.13,south,cash on delivery,cancelled,False,492.41999999999996,Medium
+938,101297,2025-06-16,Faisal Malik,faisal.malik@hotmail.com,clothing,Denim Jacket,7.0,52.97,0.0,9.88,north,cash on delivery,returned,False,380.66999999999996,Medium
+939,100352,2025-03-20,Ali Wilson,ali.wilson@yahoo.com,beauty,Sunscreen SPF50,2.0,15.0,5.0,8.33,east,credit card,pending,False,36.83,Small
+940,100193,2025-11-06,Rabia Ahmed,rabia.ahmed@gmail.com,books,Atomic Habits,5.0,17.15,0.0,7.8,west,paypal,completed,False,93.55,Small
+942,101221,2025-01-15,Kamran Wilson,kamran.wilson@yahoo.com,home and kitchen,Knife Set,3.0,39.13,0.0,7.49,south,credit card,pending,False,124.88000000000001,Small
+943,100694,2025-05-20,Sarah Iqbal,sarah.iqbal@hotmail.com,books,Deep Work,4.0,16.94,0.0,9.22,east,credit card,completed,False,76.98,Small
+944,100480,2025-06-25,Anna Anderson,anna.anderson@yahoo.com,books,Python Crash Course,3.0,25.56,0.0,11.36,west,credit card,cancelled,False,88.03999999999999,Small
+945,100567,2025-06-10,Amna Hussain,amna.hussain@hotmail.com,home and kitchen,Knife Set,1.0,44.74,0.0,8.61,south,debit card,pending,False,53.35,Small
+946,100116,2025-01-17,Amna Brown,amna.brown@yahoo.com,home and kitchen,Vacuum Cleaner,5.0,163.3,0.0,1.81,west,credit card,pending,False,818.31,Large
+947,101142,2025-04-05,Robert Ali,robert.ali@gmail.com,books,The Pragmatic Programmer,4.0,35.91,15.0,10.38,north,debit card,pending,False,132.474,Small
+948,100653,2025-02-19,Usman Hussain,usman.hussain@yahoo.com,books,Python Crash Course,5.0,30.31,10.0,10.72,south,credit card,cancelled,False,147.11499999999998,Small
+949,101205,2025-03-24,Hassan Iqbal,hassan.iqbal@yahoo.com,sports and outdoors,Dumbbell Set,2.0,81.65,0.0,8.47,south,cash on delivery,pending,False,171.77,Small
+951,100757,2025-04-14,Hina Khan,hina.khan@yahoo.com,beauty,Perfume 50ml,4.0,54.4,0.0,12.09,east,paypal,pending,False,229.69,Medium
+952,100444,2025-02-17,Maria Wilson,maria.wilson@gmail.com,beauty,Shampoo 500ml,5.0,11.92,0.0,2.37,west,cash on delivery,completed,False,61.97,Small
+953,101122,2025-06-15,Imran Malik,imran.malik@yahoo.com,home and kitchen,Vacuum Cleaner,4.0,162.41,5.0,7.23,south,debit card,returned,False,624.3879999999999,Large
+954,100120,2025-06-02,Ali Smith,ali.smith@gmail.com,sports and outdoors,Cycling Helmet,6.0,44.62,5.0,8.47,south,cash on delivery,pending,False,262.804,Medium
+955,101105,2025-07-05,Kamran Hussain,kamran.hussain@hotmail.com,clothing,Denim Jacket,6.0,59.5,5.0,11.41,south,debit card,pending,False,350.56,Medium
+956,101250,2025-02-26,Ahmed Brown,ahmed.brown@yahoo.com,clothing,Winter Coat,8.0,127.79,0.0,6.1,east,paypal,completed,False,1028.42,Large
+957,101081,2025-02-26,Fatima Ahmed,fatima.ahmed@outlook.com,sports and outdoors,Water Bottle,5.0,13.31,5.0,5.47,north,credit card,cancelled,False,68.6925,Small
+958,100062,2025-06-30,Sarah Ahmed,sarah.ahmed@hotmail.com,books,Python Crash Course,4.0,32.29,0.0,4.33,west,cash on delivery,completed,False,133.49,Small
+960,100984,2025-04-15,Ahmed Khan,ahmed.khan@gmail.com,sports and outdoors,Camping Tent,4.0,153.16,5.0,11.51,north,paypal,pending,False,593.5179999999999,Large
+961,100453,2025-05-23,Maria Shah,maria.shah@gmail.com,books,Atomic Habits,-3.0,16.94,15.0,6.77,south,cash on delivery,cancelled,False,-36.42700000000001,Small
+963,100515,2025-02-28,Hina Butt,hina.butt@yahoo.com,home and kitchen,Cookware Set,2.0,129.31,0.0,7.29,west,cash on delivery,completed,False,265.91,Medium
+964,100570,2025-02-05,Hina Miller,hina.millerhotmail.com,clothing,Denim Jacket,2.0,58.63,0.0,11.07,south,cash on delivery,returned,False,128.33,Small
+965,100223,2025-01-03,Emily Wilson,emily.wilson@gmail.com,sports and outdoors,Yoga Mat,4.0,22.88,5.0,5.29,west,debit card,completed,False,92.234,Small
+966,101061,2025-03-17,James Miller,james.miller@yahoo.com,sports and outdoors,Yoga Mat,8.0,25.7,0.0,3.9,east,debit card,returned,False,209.5,Medium
+967,100613,2025-02-05,Laura Anderson,laura.anderson@yahoo.com,beauty,Sunscreen SPF50,3.0,16.45,0.0,8.66,west,cash on delivery,completed,False,58.00999999999999,Small
+968,100843,2025-11-02,Sana Taylor,sana.taylor@hotmail.com,clothing,Cotton T-Shirt,2.0,14.94,0.0,11.25,north,debit card,returned,False,41.129999999999995,Small
+969,100221,2025-02-24,Fatima Shah,fatima.shah@yahoo.com,home and kitchen,Knife Set,6.0,41.16,0.0,5.39,north,credit card,completed,False,252.34999999999997,Medium
+971,100516,2025-01-31,Fatima Khan,fatima.khan@outlook.com,sports and outdoors,Camping Tent,4.0,136.64,0.0,9.65,north,cash on delivery,returned,False,556.2099999999999,Large
+972,100465,2025-04-30,Omar Anderson,omar.anderson@gmail.com,clothing,Formal Shirt,2.0,34.04,0.0,2.39,east,debit card,returned,False,70.47,Small
+973,100052,2025-03-10,David Raza,david.raza@gmail.com,electronics,Wireless Earbuds,1.0,43.52,5.0,10.95,east,debit card,pending,False,52.294,Small
+974,101318,2025-01-26,Rabia Butt,rabia.butt@hotmail.com,books,Atomic Habits,4.0,15.29,0.0,10.95,south,credit card,completed,False,72.11,Small
+975,100485,2025-01-18,Ayesha Shah,ayesha.shah@gmail.com,electronics,Bluetooth Speaker,2.0,59.67,5.0,12.4,east,cash on delivery,returned,False,125.77300000000001,Small
+976,100875,2025-04-17,Fatima Sheikh,fatima.sheikh@hotmail.com,sports and outdoors,Hiking Backpack,6.0,69.45,5.0,12.4,north,cash on delivery,completed,False,408.265,Medium
+977,100011,2025-01-02,Faisal Ali,faisal.ali@outlook.com,books,The Pragmatic Programmer,4.0,37.22,5.0,8.09,north,paypal,cancelled,False,149.52599999999998,Small
+978,100818,2025-01-23,Laura Malik,laura.malik@outlook.com,beauty,Makeup Kit,4.0,39.18,15.0,5.52,south,paypal,pending,False,138.732,Small
+979,100386,2025-06-29,Michael Anderson,michael.anderson@outlook.com,sports and outdoors,Yoga Mat,-3.0,24.29,0.0,8.33,west,credit card,returned,False,-64.54,Small
+980,100155,2025-06-17,Sarah Iqbal,sarah.iqbal@gmail.com,sports and outdoors,Hiking Backpack,4.0,71.16,0.0,8.94,west,credit card,completed,False,293.58,Medium
+981,101172,2025-01-22,Michael Moore,michael.moore@hotmail.com,books,Sapiens,2.0,19.93,0.0,9.97,west,paypal,pending,False,49.83,Small
+982,100600,2025-05-12,Hassan Thomas,hassan.thomas@yahoo.com,beauty,Face Serum,3.0,20.86,0.0,7.02,west,cash on delivery,cancelled,False,69.6,Small
+984,100248,2025-01-17,Bilal Shah,bilal.shah@gmail.com,beauty,Makeup Kit,8.0,41.09,0.0,8.83,west,cash on delivery,completed,False,337.55,Medium
+986,100870,2025-04-01,Hassan Ahmed,hassan.ahmed@hotmail.com,beauty,Perfume 50ml,8.0,50.4,0.0,6.19,east,cash on delivery,returned,False,409.39,Medium
+987,100855,2025-03-01,Nida Shah,nida.shah@hotmail.com,electronics,Smart Watch,4.0,158.49,0.0,8.6,north,credit card,completed,False,642.5600000000001,Large
+988,101289,2025-06-14,Fatima Ahmed,fatima.ahmed@outlook.com,books,Atomic Habits,3.0,18.4,0.0,9.69,south,paypal,pending,False,64.89,Small
+989,100441,2025-05-18,John Anderson,john.anderson@outlook.com,books,Sapiens,7.0,21.18,0.0,6.32,east,debit card,cancelled,False,154.57999999999998,Small
+990,101307,2025-03-27,Omar Johnson,omar.johnson@hotmail.com,clothing,Formal Shirt,3.0,36.15,0.0,10.67,east,paypal,cancelled,False,119.11999999999999,Small
+991,101322,2025-01-26,Sarah Hussain,sarah.hussain@hotmail.com,books,Atomic Habits,4.0,16.1,0.0,4.9,west,debit card,pending,False,69.30000000000001,Small
+992,100542,2025-06-25,Imran Malik,imran.malik@gmail.com,electronics,USB-C Hub,1.0,35.33,10.0,0.97,south,credit card,completed,False,32.767,Small
+993,100793,2025-04-28,Laura Moore,laura.moore@outlook.com,beauty,Sunscreen SPF50,-3.0,16.02,0.0,7.18,west,paypal,completed,False,-40.88,Small
+994,100951,2025-01-01,James Ali,james.ali@yahoo.com,clothing,Winter Coat,4.0,119.06,0.0,12.11,south,debit card,completed,False,488.35,Medium
+995,100701,2025-04-20,Bilal Malik,bilal.malik@outlook.com,beauty,Perfume 50ml,1.0,59.23,5.0,2.86,north,cash on delivery,pending,False,59.128499999999995,Small
+996,100117,2025-02-26,Robert Ahmed,robert.ahmed@hotmail.com,beauty,Perfume 50ml,-2.0,53.36,0.0,3.26,south,paypal,returned,False,-103.46,Small
+997,101047,2025-05-30,Sarah Taylor,sarah.taylor@yahoo.com,beauty,Makeup Kit,4.0,46.05,0.0,8.77,east,credit card,completed,True,192.97,Small
+998,100628,2025-06-03,Hassan Brown,hassan.brown@gmail.com,beauty,Face Serum,7.0,21.12,0.0,12.27,south,credit card,completed,False,160.11,Small
+999,100150,2025-01-21,Sana Smith,sana.smith@outlook.com,beauty,Shampoo 500ml,3.0,12.78,0.0,3.57,south,credit card,completed,False,41.91,Small
+1000,100206,2025-02-04,Kamran Wilson,kamran.wilson@yahoo.com,electronics,Bluetooth Speaker,8.0,61.6,0.0,8.71,west,credit card,cancelled,False,501.51,Large
+1001,100291,2025-01-02,Hassan Davis,hassan.davis@gmail.com,home and kitchen,Air Fryer,4.0,90.37,0.0,10.49,south,credit card,cancelled,False,371.97,Medium
+1002,101259,2025-05-27,Anna Sheikh,anna.sheikh@hotmail.com,books,Python Crash Course,8.0,28.59,0.0,9.38,east,paypal,returned,False,238.1,Medium
+1003,100381,2025-05-05,James Wilson,james.wilson@gmail.com,sports and outdoors,Dumbbell Set,8.0,89.59,5.0,13.16,south,credit card,cancelled,False,694.044,Large
+1004,100819,2025-02-17,Hassan Taylor,hassan.taylor@gmail.com,sports and outdoors,Cycling Helmet,2.0,44.07,0.0,10.99,south,cash on delivery,returned,False,99.13,Small
+1005,100686,2025-01-21,David Shah,david.shah@gmail.com,books,The Pragmatic Programmer,8.0,35.63,10.0,6.52,south,cash on delivery,pending,False,263.056,Medium
+1007,100200,2025-06-11,Omar Sheikh,omar.sheikh@gmail.com,electronics,Bluetooth Speaker,6.0,1332.12,5.0,3.04,east,debit card,completed,True,7596.123999999999,Large
+1008,100596,2025-05-28,Fatima Moore,fatima.moore@hotmail.com,home and kitchen,Vacuum Cleaner,2.0,140.5,15.0,10.06,north,credit card,completed,True,248.91,Medium
+1009,100897,2025-01-10,Sarah Moore,sarah.moore@outlook.com,clothing,Winter Coat,3.0,127.71,5.0,4.16,west,paypal,pending,False,368.1335,Medium
+1010,101214,2025-05-31,Sara Brown,sara.brown@outlook.com,beauty,Perfume 50ml,3.0,59.57,5.0,6.06,west,credit card,returned,False,175.8345,Small
+1011,100854,2025-04-30,Sana Brown,sana.brown@yahoo.com,home and kitchen,Blender,3.0,1846.48,15.0,13.05,north,credit card,pending,True,4721.5740000000005,Large
+1014,100804,2025-05-24,Ali Shah,ali.shah@gmail.com,sports and outdoors,Hiking Backpack,4.0,75.5,0.0,3.68,north,credit card,cancelled,False,305.68,Medium
+1015,101094,2025-06-04,David Ali,david.ali@outlook.com,clothing,Wool Sweater,4.0,0.01,0.0,11.03,west,credit card,completed,True,11.069999999999999,Small
+1016,101026,2025-01-14,Sana Sheikh,sana.sheikh@hotmail.com,beauty,Makeup Kit,1.0,38.28,0.0,2.82,east,credit card,completed,False,41.1,Small
+1018,100769,2025-05-19,Mariam Hussain,mariam.hussain@gmail.com,home and kitchen,Knife Set,8.0,39.12,0.0,11.39,west,credit card,completed,False,324.34999999999997,Medium
+1019,100960,2025-01-04,David Malik,david.malik@hotmail.com,home and kitchen,Air Fryer,1.0,87.57,0.0,9.19,south,paypal,cancelled,False,96.75999999999999,Small
+1020,101210,2025-02-17,Sara Wilson,sara.wilson@outlook.com,home and kitchen,Coffee Maker,4.0,72.2,10.0,11.57,east,paypal,cancelled,False,271.49,Medium
+1021,100813,2025-06-19,Amna Iqbal,amna.iqbal@yahoo.com,electronics,4K Monitor,7.0,288.98,0.0,8.47,south,credit card,completed,False,2031.3300000000002,Large
+1022,101149,2025-01-16,Mariam Wilson,mariam.wilson@outlook.com,sports and outdoors,Camping Tent,8.0,145.95,0.0,3.26,east,credit card,cancelled,False,1170.86,Large
+1023,100505,2025-04-14,Maria Ali,maria.ali@gmail.com,books,Sapiens,8.0,17.99,0.0,8.63,west,debit card,cancelled,False,152.54999999999998,Small
+1024,100891,2025-01-31,Zain Moore,zain.moore@gmail.com,sports and outdoors,Cycling Helmet,1.0,46.54,0.0,6.61,south,paypal,returned,False,53.15,Small
+1026,100615,2025-04-01,Nida Sheikh,nida.sheikh@yahoo.com,sports and outdoors,Dumbbell Set,4.0,87.35,0.0,10.64,east,cash on delivery,returned,False,360.03999999999996,Medium
+1027,100154,2025-04-06,David Miller,david.miller@outlook.com,beauty,Sunscreen SPF50,8.0,16.12,0.0,5.46,south,paypal,cancelled,False,134.42000000000002,Small
+1029,100322,2025-04-28,Imran Anderson,imran.anderson@yahoo.com,books,Deep Work,7.0,18.99,5.0,8.47,south,credit card,cancelled,False,134.75349999999997,Small
+1030,101109,2025-01-17,Mariam Thomas,mariam.thomas@hotmail.com,beauty,Sunscreen SPF50,2.0,15.45,67.6,7.9,south,cash on delivery,returned,False,17.9116,Small
+1031,100082,2025-06-22,Omar Brown,omar.brown@outlook.com,home and kitchen,Cookware Set,4.0,120.45,0.0,4.14,south,credit card,returned,False,485.94,Medium
+1032,100512,2025-06-03,Emily Anderson,emily.anderson@yahoo.com,books,The Pragmatic Programmer,4.0,38.5,0.0,10.25,west,cash on delivery,cancelled,False,164.25,Small
+1033,101093,2025-01-17,James Wilson,james.wilson@yahoo.com,clothing,Running Shoes,-3.0,86.96,5.0,-6.33,east,paypal,returned,False,-254.166,Small
+1034,100929,2025-04-16,Zain Raza,zain.raza@outlook.com,home and kitchen,Air Fryer,4.0,90.42,0.0,7.83,south,cash on delivery,returned,False,369.51,Medium
+1035,101170,2025-03-13,Ahmed Miller,ahmed.miller@hotmail.com,beauty,Face Serum,5.0,21.39,0.0,11.23,west,credit card,completed,False,118.18,Small
+1038,100032,2025-06-10,Michael Sheikh,michael.sheikh@hotmail.com,sports and outdoors,Dumbbell Set,5.0,84.04,20.0,9.2,north,paypal,completed,False,345.36000000000007,Medium
+1039,100413,2025-04-05,Bilal Anderson,bilal.anderson@hotmail.com,beauty,Shampoo 500ml,5.0,12.04,0.0,5.62,south,cash on delivery,completed,False,65.82,Small
+1040,100580,2025-02-22,Sana Sheikh,sana.sheikh@gmail.com,beauty,Perfume 50ml,5.0,51.23,0.0,5.54,west,cash on delivery,completed,False,261.69,Medium
+1041,101110,2025-03-27,James Raza,james.raza@hotmail.com,books,Deep Work,5.0,17.2,5.0,8.17,west,debit card,cancelled,False,89.87,Small
+1043,100614,2025-05-20,Fatima Taylor,fatima.taylor@yahoo.com,books,Atomic Habits,4.0,16.77,5.0,5.3,east,debit card,cancelled,False,69.026,Small
+1044,101014,2025-06-14,Mariam Ahmed,mariam.ahmed@yahoo.com,home and kitchen,Cookware Set,4.0,124.56,5.0,11.78,west,debit card,completed,False,485.10799999999995,Medium
+1045,100089,2025-02-06,Mariam Anderson,mariam.anderson@gmail.com,home and kitchen,Air Fryer,5.0,94.55,0.0,9.06,west,debit card,pending,False,481.81,Medium
+1046,101216,2025-03-14,Zain Johnson,zain.johnson@yahoo.com,home and kitchen,Vacuum Cleaner,5.0,156.85,20.0,8.15,east,debit card,pending,False,635.5500000000001,Large
+1047,100601,2025-04-27,James Taylor,james.taylor@hotmail.com,clothing,Wool Sweater,4.0,44.66,15.0,6.67,south,credit card,pending,False,158.51399999999998,Small
+1048,100133,2025-04-03,David Thomas,david.thomas@outlook.com,books,Python Crash Course,1.0,31.04,20.0,6.01,east,debit card,returned,False,30.842,Small
+1049,100555,2025-05-23,Emily Johnson,emily.johnson@hotmail.com,home and kitchen,Knife Set,-4.0,43.59,20.0,5.91,east,cash on delivery,completed,False,-133.57800000000003,Small
+1050,101031,2025-06-18,James Shah,james.shah@hotmail.com,clothing,Winter Coat,4.0,116.0,0.0,5.65,south,credit card,completed,False,469.65,Medium
+1052,101262,2025-01-21,Emily Davis,emily.davis@outlook.com,home and kitchen,Coffee Maker,1.0,76.38,20.0,7.01,west,credit card,pending,False,68.114,Small
+1053,101242,2025-04-29,Hina Wilson,hina.wilson@hotmail.com,home and kitchen,Air Fryer,1.0,96.23,0.0,9.9,south,debit card,completed,False,106.13000000000001,Small
+1054,100634,2025-04-27,Kamran Smith,kamran.smith@outlook.com,clothing,Denim Jacket,1.0,59.11,0.0,4.77,east,paypal,completed,False,63.879999999999995,Small
+1055,100230,2025-01-14,Zain Malik,zain.malik@outlook.com,home and kitchen,Blender,6.0,49.4,0.0,9.17,north,paypal,cancelled,False,305.57,Medium
+1056,101055,2025-02-24,Kamran Wilson,kamran.wilson@outlook.com,books,Deep Work,4.0,19.31,0.0,6.14,south,debit card,completed,False,83.38,Small
+1057,101116,2025-08-05,Hina Thomas,hina.thomas@hotmail.com,electronics,Laptop Stand,2.0,25.07,15.0,10.48,south,paypal,cancelled,False,53.099000000000004,Small
+1058,100796,2025-05-10,James Miller,james.miller@gmail.com,sports and outdoors,Cycling Helmet,1.0,46.49,0.0,7.87,north,cash on delivery,cancelled,False,54.36,Small
+1059,101192,2025-03-04,Fatima Shah,fatima.shah@outlook.com,home and kitchen,Vacuum Cleaner,-3.0,161.48,5.0,3.99,north,credit card,pending,False,-456.2279999999999,Small
+1060,100174,2025-03-01,Sarah Khan,sarah.khan@hotmail.com,books,The Pragmatic Programmer,3.0,34.84,0.0,9.03,east,paypal,cancelled,False,113.55000000000001,Small
+1061,100766,2025-04-01,Laura Wilson,laura.wilson@outlook.com,home and kitchen,Air Fryer,2.0,95.23,0.0,15.72,south,credit card,pending,False,206.18,Medium
+1062,100245,2025-04-05,Hina Wilson,hina.wilson@hotmail.com,electronics,Smart Watch,1.0,138.77,5.0,12.38,east,credit card,cancelled,False,144.2115,Small
+1064,100145,2025-04-03,Hassan Wilson,hassan.wilson@gmail.com,sports and outdoors,Camping Tent,1.0,139.62,0.0,-4.88,west,debit card,returned,False,134.74,Small
+1065,100090,2025-03-24,Michael Johnson,michael.johnson@gmail.com,beauty,Makeup Kit,5.0,40.1,10.0,5.84,north,cash on delivery,cancelled,False,186.29000000000002,Small
+1066,100682,2025-05-12,James Taylor,james.taylor@gmail.com,books,Deep Work,4.0,20.81,0.0,3.86,north,credit card,completed,False,87.1,Small
+1067,100310,2025-04-22,Laura Butt,laura.butt@hotmail.com,electronics,USB-C Hub,8.0,33.47,10.0,11.39,west,debit card,completed,False,252.37400000000002,Medium
+1068,100093,2025-06-15,Faisal Johnson,faisal.johnson@yahoo.com,home and kitchen,Blender,3.0,48.08,0.0,8.78,west,paypal,cancelled,False,153.02,Small
+1070,100924,2025-01-19,David Anderson,david.anderson@gmail.com,home and kitchen,Coffee Maker,2.0,2495.86,5.0,7.27,north,paypal,cancelled,True,4749.404,Large
+1072,101035,2025-06-30,Nida Brown,nida.brown@yahoo.com,home and kitchen,Knife Set,7.0,39.85,0.0,10.28,north,credit card,completed,False,289.22999999999996,Medium
+1073,100243,2025-05-26,Emily Iqbal,emily.iqbal@hotmail.com,electronics,Webcam HD,8.0,47.57,5.0,4.93,north,debit card,cancelled,False,366.462,Medium
+1074,100214,2025-05-30,David Anderson,david.anderson@hotmail.com,clothing,Denim Jacket,5.0,54.18,0.0,7.14,north,credit card,cancelled,False,278.03999999999996,Medium
+1075,100998,2025-08-05,David Iqbal,david.iqbal@hotmail.com,home and kitchen,Cookware Set,5.0,138.98,0.0,12.88,west,debit card,pending,False,707.78,Large
+1076,100853,2025-04-20,Zainab Anderson,zainab.anderson@yahoo.com,electronics,4K Monitor,4.0,302.16,10.0,12.47,west,paypal,returned,False,1100.246,Large
+1077,100425,2025-05-10,Faisal Brown,faisal.brown@gmail.com,sports and outdoors,Cycling Helmet,4.0,48.45,15.0,6.88,south,paypal,completed,False,171.61,Small
+1078,101319,2025-05-15,Nida Moore,nida.moore@gmail.com,sports and outdoors,Dumbbell Set,8.0,87.16,0.0,11.93,east,paypal,completed,False,709.2099999999999,Large
+1079,100226,2025-04-20,Hassan Wilson,hassan.wilson@outlook.com,books,Deep Work,7.0,16.55,0.0,8.82,east,debit card,completed,False,124.67000000000002,Small
+1080,101168,2025-03-23,Usman Taylor,usman.taylor@hotmail.com,beauty,Sunscreen SPF50,3.0,17.31,5.0,9.34,south,credit card,pending,False,58.67349999999999,Small
+1083,100529,2025-01-30,Fatima Khan,fatima.khan@gmail.com,home and kitchen,Knife Set,3.0,37.65,0.0,9.02,south,paypal,completed,False,121.96999999999998,Small
+1085,100114,2025-03-12,David Moore,david.moore@yahoo.com,clothing,Winter Coat,8.0,121.86,0.0,9.83,west,debit card,cancelled,False,984.71,Large
+1086,100670,2025-09-06,Michael Khan,michael.khan@hotmail.com,books,The Pragmatic Programmer,6.0,36.95,0.0,4.67,north,paypal,completed,False,226.37,Medium
+1087,101095,2025-01-25,Hassan Khan,hassan.khan@hotmail.com,books,The Pragmatic Programmer,2.0,32.61,0.0,6.78,east,credit card,completed,False,72.0,Small
+1088,100889,2025-01-29,John Ahmed,john.ahmed@hotmail.com,clothing,Denim Jacket,7.0,58.72,0.0,6.8,east,cash on delivery,completed,False,417.84,Medium
+1089,100625,2025-05-17,Omar Taylor,omar.taylor@outlook.com,beauty,Perfume 50ml,6.0,57.39,5.0,6.15,west,paypal,pending,False,333.27299999999997,Medium
+1090,100952,2025-05-04,Fatima Brown,fatima.brown@outlook.com,books,Deep Work,2.0,19.22,5.0,12.73,north,credit card,completed,False,49.24799999999999,Small
+1091,100807,2025-05-03,Ayesha Hussain,ayesha.hussain@yahoo.com,electronics,Laptop Stand,7.0,22.66,0.0,12.65,east,cash on delivery,returned,False,171.27,Small
+1092,100258,2025-03-07,Laura Taylor,laura.taylor@gmail.com,books,Python Crash Course,2.0,31.1,0.0,9.02,north,credit card,completed,False,71.22,Small
+1093,100624,2025-05-14,Maria Miller,maria.miller@yahoo.com,home and kitchen,Cookware Set,1.0,132.8,0.0,8.71,north,cash on delivery,completed,False,141.51000000000002,Small
+1094,100826,2025-03-14,Omar Ahmed,omar.ahmed@yahoo.com,beauty,Face Serum,4.0,23.03,0.0,8.64,west,credit card,returned,False,100.76,Small
+1095,100234,2025-06-14,Maria Smith,maria.smith@gmail.com,beauty,Makeup Kit,7.0,40.62,0.0,10.86,east,credit card,pending,False,295.2,Medium
+1096,100135,2025-05-28,Usman Raza,usman.raza@gmail.com,home and kitchen,Vacuum Cleaner,2.0,164.23,0.0,11.39,west,cash on delivery,completed,False,339.84999999999997,Medium
+1097,100616,2025-03-26,Maria Smith,maria.smith@gmail.com,sports and outdoors,Dumbbell Set,5.0,89.19,0.0,1.89,east,credit card,completed,False,447.84,Medium
+1098,100836,2025-05-15,Ali Shah,ali.shah@gmail.com,clothing,Cotton T-Shirt,7.0,15.68,5.0,9.08,south,cash on delivery,completed,False,113.35199999999999,Small
+1099,100842,2025-02-23,Ahmed Sheikh,ahmed.sheikhyahoo.com,home and kitchen,Knife Set,2.0,36.39,0.0,10.05,north,paypal,completed,False,82.83,Small
+1100,100959,2025-03-12,Hina Moore,hina.moore@gmail.com,home and kitchen,Blender,4.0,50.28,0.0,4.03,north,credit card,returned,False,205.15,Medium
+1101,100592,2025-03-04,Michael Thomas,michael.thomas@hotmail.com,beauty,Perfume 50ml,7.0,53.75,5.0,4.11,north,credit card,pending,False,361.5475,Medium
+1102,100343,2025-06-08,John Khan,john.khan@hotmail.com,sports and outdoors,Dumbbell Set,5.0,92.76,5.0,6.91,east,credit card,returned,False,447.52000000000004,Medium
+1103,101194,2025-06-19,Hina Iqbal,hina.iqbal@hotmail.com,electronics,4K Monitor,8.0,289.1,0.0,14.1,south,cash on delivery,cancelled,False,2326.9,Large
+1104,100293,2025-03-17,John Smith,john.smith@gmail.com,clothing,Wool Sweater,1.0,44.89,0.0,4.98,east,credit card,returned,False,49.870000000000005,Small
+1105,100364,2025-03-01,Emily Khan,emily.khan@hotmail.com,clothing,Denim Jacket,7.0,55.8,10.0,9.96,west,credit card,cancelled,False,361.49999999999994,Medium
+1106,100178,2025-02-21,Nida Brown,nida.brown@outlook.com,beauty,Face Serum,7.0,22.48,0.0,8.39,south,credit card,completed,False,165.75,Small
+1107,100659,2025-01-13,Ayesha Butt,ayesha.butt@gmail.com,clothing,Running Shoes,4.0,80.41,0.0,3.98,north,credit card,pending,False,325.62,Medium
+1108,100996,2025-04-19,Amna Raza,amna.raza@hotmail.com,electronics,Bluetooth Speaker,1.0,60.77,0.0,6.66,north,debit card,cancelled,False,67.43,Small
+1109,100014,2025-01-07,Faisal Miller,faisal.miller@hotmail.com,sports and outdoors,Water Bottle,6.0,13.34,10.0,8.7,south,paypal,completed,False,80.736,Small
+1110,100165,2025-03-22,Kamran Shah,kamran.shah@gmail.com,clothing,Running Shoes,4.0,76.58,0.0,9.84,east,cash on delivery,returned,False,316.15999999999997,Medium
+1111,100059,2025-05-30,Anna Thomas,anna.thomas@yahoo.com,electronics,Bluetooth Speaker,7.0,64.73,10.0,7.64,east,paypal,cancelled,False,415.439,Medium
+1113,100676,2025-03-01,Amna Miller,amna.miller@hotmail.com,electronics,4K Monitor,5.0,288.98,10.0,3.58,north,credit card,completed,False,1303.99,Large
+1114,100780,2025-06-18,John Butt,john.buttyahoo.com,clothing,Cotton T-Shirt,6.0,15.78,0.0,12.44,north,paypal,pending,False,107.11999999999999,Small
+1115,100424,2025-07-01,Hina Malik,hina.malik@gmail.com,home and kitchen,Cookware Set,-3.0,134.29,0.0,9.78,east,paypal,returned,False,-393.09000000000003,Small
+1116,100292,2025-06-04,Sana Smith,sana.smith@outlook.com,electronics,Bluetooth Speaker,8.0,0.01,0.0,6.25,south,credit card,completed,False,6.33,Small
+1117,101065,2025-02-14,Sarah Anderson,sarah.anderson@gmail.com,sports and outdoors,Hiking Backpack,8.0,73.69,0.0,7.38,west,debit card,cancelled,False,596.9,Large
+1119,100329,2025-02-27,Fatima Ali,fatima.ali@outlook.com,clothing,Cotton T-Shirt,6.0,15.32,15.0,253.17,north,debit card,completed,False,331.302,Medium
+1120,100429,2025-05-28,Zainab Moore,zainab.moore@yahoo.com,beauty,Sunscreen SPF50,3.0,14.38,0.0,8.18,north,cash on delivery,pending,False,51.32,Small
+1121,101012,2025-05-29,John Khan,john.khan@outlook.com,books,Atomic Habits,1.0,15.95,0.0,11.27,east,cash on delivery,returned,False,27.22,Small
+1122,100079,2025-03-23,John Hussain,john.hussain@yahoo.com,sports and outdoors,Yoga Mat,1.0,24.08,5.0,1.56,west,credit card,returned,False,24.435999999999996,Small
+1123,101052,2025-01-31,Amna Khan,amna.khan@hotmail.com,beauty,Shampoo 500ml,6.0,13.59,0.0,3.63,east,debit card,cancelled,False,85.16999999999999,Small
+1124,100937,2025-06-27,John Malik,john.malik@yahoo.com,clothing,Winter Coat,5.0,121.66,0.0,6.29,east,cash on delivery,pending,False,614.5899999999999,Large
+1125,100834,2025-03-13,David Hussain,david.hussain@gmail.com,books,Python Crash Course,8.0,31.84,0.0,8.47,south,credit card,pending,False,263.19,Medium
+1126,100749,2025-01-05,Hina Shah,hina.shah@hotmail.com,beauty,Face Serum,3.0,24.07,0.0,6.14,east,credit card,returned,False,78.35000000000001,Small
+1127,100890,2025-04-18,Amna Ali,amna.ali@outlook.com,sports and outdoors,Cycling Helmet,1.0,44.38,0.0,6.03,south,debit card,completed,False,50.410000000000004,Small
+1128,100254,2025-12-06,Faisal Malik,faisal.malik@hotmail.com,beauty,Makeup Kit,6.0,40.01,15.0,4.95,north,paypal,pending,False,209.00099999999998,Medium
+1130,101108,2025-06-20,Kamran Brown,kamran.brown@yahoo.com,electronics,Laptop Stand,1.0,25.34,15.0,8.19,west,cash on delivery,completed,False,29.729,Small
+1131,100136,2025-02-10,John Thomas,john.thomas@gmail.com,sports and outdoors,Cycling Helmet,1.0,44.62,0.0,6.82,north,credit card,pending,False,51.44,Small
+1132,100852,2025-03-07,Ayesha Ali,ayesha.ali@hotmail.com,beauty,Makeup Kit,7.0,40.77,0.0,1.7,south,debit card,cancelled,False,287.09000000000003,Medium
+1133,100723,2025-06-14,Amna Johnson,amna.johnson@hotmail.com,sports and outdoors,Hiking Backpack,-3.0,74.35,0.0,2.87,north,cash on delivery,pending,False,-220.17999999999998,Small
+1134,100859,2025-04-04,James Hussain,james.hussain@hotmail.com,clothing,Wool Sweater,2.0,43.15,0.0,11.8,west,debit card,returned,False,98.1,Small
+1135,100969,2025-02-26,Mariam Iqbal,mariam.iqbal@gmail.com,home and kitchen,Knife Set,4.0,42.03,0.0,6.77,south,cash on delivery,completed,False,174.89000000000001,Small
+1136,100496,2025-03-17,Maria Hussain,maria.hussain@yahoo.com,electronics,Laptop Stand,6.0,26.09,0.0,8.99,west,cash on delivery,completed,False,165.53,Small
+1137,100950,2025-03-01,Omar Ali,omar.ali@yahoo.com,books,Python Crash Course,1.0,29.06,5.0,10.93,east,debit card,completed,False,38.53699999999999,Small
+1138,100805,2025-07-04,Emily Iqbal,emily.iqbal@gmail.com,sports and outdoors,Yoga Mat,5.0,26.38,0.0,5.77,west,paypal,returned,False,137.67000000000002,Small
+1139,100129,2025-04-16,Michael Anderson,michael.anderson@gmail.com,home and kitchen,Air Fryer,3.0,82.78,0.0,3.2,east,credit card,completed,False,251.54,Medium
+1140,100337,2025-02-06,Kamran Brown,kamran.brown@hotmail.com,home and kitchen,Air Fryer,2.0,0.01,5.0,6.88,east,paypal,completed,False,6.899,Small
+1141,101284,2025-06-12,Anna Ahmed,anna.ahmed@gmail.com,clothing,Wool Sweater,4.0,46.32,0.0,3.94,south,credit card,pending,False,189.22,Small
+1142,100608,2025-05-05,Zain Khan,zain.khan@gmail.com,electronics,Bluetooth Speaker,3.0,61.44,0.0,1.68,east,credit card,completed,False,186.0,Small
+1143,100195,2025-02-07,Usman Anderson,usman.anderson@outlook.com,books,Sapiens,3.0,18.54,0.0,11.74,north,cash on delivery,cancelled,False,67.36,Small
+1144,100909,2025-04-15,Faisal Johnson,faisal.johnson@outlook.com,books,The Pragmatic Programmer,7.0,35.19,0.0,9.31,north,paypal,completed,False,255.64,Medium
+1145,100584,2025-03-02,Ali Raza,ali.raza@yahoo.com,books,Python Crash Course,3.0,29.25,0.0,5.68,west,cash on delivery,completed,False,93.43,Small
+1146,100103,2025-05-25,Amna Taylor,amna.taylor@hotmail.com,home and kitchen,Cookware Set,8.0,129.59,5.0,7.0,south,cash on delivery,returned,False,991.884,Large
+1147,101323,2025-03-26,Emily Shah,emily.shah@outlook.com,electronics,USB-C Hub,3.0,32.25,5.0,8.7,west,cash on delivery,completed,False,100.6125,Small
+1148,101337,2025-02-02,Bilal Iqbal,bilal.iqbal@hotmail.com,clothing,Wool Sweater,2.0,48.87,15.0,7.66,north,cash on delivery,cancelled,False,90.73899999999999,Small
+1150,100884,2025-06-14,Sana Khan,sana.khan@outlook.com,sports and outdoors,Dumbbell Set,1.0,85.23,0.0,8.49,north,credit card,cancelled,False,93.72,Small
+1151,100776,2025-05-08,David Davis,david.davis@yahoo.com,sports and outdoors,Cycling Helmet,3.0,46.15,10.0,240.14,north,credit card,returned,False,364.745,Medium
+1152,100849,2025-01-28,Fatima Davis,fatima.davis@gmail.com,clothing,Formal Shirt,4.0,34.14,0.0,14.06,south,credit card,completed,False,150.62,Small
+1153,100894,2025-02-04,Zain Raza,zain.raza@gmail.com,clothing,Wool Sweater,6.0,46.01,0.0,7.34,west,cash on delivery,pending,False,283.4,Medium
+1154,100227,2025-06-26,Anna Sheikh,anna.sheikh@outlook.com,sports and outdoors,Yoga Mat,2.0,24.1,0.0,10.51,west,cash on delivery,completed,False,58.71,Small
+1155,101347,2025-06-05,Sara Ahmed,sara.ahmed@outlook.com,beauty,Makeup Kit,6.0,37.1,5.0,7.55,north,debit card,cancelled,False,219.02,Medium
+1156,100126,2025-05-27,Ali Shah,ali.shah@hotmail.com,books,Sapiens,1.0,20.83,0.0,14.98,north,cash on delivery,pending,False,35.81,Small
+1157,100405,2025-05-31,Emily Sheikh,emily.sheikh@gmail.com,sports and outdoors,Hiking Backpack,3.0,68.28,10.0,-5.86,south,paypal,pending,False,178.49599999999998,Small
+1158,100775,2025-04-01,Fatima Johnson,fatima.johnson@outlook.com,clothing,Formal Shirt,7.0,36.98,0.0,0.85,west,debit card,returned,False,259.71,Medium
+1159,100821,2025-06-18,Zain Malik,zain.malik@gmail.com,beauty,Makeup Kit,1.0,37.47,10.0,7.54,south,debit card,pending,False,41.263,Small
+1160,100711,2025-03-12,Hina Smith,hina.smith@yahoo.com,clothing,Running Shoes,3.0,84.26,0.0,15.01,south,credit card,completed,False,267.79,Medium
+1161,101351,2025-05-07,Laura Anderson,laura.anderson@outlook.com,home and kitchen,Air Fryer,3.0,91.68,0.0,6.84,west,credit card,returned,False,281.88,Medium
+1162,101060,2025-05-20,Laura Moore,laura.moore@gmail.com,beauty,Face Serum,7.0,21.86,0.0,5.86,east,debit card,completed,False,158.88,Small
+1163,101163,2025-05-05,Ali Thomas,ali.thomas@yahoo.com,home and kitchen,Knife Set,2.0,37.57,0.0,7.15,west,paypal,completed,False,82.29,Small
+1164,100303,2025-04-06,Nida Hussain,nida.hussain@yahoo.com,clothing,Running Shoes,2.0,73.85,0.0,8.31,north,debit card,pending,False,156.01,Small
+1165,100267,2025-01-06,Zainab Thomas,zainab.thomas@hotmail.com,beauty,Face Serum,7.0,22.82,0.0,4.25,west,credit card,completed,False,163.99,Small
+1166,100545,2025-02-14,Anna Sheikh,anna.sheikh@hotmail.com,home and kitchen,Vacuum Cleaner,7.0,159.85,5.0,11.25,east,paypal,cancelled,False,1074.2525,Large
+1167,100212,2025-04-01,Amna Anderson,amna.anderson@outlook.com,beauty,Perfume 50ml,6.0,58.74,0.0,0.76,west,credit card,completed,False,353.2,Medium
+1168,100896,2025-02-10,Amna Iqbal,amna.iqbal@outlook.com,beauty,Perfume 50ml,1.0,55.38,0.0,7.28,north,credit card,completed,False,62.660000000000004,Small
+1169,100916,2025-02-10,Kamran Iqbal,kamran.iqbal@gmail.com,books,Sapiens,2.0,21.15,0.0,6.59,north,credit card,cancelled,False,48.89,Small
+1170,100675,2025-01-05,Hassan Malik,hassan.malikyahoo.com,home and kitchen,Cookware Set,8.0,130.09,20.0,8.39,west,debit card,cancelled,False,840.966,Large
+1171,100814,2025-04-20,Fatima Shah,fatima.shah@gmail.com,electronics,Webcam HD,3.0,45.69,10.0,9.71,south,paypal,pending,False,133.073,Small
+1172,100342,2025-01-05,Kamran Davis,kamran.davis@outlook.com,clothing,Formal Shirt,2.0,35.58,15.0,9.23,north,credit card,cancelled,False,69.716,Small
+1173,100549,2025-02-20,Emily Raza,emily.raza@gmail.com,sports and outdoors,Yoga Mat,2.0,25.06,0.0,11.51,north,credit card,pending,False,61.629999999999995,Small
+1174,100966,2025-06-12,Maria Malik,maria.malik@yahoo.com,electronics,Laptop Stand,1.0,24.16,20.0,4.37,north,credit card,completed,False,23.698000000000004,Small
+1175,100295,2025-03-29,Omar Iqbal,omar.iqbal@gmail.com,clothing,Winter Coat,3.0,108.24,0.0,7.34,west,credit card,completed,False,332.05999999999995,Medium
+1176,100695,2025-03-11,Robert Ali,robert.ali@outlook.com,clothing,Running Shoes,4.0,81.54,0.0,8.48,west,paypal,completed,False,334.64000000000004,Medium
+1177,100073,2025-03-04,Sara Hussain,sara.hussain@gmail.com,clothing,Wool Sweater,4.0,46.2,15.0,-7.54,south,credit card,pending,False,149.54000000000002,Small
+1178,100605,2025-04-22,Sara Khan,sara.khan@gmail.com,books,Atomic Habits,2.0,17.81,20.0,2.08,west,credit card,completed,False,30.576,Small
+1179,100104,2025-03-02,Imran Johnson,imran.johnson@yahoo.com,clothing,Denim Jacket,5.0,63.89,15.0,13.2,south,credit card,completed,False,284.73249999999996,Medium
+1180,100645,2025-01-19,Ayesha Butt,ayesha.butt@outlook.com,electronics,Wireless Earbuds,8.0,36.55,0.0,8.47,south,cash on delivery,cancelled,False,300.87,Medium
+1181,101007,2025-05-22,Sana Brown,sana.brown@yahoo.com,sports and outdoors,Hiking Backpack,5.0,73.69,15.0,1.87,north,cash on delivery,pending,False,315.0525,Medium
+1182,101040,2025-01-16,Sana Iqbal,sana.iqbal@yahoo.com,home and kitchen,Knife Set,6.0,40.66,0.0,10.06,south,cash on delivery,cancelled,False,254.01999999999998,Medium
+1183,100439,2025-03-29,Hina Smith,hina.smith@outlook.com,sports and outdoors,Camping Tent,3.0,153.02,0.0,13.51,east,paypal,completed,False,472.57000000000005,Medium
+1184,101019,2025-04-28,Kamran Brown,kamran.brown@yahoo.com,electronics,USB-C Hub,7.0,34.86,5.0,4.59,west,debit card,completed,False,236.40899999999996,Medium
+1185,100091,2025-01-22,John Miller,john.miller@yahoo.com,books,Deep Work,4.0,19.29,0.0,16.44,north,debit card,cancelled,False,93.6,Small
+1186,101112,2025-02-05,Imran Khan,imran.khan@yahoo.com,clothing,Denim Jacket,8.0,56.75,0.0,6.96,east,paypal,completed,False,460.96,Medium
+1187,101294,2025-03-26,Rabia Johnson,rabia.johnson@hotmail.com,sports and outdoors,Dumbbell Set,4.0,95.55,0.0,8.17,east,paypal,pending,False,390.37,Medium
+1188,100908,2025-02-05,James Wilson,james.wilson@outlook.com,sports and outdoors,Cycling Helmet,8.0,47.89,0.0,8.54,east,credit card,cancelled,False,391.66,Medium
+1189,100102,2025-02-14,Maria Ali,maria.ali@hotmail.com,home and kitchen,Blender,5.0,46.16,0.0,7.01,north,debit card,returned,False,237.80999999999997,Medium
+1190,100238,2025-02-06,Ali Hussain,ali.hussain@hotmail.com,electronics,Bluetooth Speaker,1.0,56.9,0.0,11.15,south,cash on delivery,returned,False,68.05,Small
+1192,100942,2025-04-26,Ahmed Hussain,ahmed.hussain@yahoo.com,books,Sapiens,3.0,20.67,0.0,8.03,north,debit card,returned,False,70.04,Small
+1193,100938,2025-05-27,Fatima Brown,fatima.brown@yahoo.com,electronics,4K Monitor,5.0,280.79,0.0,6.74,west,debit card,pending,False,1410.69,Large
+1194,101181,2025-11-03,Mariam Hussain,mariam.hussain@hotmail.com,beauty,Sunscreen SPF50,4.0,15.78,0.0,12.82,south,debit card,cancelled,False,75.94,Small
+1197,100965,2025-04-04,Sana Anderson,sana.anderson@gmail.com,books,Atomic Habits,5.0,16.94,0.0,6.09,west,credit card,completed,False,90.79,Small
+1199,100121,2025-06-26,Ali Iqbal,ali.iqbal@yahoo.com,beauty,Perfume 50ml,7.0,52.62,0.0,8.47,south,credit card,completed,False,376.81,Medium
+1200,100661,2025-04-06,Michael Taylor,michael.taylor@outlook.com,beauty,Perfume 50ml,1.0,59.32,0.0,11.39,west,credit card,completed,False,70.71000000000001,Small
+1201,101208,2025-03-01,James Malik,james.malik@yahoo.com,home and kitchen,Blender,6.0,52.62,5.0,14.07,north,debit card,completed,False,314.00399999999996,Medium
+1202,100274,2025-03-30,Ahmed Johnson,ahmed.johnson@yahoo.com,electronics,Webcam HD,2.0,45.53,5.0,8.76,east,paypal,cancelled,False,95.26700000000001,Small
+1203,100433,2025-04-16,Hassan Ahmed,hassan.ahmed@outlook.com,home and kitchen,Blender,4.0,50.63,20.0,3.27,west,credit card,completed,False,165.28600000000003,Small
+1204,100811,2025-05-29,Sana Taylor,sana.taylor@gmail.com,clothing,Denim Jacket,1.0,56.94,0.0,7.27,west,credit card,returned,False,64.21,Small
+1205,101338,2025-03-05,Faisal Iqbal,faisal.iqbal@outlook.com,electronics,Webcam HD,2.0,49.46,10.0,7.04,north,paypal,cancelled,False,96.06800000000001,Small
+1206,101352,2025-03-07,Ahmed Davis,ahmed.davis@outlook.com,electronics,Bluetooth Speaker,8.0,62.59,0.0,9.77,east,paypal,returned,False,510.49,Large
+1207,100181,2025-02-23,Amna Thomas,amna.thomas@outlook.com,home and kitchen,Air Fryer,5.0,82.94,0.0,11.39,west,credit card,completed,False,426.09,Medium
+1208,100184,2025-01-26,Usman Moore,usman.moore@gmail.com,clothing,Winter Coat,5.0,118.91,5.0,7.52,north,debit card,completed,False,572.3424999999999,Large
+1209,100406,2025-04-26,Anna Wilson,anna.wilson@hotmail.com,clothing,Cotton T-Shirt,8.0,0.01,0.0,2.57,north,paypal,returned,True,2.65,Small
+1210,100865,2025-04-29,Hina Anderson,hina.anderson@hotmail.com,beauty,Face Serum,7.0,21.14,0.0,11.71,north,cash on delivery,completed,False,159.69000000000003,Small
+1211,100520,2025-06-21,Fatima Butt,fatima.butt@outlook.com,books,Sapiens,5.0,20.8,0.0,6.82,north,credit card,completed,False,110.82,Small
+1212,101003,2025-04-01,Rabia Smith,rabia.smithgmail.com,beauty,Makeup Kit,3.0,39.46,0.0,2.08,east,paypal,completed,False,120.46,Small
+1213,100380,2025-04-25,Sana Moore,sana.moore@outlook.com,books,Atomic Habits,6.0,18.08,0.0,8.11,east,paypal,returned,False,116.58999999999999,Small
+1214,100427,2025-03-26,James Shah,james.shah@yahoo.com,beauty,Face Serum,7.0,22.3,5.0,9.09,south,credit card,completed,False,157.385,Small
+1215,100078,2025-05-09,Hina Smith,hina.smith@yahoo.com,beauty,Perfume 50ml,1.0,53.37,0.0,11.62,west,credit card,completed,False,64.99,Small
+1216,101009,2025-04-10,Faisal Wilson,faisal.wilson@gmail.com,clothing,Formal Shirt,6.0,33.66,0.0,8.04,south,credit card,completed,False,209.99999999999997,Medium
+1218,100607,2025-01-06,Rabia Miller,rabia.miller@hotmail.com,books,The Pragmatic Programmer,7.0,34.18,0.0,10.8,north,cash on delivery,returned,False,250.06,Medium
+1219,101273,2025-05-16,James Moore,james.moore@gmail.com,beauty,Makeup Kit,3.0,40.36,10.0,7.1,west,paypal,completed,False,116.07199999999999,Small
+1221,101305,2025-07-04,Zainab Smith,zainab.smith@hotmail.com,beauty,Perfume 50ml,5.0,53.2,0.0,9.19,west,credit card,cancelled,False,275.19,Medium
+1222,101057,2025-04-17,Zain Ahmed,zain.ahmedoutlook.com,electronics,Wireless Earbuds,8.0,41.37,10.0,8.12,north,credit card,completed,False,305.984,Medium
+1223,101091,2025-05-15,Maria Miller,maria.miller@yahoo.com,clothing,Wool Sweater,8.0,44.4,0.0,10.88,east,cash on delivery,completed,False,366.08,Medium
+1224,101101,2025-11-01,Sana Thomas,sana.thomas@yahoo.com,sports and outdoors,Yoga Mat,3.0,28.85,15.0,9.45,west,paypal,pending,False,83.01750000000001,Small
+1226,101260,2025-02-18,Ayesha Wilson,ayesha.wilson@gmail.com,clothing,Cotton T-Shirt,1.0,14.94,0.0,-9.13,west,credit card,returned,False,5.809999999999999,Small
+1227,100958,2025-03-18,Nida Wilson,nida.wilson@yahoo.com,beauty,Sunscreen SPF50,3.0,15.45,0.0,2.31,west,debit card,cancelled,False,48.66,Small
+1229,100846,2025-06-16,Bilal Raza,bilal.raza@gmail.com,electronics,Smart Watch,3.0,157.83,15.0,12.09,east,credit card,cancelled,False,414.55649999999997,Medium
+1230,100690,2025-01-02,Fatima Malik,fatima.malik@hotmail.com,home and kitchen,Knife Set,6.0,41.92,0.0,9.59,north,debit card,returned,False,261.11,Medium
+1232,101336,2025-04-22,Laura Sheikh,laura.sheikh@outlook.com,sports and outdoors,Cycling Helmet,8.0,45.8,0.0,10.06,east,debit card,completed,False,376.46,Medium
+1233,100436,2025-01-31,Ayesha Wilson,ayesha.wilson@hotmail.com,clothing,Wool Sweater,1.0,44.43,20.0,5.01,north,credit card,completed,False,40.554,Small
+1234,100490,2025-02-22,Hassan Thomas,hassan.thomas@yahoo.com,clothing,Formal Shirt,5.0,32.61,0.0,2.7,east,paypal,cancelled,False,165.75,Small
+1236,101315,2025-01-05,Omar Iqbal,omar.iqbal@yahoo.com,home and kitchen,Coffee Maker,8.0,74.57,0.0,7.83,east,credit card,pending,False,604.39,Large
+1237,100069,2025-06-04,Sarah Khan,sarah.khan@yahoo.com,books,Python Crash Course,5.0,28.73,0.0,5.37,north,credit card,returned,False,149.02,Small
+1238,100808,2025-02-15,Fatima Anderson,fatima.anderson@hotmail.com,sports and outdoors,Yoga Mat,6.0,24.45,0.0,11.4,west,debit card,completed,False,158.1,Small
+1239,101184,2025-05-30,Zain Sheikh,zain.sheikh@hotmail.com,clothing,Wool Sweater,3.0,44.4,10.0,7.24,east,debit card,completed,False,127.11999999999999,Small
+1241,100144,2025-04-20,James Butt,james.butt@gmail.com,clothing,Formal Shirt,7.0,34.36,0.0,13.16,north,credit card,pending,False,253.67999999999998,Medium
+1242,100917,2025-10-01,Hina Ali,hina.ali@yahoo.com,clothing,Winter Coat,2.0,118.99,10.0,4.84,north,debit card,cancelled,False,219.022,Medium
+1243,100639,2025-06-29,Rabia Shah,rabia.shah@hotmail.com,home and kitchen,Vacuum Cleaner,1.0,164.4,10.0,11.57,east,cash on delivery,cancelled,False,159.53,Small
+1244,100176,2025-04-29,Imran Malik,imran.malik@gmail.com,electronics,USB-C Hub,1.0,37.84,0.0,5.34,south,paypal,cancelled,False,43.18000000000001,Small
+1245,100994,2025-01-21,Maria Shah,maria.shah@gmail.com,books,The Pragmatic Programmer,4.0,34.77,15.0,14.9,north,paypal,pending,False,133.118,Small
+1247,100521,2025-06-19,Kamran Khan,kamran.khan@gmail.com,electronics,Bluetooth Speaker,2.0,60.41,5.0,4.56,east,paypal,pending,False,119.33899999999998,Small
+1249,101004,2025-02-26,Robert Raza,robert.raza@outlook.com,sports and outdoors,Dumbbell Set,5.0,94.76,0.0,11.39,west,debit card,returned,False,485.19,Medium
+1250,101234,2025-03-02,Zainab Sheikh,zainab.sheikh@hotmail.com,sports and outdoors,Yoga Mat,6.0,23.88,5.0,5.66,south,cash on delivery,pending,False,141.77599999999998,Small
+1251,100143,2025-09-03,Imran Brown,imran.brown@gmail.com,books,Atomic Habits,3.0,16.49,5.0,5.34,east,credit card,pending,False,52.3365,Small
+1252,100753,2025-12-06,Hassan Iqbal,hassan.iqbal@outlook.com,electronics,4K Monitor,3.0,288.98,0.0,8.74,south,credit card,returned,False,875.6800000000001,Large
+1253,100519,2025-06-24,Kamran Taylor,kamran.taylor@outlook.com,books,Python Crash Course,1.0,29.05,0.0,10.31,north,debit card,completed,False,39.36,Small
+1254,100822,2025-02-08,Anna Davis,anna.davis@gmail.com,clothing,Wool Sweater,2.0,42.32,0.0,9.31,north,credit card,completed,False,93.95,Small
+1255,100428,2025-05-01,Hina Malik,hina.malik@gmail.com,electronics,Webcam HD,3.0,45.49,5.0,1.49,north,credit card,pending,False,131.1365,Small
+1257,101032,2025-05-21,Maria Taylor,maria.taylor@yahoo.com,clothing,Winter Coat,8.0,0.01,0.0,11.99,east,credit card,pending,True,12.07,Small
+1258,100156,2025-05-19,Anna Wilson,anna.wilson@outlook.com,home and kitchen,Coffee Maker,6.0,67.07,0.0,1.78,south,debit card,pending,False,404.19999999999993,Medium
+1259,100539,2025-05-31,Maria Thomas,maria.thomas@outlook.com,beauty,Shampoo 500ml,5.0,12.02,0.0,-2.67,north,credit card,completed,False,57.42999999999999,Small
+1260,100461,2025-03-30,Bilal Thomas,bilal.thomas@outlook.com,sports and outdoors,Yoga Mat,1.0,26.52,0.0,7.05,west,debit card,completed,False,33.57,Small
+1261,100576,2025-07-06,Amna Johnson,amna.johnson@hotmail.com,home and kitchen,Coffee Maker,-2.0,73.94,0.0,5.18,south,credit card,returned,False,-142.7,Small
+1263,100979,2025-03-05,Omar Khan,omar.khan@outlook.com,home and kitchen,Air Fryer,6.0,95.29,10.0,5.73,north,cash on delivery,pending,False,520.296,Large
+1264,101185,2025-06-25,Sara Ali,sara.ali@yahoo.com,electronics,Wireless Earbuds,7.0,39.57,0.0,9.74,east,paypal,completed,False,286.73,Medium
+1265,101006,2025-05-09,John Thomas,john.thomas@hotmail.com,sports and outdoors,Water Bottle,1.0,297.56,0.0,6.11,south,credit card,returned,True,303.67,Medium
+1266,100560,2025-05-24,Sarah Wilson,sarah.wilson@hotmail.com,books,The Pragmatic Programmer,6.0,33.72,0.0,3.5,south,cash on delivery,completed,False,205.82,Medium
+1267,100208,2025-04-29,Ahmed Taylor,ahmed.taylor@hotmail.com,sports and outdoors,Cycling Helmet,4.0,42.1,10.0,8.72,south,credit card,pending,False,160.28,Small
+1268,100910,2025-01-18,John Davis,john.davis@yahoo.com,beauty,Shampoo 500ml,6.0,11.89,10.0,-4.21,south,credit card,completed,False,59.996,Small
+1270,100269,2025-02-22,Anna Anderson,anna.anderson@outlook.com,home and kitchen,Air Fryer,6.0,89.44,0.0,11.18,south,debit card,returned,False,547.8199999999999,Large
+1271,100265,2025-08-01,Sara Hussain,sara.hussainoutlook.com,clothing,Cotton T-Shirt,4.0,15.66,0.0,8.75,south,credit card,completed,False,71.39,Small
+1272,100914,2025-10-05,Maria Iqbal,maria.iqbal@yahoo.com,clothing,Denim Jacket,3.0,64.17,0.0,9.94,north,debit card,completed,False,202.45,Medium
+1275,101119,2025-06-05,Ali Raza,ali.raza@gmail.com,books,The Pragmatic Programmer,4.0,35.28,0.0,1.22,east,credit card,completed,False,142.34,Small
+1277,100864,2025-05-20,Amna Johnson,amna.johnson@gmail.com,home and kitchen,Vacuum Cleaner,8.0,177.26,0.0,10.14,west,paypal,returned,False,1428.22,Large
+1278,101066,2025-01-08,Zainab Wilson,zainab.wilson@outlook.com,sports and outdoors,Hiking Backpack,3.0,73.58,5.0,6.28,west,credit card,pending,False,215.983,Medium
+1279,100873,2025-06-01,Hassan Johnson,hassan.johnson@gmail.com,books,Deep Work,6.0,20.56,0.0,5.95,north,credit card,returned,False,129.30999999999997,Small
+1281,100398,2025-02-03,Kamran Butt,kamran.butt@gmail.com,clothing,Formal Shirt,4.0,34.74,0.0,480.66,east,credit card,completed,False,619.62,Large
+1282,101308,2025-01-01,Zain Hussain,zain.hussain@yahoo.com,beauty,Sunscreen SPF50,2.0,16.62,5.0,3.7,west,cash on delivery,completed,False,35.278,Small
+1283,100045,2025-06-11,Faisal Malik,faisal.malik@gmail.com,beauty,Makeup Kit,1.0,37.96,5.0,10.51,west,debit card,completed,False,46.571999999999996,Small
+1284,100161,2025-05-05,Laura Wilson,laura.wilson@gmail.com,home and kitchen,Vacuum Cleaner,3.0,162.62,0.0,8.02,west,credit card,completed,False,495.88,Medium
+1285,100991,2025-06-19,Zainab Malik,zainab.malik@outlook.com,sports and outdoors,Camping Tent,8.0,165.22,0.0,11.08,south,debit card,returned,False,1332.84,Large
+1287,100629,2025-04-17,Ayesha Khan,ayesha.khan@outlook.com,beauty,Makeup Kit,4.0,39.08,0.0,1.98,west,cash on delivery,returned,False,158.29999999999998,Small
+1291,100575,2025-02-24,Anna Khan,anna.khan@yahoo.com,clothing,Denim Jacket,6.0,55.8,0.0,13.77,east,credit card,completed,False,348.56999999999994,Medium
+1292,100850,2025-06-12,Usman Moore,usman.moore@gmail.com,electronics,4K Monitor,5.0,264.83,5.0,2.96,north,paypal,pending,False,1260.9025,Large
+1293,100911,2025-11-05,James Smith,james.smith@gmail.com,clothing,Cotton T-Shirt,7.0,14.11,20.0,13.18,east,cash on delivery,returned,False,92.196,Small
+1294,101254,2025-06-18,Hina Johnson,hina.johnson@gmail.com,electronics,Bluetooth Speaker,2.0,58.66,0.0,8.91,east,debit card,returned,False,126.22999999999999,Small
+1295,101301,2025-01-26,Faisal Malik,faisal.malikhotmail.com,clothing,Formal Shirt,8.0,32.16,0.0,3.22,north,credit card,cancelled,False,260.5,Medium
+1296,100932,2025-04-12,Nida Iqbal,nida.iqbal@hotmail.com,clothing,Running Shoes,4.0,84.39,5.0,6.28,east,paypal,cancelled,False,326.96199999999993,Medium
+1297,101100,2025-05-16,Hina Thomas,hina.thomas@gmail.com,sports and outdoors,Yoga Mat,8.0,27.57,15.0,10.93,north,debit card,completed,False,198.406,Small
+1298,101207,2025-12-06,Ahmed Miller,ahmed.miller@outlook.com,home and kitchen,Vacuum Cleaner,5.0,162.62,0.0,5.35,west,debit card,cancelled,False,818.45,Large
+1299,100247,2025-03-17,Amna Wilson,amna.wilson@outlook.com,books,Atomic Habits,4.0,16.04,5.0,8.17,west,cash on delivery,completed,False,69.12199999999999,Small
+1300,100476,2025-04-06,Laura Iqbal,laura.iqbal@gmail.com,beauty,Perfume 50ml,5.0,52.48,0.0,9.31,north,paypal,returned,False,271.71,Medium
+1301,100085,2025-05-18,Faisal Iqbal,faisal.iqbal@yahoo.com,beauty,Shampoo 500ml,7.0,13.03,0.0,476.29,west,credit card,completed,False,567.5,Large
+1302,100469,2025-03-23,Rabia Hussain,rabia.hussain@yahoo.com,electronics,Smart Watch,8.0,145.64,0.0,8.77,east,credit card,cancelled,False,1173.8899999999999,Large
+1303,100225,2025-10-04,David Ahmed,david.ahmed@gmail.com,sports and outdoors,Camping Tent,1.0,137.87,15.0,6.43,east,credit card,cancelled,False,123.61949999999999,Small
+1304,100774,2025-06-04,Zain Ahmed,zain.ahmed@hotmail.com,sports and outdoors,Water Bottle,3.0,12.81,0.0,11.77,west,paypal,pending,False,50.2,Small
+1305,100331,2025-03-18,David Davis,david.davis@gmail.com,sports and outdoors,Camping Tent,4.0,139.46,10.0,7.09,east,debit card,returned,False,509.146,Large
+1306,100233,2025-02-23,Michael Iqbal,michael.iqbal@outlook.com,clothing,Denim Jacket,1.0,59.11,5.0,6.73,north,paypal,cancelled,False,62.8845,Small
+1307,100588,2025-01-01,Ali Hussain,ali.hussain@gmail.com,books,The Pragmatic Programmer,7.0,32.93,5.0,6.11,south,cash on delivery,completed,False,225.09449999999998,Medium
+1308,100475,2025-03-27,David Anderson,david.anderson@yahoo.com,beauty,Shampoo 500ml,4.0,12.22,0.0,12.09,east,credit card,completed,False,60.97,Small
+1310,100599,2025-03-05,Zainab Sheikh,zainab.sheikh@yahoo.com,beauty,Sunscreen SPF50,4.0,15.98,0.0,9.31,north,credit card,returned,False,73.23,Small
+1311,100421,2025-06-04,Michael Khan,michael.khan@outlook.com,books,Sapiens,5.0,21.73,0.0,11.0,east,paypal,cancelled,False,119.65,Small
+1312,100182,2025-10-01,Laura Ali,laura.ali@outlook.com,sports and outdoors,Camping Tent,5.0,158.6,0.0,5.64,north,cash on delivery,pending,False,798.64,Large
+1313,100988,2025-04-01,Maria Sheikh,maria.sheikh@outlook.com,books,The Pragmatic Programmer,4.0,38.4,0.0,7.92,west,credit card,pending,False,161.51999999999998,Small
+1314,101000,2025-03-05,Faisal Iqbal,faisal.iqbal@yahoo.com,clothing,Denim Jacket,8.0,0.01,0.0,14.99,east,credit card,completed,True,15.07,Small
+1315,100049,2025-04-25,Sara Brown,sara.brown@gmail.com,books,Sapiens,7.0,19.85,10.0,8.47,north,credit card,pending,False,133.52500000000003,Small
+1316,101343,2025-02-09,Amna Thomas,amna.thomas@yahoo.com,books,Python Crash Course,1.0,29.3,0.0,9.78,east,cash on delivery,pending,False,39.08,Small
+1317,101029,2025-05-13,Zain Taylor,zain.taylor@hotmail.com,books,Sapiens,8.0,20.73,20.0,9.31,north,paypal,returned,False,141.982,Small
+1320,100486,2025-05-11,Ahmed Anderson,ahmed.anderson@outlook.com,beauty,Makeup Kit,-2.0,39.76,0.0,8.27,west,debit card,completed,False,-71.25,Small
+1321,100497,2025-05-17,Mariam Taylor,mariam.taylor@yahoo.com,clothing,Running Shoes,3.0,80.7,0.0,7.93,south,credit card,completed,False,250.03000000000003,Medium
+1322,100106,2025-06-26,Omar Sheikh,omar.sheikh@hotmail.com,home and kitchen,Vacuum Cleaner,2.0,163.5,10.0,7.11,west,debit card,cancelled,False,301.41,Medium
+1323,100443,2025-05-16,Mariam Taylor,mariam.taylor@yahoo.com,beauty,Sunscreen SPF50,8.0,16.76,0.0,3.23,west,credit card,completed,False,137.31,Small
+1324,100646,2025-03-21,Faisal Smith,faisal.smith@hotmail.com,sports and outdoors,Yoga Mat,1.0,26.61,0.0,12.81,west,debit card,returned,False,39.42,Small
+1325,101036,2025-05-19,Ahmed Taylor,ahmed.taylor@outlook.com,clothing,Running Shoes,8.0,80.52,0.0,5.56,east,cash on delivery,pending,False,649.7199999999999,Large
+1326,100726,2025-01-15,Laura Khan,laura.khan@yahoo.com,books,Atomic Habits,4.0,17.27,0.0,9.44,west,debit card,pending,False,78.52,Small
+1327,100190,2025-08-04,Michael Johnson,michael.johnson@hotmail.com,books,Atomic Habits,7.0,16.23,87.5,12.09,east,debit card,returned,False,26.291249999999998,Small
+1330,100169,2025-02-18,David Butt,david.butt@hotmail.com,electronics,Smart Watch,3.0,135.06,10.0,12.09,south,debit card,returned,False,376.752,Medium
+1331,101001,2025-06-13,Ayesha Malik,ayesha.malik@outlook.com,sports and outdoors,Dumbbell Set,7.0,93.68,0.0,11.75,south,credit card,cancelled,False,667.51,Large
+1332,101204,2025-06-25,Bilal Miller,bilal.miller@yahoo.com,electronics,4K Monitor,-4.0,283.27,0.0,8.4,west,cash on delivery,returned,False,-1124.6799999999998,Small
+1335,100495,2025-05-27,Hina Brown,hina.brown@hotmail.com,books,Sapiens,7.0,20.32,0.0,5.57,east,credit card,returned,False,147.81,Small
+1336,100647,2025-04-13,David Johnson,david.johnson@outlook.com,books,Atomic Habits,1.0,16.96,0.0,5.97,west,debit card,pending,False,22.93,Small
+1337,100987,2025-01-21,Zain Sheikh,zain.sheikh@gmail.com,home and kitchen,Air Fryer,3.0,92.38,0.0,8.55,west,credit card,completed,False,285.69,Medium
+1338,100044,2025-09-04,Anna Smith,anna.smith@hotmail.com,beauty,Shampoo 500ml,6.0,12.37,0.0,3.59,east,credit card,pending,False,77.81,Small
+1340,100373,2025-01-31,Maria Johnson,maria.johnson@hotmail.com,clothing,Winter Coat,2.0,120.6,10.0,11.4,south,debit card,returned,False,228.48,Medium
+1341,100678,2025-03-27,Sana Brown,sana.brown@outlook.com,clothing,Running Shoes,5.0,78.08,20.0,6.52,south,credit card,cancelled,False,318.84,Medium
+1342,100566,2025-01-17,Sarah Sheikh,sarah.sheikh@gmail.com,books,Atomic Habits,8.0,15.93,0.0,6.6,south,credit card,cancelled,False,134.04,Small
+1343,100847,2025-01-02,Faisal Butt,faisal.butt@outlook.com,electronics,Laptop Stand,4.0,25.76,88.5,9.22,west,debit card,cancelled,False,21.0696,Small
+1344,100460,2025-06-29,Mariam Ali,mariam.alihotmail.com,books,Sapiens,6.0,20.17,10.0,12.42,west,credit card,cancelled,False,121.33800000000001,Small
+1345,101155,2025-03-14,Ayesha Ali,ayesha.ali@yahoo.com,beauty,Perfume 50ml,2.0,58.74,10.0,12.26,east,debit card,returned,False,117.992,Small
+1347,100434,2025-05-19,Zainab Hussain,zainab.hussain@yahoo.com,home and kitchen,Coffee Maker,2.0,67.68,77.8,8.16,south,paypal,completed,False,38.20992,Small
+1348,100973,2025-02-04,Emily Taylor,emily.taylor@hotmail.com,books,The Pragmatic Programmer,2.0,0.01,0.0,11.39,west,debit card,pending,False,11.41,Small
+1349,101239,2025-02-26,Hina Hussain,hina.hussain@yahoo.com,sports and outdoors,Cycling Helmet,8.0,46.72,0.0,9.37,west,credit card,pending,False,383.13,Medium
+1351,100456,2025-06-16,Omar Smith,omar.smith@yahoo.com,clothing,Cotton T-Shirt,6.0,15.27,20.0,11.99,south,credit card,pending,False,85.286,Small
+1352,100260,2025-01-01,Mariam Anderson,mariam.anderson@yahoo.com,sports and outdoors,Yoga Mat,3.0,23.39,5.0,8.47,south,paypal,completed,False,75.1315,Small
+1354,100827,2025-03-17,Amna Brown,amna.brown@yahoo.com,electronics,Laptop Stand,6.0,25.94,0.0,13.45,north,debit card,pending,False,169.09,Small
+1355,100309,2025-12-04,Fatima Sheikh,fatima.sheikh@outlook.com,books,Sapiens,7.0,21.35,0.0,7.05,west,credit card,completed,False,156.50000000000003,Small
+1356,100276,2025-09-04,David Taylor,david.taylor@gmail.com,beauty,Makeup Kit,7.0,39.19,5.0,8.82,south,credit card,pending,False,269.4335,Medium
+1357,100636,2025-01-29,Sarah Taylor,sarah.taylor@outlook.com,beauty,Makeup Kit,-3.0,39.73,15.0,4.52,south,cash on delivery,completed,False,-96.7915,Small
+1358,100654,2025-03-15,Imran Brown,imran.brown@gmail.com,home and kitchen,Coffee Maker,7.0,65.78,5.0,6.24,east,cash on delivery,pending,False,443.677,Medium
+1359,100622,2025-01-23,Anna Malik,anna.malik@gmail.com,electronics,Bluetooth Speaker,6.0,56.74,-5.0,11.07,west,credit card,completed,False,368.532,Medium
+1360,100844,2025-03-13,Hina Hussain,hina.hussain@yahoo.com,home and kitchen,Coffee Maker,8.0,68.09,0.0,9.63,east,credit card,completed,False,554.35,Large
+1361,100393,2025-03-10,John Thomas,john.thomas@outlook.com,electronics,Laptop Stand,4.0,24.88,10.0,5.71,south,cash on delivery,completed,False,95.27799999999999,Small
+1362,100107,2025-03-05,John Anderson,john.anderson@outlook.com,beauty,Sunscreen SPF50,4.0,16.04,0.0,10.97,south,paypal,cancelled,False,75.13,Small
+1364,100524,2025-03-06,David Taylor,david.taylor@yahoo.com,beauty,Face Serum,4.0,23.02,5.0,-9.02,north,paypal,returned,False,78.456,Small
+1365,100784,2025-04-22,Sarah Anderson,sarah.anderson@gmail.com,sports and outdoors,Camping Tent,8.0,154.65,5.0,8.59,west,credit card,returned,False,1183.9299999999998,Large
+1366,100047,2025-06-06,Bilal Ali,bilal.ali@gmail.com,electronics,4K Monitor,3.0,275.64,0.0,8.8,south,paypal,pending,False,835.7199999999999,Large
+1367,100203,2025-02-22,Nida Shah,nida.shah@gmail.com,clothing,Denim Jacket,6.0,61.54,0.0,11.82,west,cash on delivery,completed,False,381.06,Medium
+1369,100402,2025-10-03,Usman Moore,usman.moore@hotmail.com,home and kitchen,Vacuum Cleaner,5.0,163.35,0.0,6.05,west,credit card,pending,False,822.8,Large
+1370,101107,2025-04-05,Sana Thomas,sana.thomas@gmail.com,books,The Pragmatic Programmer,5.0,35.28,0.0,10.73,west,credit card,returned,False,187.13,Small
+1371,101154,2025-02-24,Ahmed Khan,ahmed.khan@hotmail.com,sports and outdoors,Dumbbell Set,3.0,83.78,0.0,14.19,south,debit card,completed,False,265.53000000000003,Medium
+1372,100989,2025-02-13,John Wilson,john.wilson@yahoo.com,electronics,Wireless Earbuds,4.0,40.6,0.0,8.08,north,paypal,completed,False,170.48000000000002,Small
+1375,101147,2025-06-15,Emily Shah,emily.shah@hotmail.com,electronics,Wireless Earbuds,7.0,40.12,0.0,11.32,west,debit card,returned,False,292.15999999999997,Medium
+1378,100923,2025-01-23,Imran Taylor,imran.taylor@hotmail.com,clothing,Denim Jacket,4.0,54.53,0.0,10.48,west,credit card,completed,False,228.6,Medium
+1379,101043,2025-01-08,Zainab Thomas,zainab.thomas@outlook.com,books,The Pragmatic Programmer,3.0,35.64,15.0,5.99,west,paypal,pending,False,96.872,Small
+1381,101243,2025-03-24,James Hussain,james.hussain@hotmail.com,sports and outdoors,Water Bottle,5.0,13.17,0.0,5.79,west,paypal,pending,False,71.64,Small
+1382,100579,2025-01-27,Hina Davis,hina.davis@gmail.com,electronics,Webcam HD,8.0,42.67,0.0,10.74,east,debit card,pending,False,352.1,Medium
+1383,100481,2025-01-07,Michael Malik,michael.malik@yahoo.com,clothing,Formal Shirt,7.0,33.83,0.0,3.83,south,credit card,cancelled,False,240.64000000000001,Medium
+1384,100931,2025-04-24,Maria Brown,maria.brown@yahoo.com,electronics,Bluetooth Speaker,5.0,59.66,15.0,6.45,east,debit card,returned,False,260.00499999999994,Medium
+1385,100356,2025-02-01,Mariam Sheikh,mariam.sheikh@hotmail.com,beauty,Shampoo 500ml,3.0,11.72,10.0,8.47,south,debit card,completed,False,40.114000000000004,Small
+1386,101248,2025-06-27,James Iqbal,james.iqbal@gmail.com,books,Sapiens,4.0,20.62,0.0,6.9,north,debit card,cancelled,False,89.38000000000001,Small
+1387,100759,2025-07-03,Bilal Iqbal,bilal.iqbal@hotmail.com,beauty,Makeup Kit,-2.0,41.81,0.0,-1.19,west,credit card,completed,False,-84.81,Small
+1388,100092,2025-03-22,Ali Raza,ali.raza@yahoo.com,beauty,Face Serum,2.0,25.4,0.0,9.16,west,credit card,completed,False,59.959999999999994,Small
+1389,101175,2025-04-30,Faisal Taylor,faisal.taylor@outlook.com,sports and outdoors,Yoga Mat,4.0,25.47,0.0,3.38,east,debit card,pending,False,105.25999999999999,Small
+1390,101341,2025-05-08,Emily Ali,emily.ali@yahoo.com,home and kitchen,Coffee Maker,1.0,66.61,15.0,9.9,south,debit card,returned,False,66.5185,Small
+1392,100745,2025-01-01,Hina Johnson,hina.johnson@outlook.com,clothing,Wool Sweater,1.0,42.57,0.0,12.75,west,credit card,completed,False,55.32,Small
+1393,100279,2025-07-05,Amna Iqbal,amna.iqbal@hotmail.com,electronics,USB-C Hub,3.0,35.04,0.0,7.65,south,credit card,cancelled,False,112.77000000000001,Small
+1394,100764,2025-03-31,Zainab Sheikh,zainab.sheikh@yahoo.com,sports and outdoors,Hiking Backpack,4.0,73.39,0.0,9.34,north,credit card,pending,False,302.9,Medium
+1395,100604,2025-05-04,Michael Brown,michael.brown@outlook.com,sports and outdoors,Cycling Helmet,8.0,44.62,0.0,8.12,west,cash on delivery,completed,False,365.08,Medium
+1399,100400,2025-04-18,Rabia Thomas,rabia.thomas@yahoo.com,beauty,Shampoo 500ml,1.0,11.25,5.0,12.45,south,credit card,cancelled,False,23.1375,Small
+1400,100257,2025-01-05,Emily Miller,emily.miller@yahoo.com,beauty,Face Serum,1.0,23.5,0.0,9.91,east,cash on delivery,pending,False,33.41,Small
+1401,100944,2025-04-30,Ali Ali,ali.ali@yahoo.com,electronics,Webcam HD,3.0,42.16,20.0,12.09,east,debit card,cancelled,False,113.274,Small
+1402,101096,2025-04-26,Imran Malik,imran.malik@hotmail.com,books,Atomic Habits,2.0,16.12,0.0,8.83,east,cash on delivery,pending,False,41.07,Small
+1403,101219,2025-03-08,Rabia Raza,rabia.raza@outlook.com,sports and outdoors,Water Bottle,-1.0,12.84,0.0,5.28,south,credit card,pending,False,-7.56,Small
+1404,101161,2025-02-10,James Taylor,james.taylor@yahoo.com,books,Python Crash Course,2.0,31.3,0.0,10.2,east,credit card,cancelled,False,72.8,Small
+1405,100494,2025-03-24,Faisal Raza,faisal.raza@hotmail.com,home and kitchen,Blender,7.0,0.01,0.0,8.34,west,cash on delivery,returned,False,8.41,Small
+1406,100772,2025-03-03,Sarah Brown,sarah.brown@gmail.com,home and kitchen,Cookware Set,3.0,138.89,80.0,11.39,west,debit card,returned,False,94.72399999999998,Small
+1407,100550,2025-01-13,Faisal Thomas,faisal.thomas@hotmail.com,beauty,Shampoo 500ml,8.0,11.88,5.0,6.48,west,cash on delivery,returned,False,96.768,Small
+1408,100201,2025-05-29,Laura Taylor,laura.taylor@hotmail.com,beauty,Shampoo 500ml,2.0,11.22,0.0,6.44,west,cash on delivery,completed,False,28.880000000000003,Small
+1410,100290,2025-06-30,James Butt,james.butt@hotmail.com,sports and outdoors,Hiking Backpack,6.0,72.32,63.0,7.82,north,debit card,completed,False,168.3704,Small
+1411,101213,2025-05-26,Robert Sheikh,robert.sheikh@yahoo.com,sports and outdoors,Cycling Helmet,3.0,45.52,20.0,3.33,north,debit card,cancelled,False,112.578,Small
+1412,100763,2025-04-21,Nida Thomas,nida.thomas@gmail.com,home and kitchen,Vacuum Cleaner,2.0,162.89,10.0,14.83,east,credit card,pending,False,308.032,Medium
+1413,101136,2025-02-23,Sara Taylor,sara.taylor@yahoo.com,books,Python Crash Course,6.0,29.93,10.0,1.93,south,paypal,completed,False,163.552,Small
+1414,100949,2025-02-19,Bilal Taylor,bilal.taylor@outlook.com,sports and outdoors,Hiking Backpack,2.0,67.66,5.0,6.3,west,cash on delivery,completed,False,134.85399999999998,Small
+1415,100183,2025-06-02,Mariam Anderson,mariam.anderson@gmail.com,beauty,Sunscreen SPF50,4.0,14.64,10.0,8.74,east,debit card,completed,False,61.444,Small
+1417,101349,2025-02-23,Sara Hussain,sara.hussain@gmail.com,books,Sapiens,4.0,20.27,0.0,7.7,west,cash on delivery,pending,False,88.78,Small
+1419,101030,2025-04-06,Emily Johnson,emily.johnson@gmail.com,clothing,Formal Shirt,1.0,35.26,5.0,11.71,west,credit card,pending,False,45.207,Small
+1420,100250,2025-02-28,Anna Raza,anna.raza@gmail.com,clothing,Formal Shirt,2.0,32.16,0.0,11.01,west,cash on delivery,returned,False,75.33,Small
+1421,100823,2025-06-01,Zainab Sheikh,zainab.sheikh@yahoo.com,sports and outdoors,Yoga Mat,1.0,25.49,0.0,9.99,east,credit card,pending,False,35.48,Small
+1422,101099,2025-01-18,Hassan Hussain,hassan.hussaingmail.com,beauty,Makeup Kit,2.0,39.84,0.0,9.65,west,paypal,cancelled,False,89.33000000000001,Small
+1423,100940,2025-01-17,Rabia Khan,rabia.khan@hotmail.com,books,The Pragmatic Programmer,1.0,32.43,0.0,10.26,east,debit card,pending,False,42.69,Small
+1424,100391,2025-03-26,Ali Johnson,ali.johnson@outlook.com,sports and outdoors,Cycling Helmet,3.0,44.06,0.0,4.55,south,credit card,cancelled,False,136.73000000000002,Small
+1425,101092,2025-06-16,Rabia Miller,rabia.miller@hotmail.com,clothing,Formal Shirt,3.0,31.3,0.0,6.8,west,debit card,pending,False,100.7,Small
+1426,101191,2025-06-05,Robert Hussain,robert.hussain@outlook.com,home and kitchen,Coffee Maker,4.0,67.86,0.0,9.02,south,credit card,completed,False,280.46,Medium
+1427,100904,2025-03-18,John Smith,john.smith@yahoo.com,clothing,Formal Shirt,1.0,0.01,10.0,10.12,east,cash on delivery,completed,True,10.129,Small
+1428,100730,2025-01-23,Sarah Brown,sarah.brown@gmail.com,clothing,Cotton T-Shirt,1.0,15.18,0.0,14.03,east,credit card,pending,False,29.21,Small
+1429,100554,2025-04-04,Ali Smith,ali.smith@gmail.com,sports and outdoors,Water Bottle,7.0,14.54,0.0,7.69,west,credit card,completed,False,109.47,Small
+1430,100366,2025-02-03,Omar Taylor,omar.taylor@hotmail.com,home and kitchen,Knife Set,5.0,41.58,5.0,6.03,west,credit card,completed,False,203.53499999999997,Medium
+1431,100345,2025-05-07,Kamran Wilson,kamran.wilson@outlook.com,clothing,Formal Shirt,-2.0,36.82,20.0,8.61,west,credit card,completed,False,-50.30200000000001,Small
+1432,100535,2025-02-13,Hassan Hussain,hassan.hussain@hotmail.com,electronics,Webcam HD,1.0,42.72,0.0,12.07,south,debit card,cancelled,False,54.79,Small
+1434,101209,2025-01-10,John Hussain,john.hussain@hotmail.com,beauty,Shampoo 500ml,1.0,12.02,0.0,11.68,east,paypal,returned,False,23.7,Small
+1437,100211,2025-03-30,Ahmed Ali,ahmed.ali@gmail.com,sports and outdoors,Hiking Backpack,8.0,71.64,0.0,6.77,east,credit card,pending,False,579.89,Large
+1438,100502,2025-11-04,David Taylor,david.taylor@gmail.com,electronics,Smart Watch,3.0,148.4,0.0,1.68,south,debit card,cancelled,False,446.88000000000005,Medium
+1439,100537,2025-01-10,Amna Hussain,amna.hussain@gmail.com,beauty,Perfume 50ml,5.0,53.93,0.0,7.24,north,credit card,returned,False,276.89,Medium
+1440,101220,2025-02-23,David Wilson,david.wilson@gmail.com,sports and outdoors,Dumbbell Set,5.0,90.01,10.0,9.21,west,credit card,cancelled,False,414.255,Medium
+1441,100175,2025-04-28,Sana Butt,sana.butt@hotmail.com,beauty,Shampoo 500ml,8.0,12.39,0.0,10.69,north,cash on delivery,returned,False,109.81,Small
